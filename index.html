@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Coronavírus na Paraíba</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/covid_icon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,400,500,600,700" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="assets/vendor/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- Visualização de dados - Vega Lite -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.10.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.8.1"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.5.1"></script>
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header">
+
+    <div class="container">
+
+      <div class="logo float-left">
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <h1 class="text-light"><a href="#intro" class="scrollto"><span>COVID-19 PB</span></a></h1>
+        <!-- <a href="#header" class="scrollto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
+      </div>
+
+      <nav class="main-nav float-right d-none d-lg-block">
+        <ul>
+          <li><a href="#sessao_inicial">Início</a></li>
+          <li><a href="#sessao_mapas">Dados por mapas</a></li>
+          <li><a href="#sessao_dados_diarios">Dados diários</a></li>
+          <li><a href="#sessao_dados_pacientes">Dados dos pacientes</a></li>
+          <li><a href="#team">Time</a></li>
+          <li><a href="#footer">Contato</a></li>
+        </ul>
+      </nav><!-- .main-nav -->
+
+    </div>
+  </header><!-- #header -->
+
+  <!-- ======= Seção Inicial ======= -->
+  <section id="sessao_inicial" class="clearfix section-bg">
+    <div class="container d-flex h-100">
+      <div class="row justify-content-center align-self-center">
+        <div class="col-md-6 intro-info order-md-first order-last">
+          <h2>Visualização de dados<br>do coronavírus no estado da <span>Paraíba</span></h2>
+        </div>
+
+        <div class="col-md-6 intro-img order-md-last order-first">
+          <img src="assets/img/paraiba_mapa.svg" alt="" class="img-fluid">
+        </div>
+      </div>
+
+    </div>
+  </section><!-- Fim da Seção Inicial -->
+
+  <main id="main">
+
+  	<!-- ======= Seção de Dados Rápidos ======= -->
+    <section id="dados_rapidos" class="dados_rapidos">
+      <div class="container-fluid">
+
+        <header class="section-header">
+          <h3>Dados rápidos</h3>
+          <p>
+          	Última atualização: 28/03/2020 - 18h00min <br>
+          	Fonte: Secretaria de Saúde da Paraíba / G1 PB / Click PB
+          </p>
+
+        </header>
+
+      </div>
+
+      <div class="container">
+        <div class="row counters">
+
+          <div class="col-lg-2 col-6 text-center mx-auto">
+            <p>Casos descartados</p>
+            <span data-toggle="counter-up">348</span>
+          </div>
+
+          <div class="col-lg-2 col-6 text-center mx-auto">
+          	<p>Casos Suspeitos</p>
+            <span data-toggle="counter-up">49</span>
+          </div>
+
+          <div class="col-lg-2 col-6 text-center mx-auto">
+          	<p>Casos confirmados</p>
+            <span data-toggle="counter-up">14</span>
+          </div>
+
+          <div class="col-lg-2 col-6 text-center mx-auto">
+          	<p>Casos curados</p>
+            <span data-toggle="counter-up">3</span>
+          </div>
+
+          <div class="col-lg-2 col-6 text-center mx-auto">
+          	<p>Mortes</p>
+            <span data-toggle="counter-up">0</span>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- Fim da Seção de Dados Rápidos -->
+
+    <!-- ======= Seção de Mapas ======= -->
+    <section id="sessao_mapas" class="sessao_mapas section-bg">
+      <div class="container">
+
+        <header class="section-header">
+          <h3>Dados por mapas</h3>
+          <p>Casos confirmados por cidades da Paraíba</p>
+        </header>
+
+        <div class="row">
+
+        	<div id="visualizacao_cidades" class="mx-auto"></div>
+
+        	<script type="text/javascript">
+		      var viewCidades = {
+				  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+				  "title": "Mapa do coronavírus na Paraíba",
+				  "width": 700,
+				  "height": 400,
+				  "data": {
+				    "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/mapa_cidades_paraiba.json",
+				    "format": {
+				      "type": "topojson",
+				      "feature": "Munic"
+				    }
+				  },
+				  "transform": [
+				    {
+				      "lookup": "properties.codigo",
+				      "from": {
+				        "data": {
+				          "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorCidade.csv"
+				        },
+				        "key": "codigo",
+				        "fields": [
+				         "name","uf","codigo","meso","micro","casos_suspeitos","casos_confirmados","curados","mortes"
+				        ]
+				      }
+				    }
+				  ],
+				  "mark": {
+				  	"type": "geoshape",
+				  	"stroke": "white"
+				  },
+				  "encoding": {
+				    "color": {
+				      "field": "casos_confirmados",
+				      "type": "quantitative", 
+				      "title": "Casos confirmados",
+				       "scale": 
+				       {"range": ["#E4C9C8", "#CE8684", "#FF0000", "#000000"]}
+				    },
+				    "tooltip": [
+				      {
+				        "field": "properties.name",
+				        "type": "nominal",
+				        "title": "Município: "
+				      }, 
+				      {
+				        "field": "properties.uf",
+				        "type": "nominal",
+				        "title": "UF: "
+				      },
+				      {
+				        "field": "properties.meso",
+				        "type": "nominal",
+				        "title": "Mesorregião: "
+				      },
+				      {
+				        "field": "properties.micro",
+				        "type": "nominal",
+				        "title": "Microrregião: "
+				      },
+				      {
+				        "field": "casos_suspeitos",
+				        "type": "quantitative",
+				        "title": "Casos Suspeitos: "
+				      },
+				      {
+				        "field": "casos_confirmados",
+				        "type": "quantitative",
+				        "title": "Casos confirmados: "
+				      },
+				      {
+				        "field": "curados",
+				        "type": "quantitative",
+				        "title": "Curados: "
+				      },
+				      {
+				        "field": "mortes",
+				        "type": "quantitative",
+				        "title": "Mortes: "
+				      }
+				    ]
+				  }
+				};
+		      vegaEmbed('#visualizacao_cidades', viewCidades);
+		    </script>
+      </div>
+
+    </div>
+
+    </section><!-- Fim da Seção de Mapas -->
+
+    <!-- ======= Seção de Dicas ======= -->
+    <section id="sessao_dicas" class="sessao_dicas wow fadeInUp">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center text-lg-left">
+            <h3 class="cta-title">Fique em casa</h3>
+            <p class="cta-text"> Só saia de casa para resolver algo que é emergencial e escolha um familiar que não esteja no grupo de risco para comprar alimentos. Não esqueça de lavar as mãos assim que chegar em casa.</p>
+          </div>
+        </div>
+
+      </div>
+    </section><!--  Fim da Seção de Dicas -->
+
+    <!-- ======= Seção de dados diários ======= -->
+    <section id="sessao_dados_diarios" class="sessao_dados_diarios">
+      <div class="container">
+
+      	<header class="section-header">
+          <h3>Dados diários</h3>
+          <p>Evolução dos casos confirmados por dia na Paraíba</p>
+        </header>
+
+        <div class="row">
+
+        	<div id="visualizacao_diaria" class="mx-auto"></div>
+
+        	<script type="text/javascript">
+		      var viewDiaria = {
+					"$schema": "https://vega.github.io/schema/vega-lite/v3.json",
+  					"width": 400,
+				  	"height": 200,
+  					"data": {
+  						"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorData.csv",
+  						"format": {"type": "csv"}
+  					},
+  					"transform": [{"fold": ["novosCasos", "totalDeCasos"]}],
+
+
+  					"mark": {
+					    "type": "line",
+					    "point": {
+					      "filled": false,
+					      "fill": "white"
+					    }
+					},
+					"encoding": {
+					    "x": {
+					      "field": "data",
+					      "type": "nominal",
+					      "axis": {"title": "Data (em dias)", "grid": true}
+					    },
+					    "y": {
+					      "field": "value",
+					      "type": "quantitative",
+					      "axis": {"title": "Quantidade de casos", "grid": true}
+					  	},
+					    "color": {"field": "key", "type": "nominal", "title":"Tipos de casos"},
+					    "tooltip": [
+					    	{
+					    		"field": "value",
+					    		"type" : "quantitative",
+					    		"title" : "Quantidade de casos"
+					    	}
+					    ]
+					}
+				  
+				};
+		      vegaEmbed('#visualizacao_diaria', viewDiaria);
+		    </script>
+      </div>
+
+      </div>
+    </section><!-- Fim da Seção de dados diários -->
+
+    <!-- ======= Seção de dados dos pacientes ======= -->
+    <section id="sessao_dados_pacientes" class="sessao_dados_pacientes section-bg">
+      <div class="container">
+
+        <header class="section-header">
+          <h3 class="section-title">Dados dos pacientes</h3>
+        </header>
+
+        <div class="row">
+
+        	<div id="visualizacao_paciente_sexo" class="mx-auto"></div>
+
+          <script type="text/javascript">
+		        var viewPacienteSexo = {
+              "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+              "title": "Classificação dos pacientes por sexo dos casos confirmados",
+              "width": 400,
+              "height": 200,
+              "data": {
+                "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorPessoa.csv",
+              "format": {"type": "csv"}
+              },
+              "mark": "bar",
+              "encoding": {
+                "x": {
+                  "field": "sexo",
+                  "type": "nominal"
+                },
+                "y": {
+                  "aggregate": "count",
+                  "field": "sexo",
+                  "type": "quantitative",
+                  "title" : "Quantidade de casos"
+                },
+                "color": {
+                  "field": "sexo",
+                  "type": "nominal"
+                },
+                "tooltip": [
+                {
+                  "aggregate": "count",
+                  "field": "sexo",
+                  "type" : "quantitative",
+                  "title" : "Quantidade de pacientes"
+                }
+                ]
+              }
+            };
+            vegaEmbed('#visualizacao_paciente_sexo', viewPacienteSexo);
+          </script>
+
+        </div>
+
+        <br><br>
+
+        <div class="row">
+
+          <div id="visualizacao_paciente_idade" class="mx-auto"></div>
+
+            <script type="text/javascript">
+              var viewPacienteIdade = {
+                "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+                "title": "Classificação dos pacientes por idade dos casos confirmados",
+                "width": 500,
+                "height": 200,
+                "data": {
+                  "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorPessoa.csv",
+                  "format": {"type": "csv"}
+                },
+                "mark": "bar",
+                "encoding": {
+                  "x": {
+                    "bin": true,
+                    "field": "idade",
+                    "type": "quantitative",
+                    "title" : "idade"
+                  },
+                  "y": {
+                    "aggregate": "count",
+                    "type": "quantitative"
+                  },
+                  "tooltip": [
+                {
+                  "aggregate": "count",
+                  "field": "idade",
+                  "type" : "quantitative",
+                  "title" : "Quantidade de pacientes"
+                }
+                ]
+                }
+              };
+              vegaEmbed('#visualizacao_paciente_idade', viewPacienteIdade);
+            </script>
+        </div>
+
+
+
+      </div>
+
+    </section><!-- Fim da Seção de dados dos pacientes -->
+
+    <!-- ======= Seção do time ======= -->
+    <section id="team" class="team bg-white">
+      <div class="container">
+        <div class="section-header">
+          <h3>Time</h3>
+          <p>Um pouco sobre quem está por trás dessa iniciativa</p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6 wow fadeInUp mx-auto">
+            <div class="member">
+              <img src="assets/img/profile01.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Daniel Marques</h4>
+                  <span>Mestrando em ciência da computação</span>
+                  <div class="social">
+                    <a href="https://twitter.com/Daniel_MVG"><i class="fa fa-twitter"></i></a>
+                    <a href="https://br.linkedin.com/in/danielmarquesvg"><i class="fa fa-linkedin"></i></a>
+                    <a href="https://github.com/danielmarquesvg"><i class="fa fa-github"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 wow fadeInUp mx-auto" data-wow-delay="0.1s">
+            <div class="member">
+              <img src="assets/img/profile02.jpeg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Mateus Marques</h4>
+                  <span>Graduado em Direito</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- Fim da Seção do time -->
+
+    <!-- ======= Seção das fontes de informação ======= -->
+    <section id="clients" class="clients wow fadeInUp section-bg">
+      <div class="container">
+
+        <header class="section-header">
+          <h3>Fontes da nossa informação</h3>
+        </header>
+
+        <div class="owl-carousel clients-carousel">
+          <img src="assets/img/clients/secretaria_saude_pb.jpg" alt="">
+          <img src="assets/img/clients/g1_pb.png" alt="">
+          <img src="assets/img/clients/clickpb.jpg" alt="">
+        </div>
+
+      </div>
+    </section><!-- Fim da Seção das fontes de informação -->
+
+    <!-- ======= Seção FAQ ======= -->
+    <section id="faq" class="faq wow fadeInUp">
+      <div class="container">
+        <header class="section-header">
+          <h3>Perguntas frequentes</h3>
+          <p>E algumas dicas</p>
+        </header>
+
+        <ul id="faq-list" class="wow fadeInUp">
+          <li>
+            <a data-toggle="collapse" class="collapsed" href="#faq1">Qual o intervalo de tempo para atualizar as informações? <i class="ion-android-remove"></i></a>
+            <div id="faq1" class="collapse" data-parent="#faq-list">
+              <p>
+                Geralmente, iremos atualizar o site duas ou três vezes ao dia. Na seção de <b>dados rápidos</b>, colocamos o horário da última atualização do site.
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <a data-toggle="collapse" href="#faq2" class="collapsed">Onde os dados estão armazenados? <i class="ion-android-remove"></i></a>
+            <div id="faq2" class="collapse" data-parent="#faq-list">
+              <p>
+                Colocamos todos os dados em um repositório do Github e todos os dados também estão acessíveis a todos os cidadãos. Por favor, acesse o link abaixo: <a href="https://github.com/covid19pb/covid19pb.github.io/tree/master/data" target="_blank">repositório de dados</a>
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <a data-toggle="collapse" href="#faq3" class="collapsed">Qual framework é utilizado para visualização dos dados? <i class="ion-android-remove"></i></a>
+            <div id="faq3" class="collapse" data-parent="#faq-list">
+              <p>
+                Nós estamos utilizando o Vega-lite, que está disponível gratuitamente no link abaixo: <a href="https://vega.github.io/vega-lite/" target="_blank">vega-lite</a>
+              </p>
+            </div>
+          </li>
+
+        </ul>
+
+      </div>
+    </section><!-- Fim da Seção FAQ -->
+
+  </main><!-- End #main -->
+
+  	<!-- ======= Footer ======= -->
+	<footer id="footer" class="section-bg">
+		<div class="footer-top">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-4">
+						
+						<div class="footer-newsletter text-justify">
+              <h4>Um pouco sobre o projeto</h4>
+              <p>Lembramos a todos que o Covid19pb é um site independente de organizações públicas. Todas as informações publicadas no nosso site estarão acessíveis a todo cidadão neste <a href="https://github.com/covid19pb/covid19pb.github.io/tree/master/data">link</a></p>
+            </div>
+
+          </div>
+              		
+          <div class="col-lg-4">	
+
+          <div class="footer-links">
+            <h4>Como entrar em contato?</h4>
+              <p>
+                Daniel Marques <br>
+                <strong><a href="https://twitter.com/Daniel_MVG">Twitter</a></strong><br><br>
+                ou
+                <br>
+                <strong>Email:</strong> danielmarquesvg@gmail.com
+              </p>
+              <br>
+
+            </div>	
+					</div>
+
+					<div class="col-lg-4">
+						
+						<div class="footer-newsletter text-justify">
+              <h4>Alguns projetos interessantes sobre o coronavírus no Brasil</h4>
+
+              <p>Dr. em Ciências, Biólogo e explicador do mundo, Atila Iamarino, está fazendo um trabalho de conscientização no <a href="https://www.youtube.com/atilaiamarino">Youtube</a>, no <a href="https://twitter.com/oatila">Twitter</a> e também no <a href="https://www.instagram.com/oatila/?hl=pt-br">Instagram</a> </p>
+
+              <p>As criadoras do canal Peixe Babel, no Twitter, também estão dando uma cobertura especial sobre os dados do coronavírus no Brasil, vale a pena dar uma olhadinha no <a href="https://twitter.com/canalpeixebabel">Twitter</a></p>
+
+              <p>O Wesley Cota, doutorando pela Universidade Federal de Viçosa, está monitorando os dados do coronavírus a nível nacional, você pode acessar neste <a href="https://labs.wesleycota.com/sarscov2/br/">link</a></p>
+            </div>
+          </div>
+				</div>
+			</div>
+		</div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong>2020</strong>. Todos os direitos reservados
+      </div>
+      <div class="credits">
+        Design por <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+
+  </footer><!-- End  Footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/counterup/counterup.min.js"></script>
+  <script src="assets/vendor/venobox/venobox.min.js"></script>
+  <script src="assets/vendor/mobile-nav/mobile-nav.js"></script>
+  <script src="assets/vendor/wow/wow.min.js"></script>
+  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
