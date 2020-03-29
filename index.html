@@ -79,16 +79,19 @@
 
   <main id="main">
 
-  	<!-- ======= Seção de Dados Rápidos ======= -->
+    <!-- ======= Seção de Dados Rápidos ======= -->
     <section id="dados_rapidos" class="dados_rapidos">
       <div class="container-fluid-fluid">
 
         <header class="section-header">
           <h3>Dados rápidos</h3>
           <p>
-          	Última atualização: 29/03/2020 - 12h30min <br>
-          	Fonte: Secretaria de Saúde da Paraíba / G1 PB / Portal Correio / Click PB <br>
-            Acessos: <img src="https://hitwebcounter.com/counter/counter.php?page=7217284&style=0024&nbdigits=5&type=page&initCount=0" title="Quantidade de acessos" Alt="PHP Hits Count"   border="0" >
+            Última atualização: 29/03/2020 - 18h30min <br>
+            Fonte: Secretaria de Saúde da Paraíba / G1 PB / Portal Correio / Click PB <br>
+            Acessos: 
+            <!--
+            <img src="https://hitwebcounter.com/counter/counter.php?page=7217284&style=0024&nbdigits=5&type=page&initCount=0" title="Quantidade de acessos" Alt="PHP Hits Count"   border="0" >
+            -->
           </p>
 
         </header>
@@ -104,22 +107,22 @@
           </div>
 
           <div class="col-lg-2 col-6 text-center mx-auto">
-          	<p>Casos Suspeitos</p>
+            <p>Casos Suspeitos</p>
             <span data-toggle="counter-up">49</span>
           </div>
 
           <div class="col-lg-2 col-6 text-center mx-auto">
-          	<p>Casos confirmados</p>
+            <p>Casos confirmados</p>
             <span data-toggle="counter-up">14</span>
           </div>
 
           <div class="col-lg-2 col-6 text-center mx-auto">
-          	<p>Casos curados</p>
+            <p>Casos curados</p>
             <span data-toggle="counter-up">3</span>
           </div>
 
           <div class="col-lg-2 col-6 text-center mx-auto">
-          	<p>Mortes</p>
+            <p>Mortes</p>
             <span data-toggle="counter-up">0</span>
           </div>
 
@@ -139,94 +142,10 @@
 
         <div class="row">
 
-        	<div id="visualizacao_cidades" class="mx-auto"></div>
+            <div id="visualizacao_cidades" class="mx-auto"></div>
 
-        	<script type="text/javascript">
-		      var viewCidades = {
-				  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-				  "title": "Mapa do coronavírus na Paraíba",
-				  "width": 600,
-				  "height": 400,
-				  "data": {
-				    "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/mapa_cidades_paraiba.json",
-				    "format": {
-				      "type": "topojson",
-				      "feature": "Munic"
-				    }
-				  },
-				  "transform": [
-				    {
-				      "lookup": "properties.codigo",
-				      "from": {
-				        "data": {
-				          "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorCidade.csv"
-				        },
-				        "key": "codigo",
-				        "fields": [
-				         "name","uf","codigo","meso","micro","casos_suspeitos","casos_confirmados","curados","mortes"
-				        ]
-				      }
-				    }
-				  ],
-				  "mark": {
-				  	"type": "geoshape",
-				  	"stroke": "white"
-				  },
-				  "encoding": {
-				    "color": {
-				      "field": "casos_confirmados",
-				      "type": "quantitative", 
-				      "title": "Casos confirmados",
-				       "scale": 
-				       {"range": ["#fae7cb","#ffac41", "#ff1e56", "#323232", "#000000"]}
-				    },
-				    "tooltip": [
-				      {
-				        "field": "properties.name",
-				        "type": "nominal",
-				        "title": "Município: "
-				      }, 
-				      {
-				        "field": "properties.uf",
-				        "type": "nominal",
-				        "title": "UF: "
-				      },
-				      {
-				        "field": "properties.meso",
-				        "type": "nominal",
-				        "title": "Mesorregião: "
-				      },
-				      {
-				        "field": "properties.micro",
-				        "type": "nominal",
-				        "title": "Microrregião: "
-				      },
-				      {
-				        "field": "casos_suspeitos",
-				        "type": "quantitative",
-				        "title": "Casos Suspeitos: "
-				      },
-				      {
-				        "field": "casos_confirmados",
-				        "type": "quantitative",
-				        "title": "Casos confirmados: "
-				      },
-				      {
-				        "field": "curados",
-				        "type": "quantitative",
-				        "title": "Curados: "
-				      },
-				      {
-				        "field": "mortes",
-				        "type": "quantitative",
-				        "title": "Mortes: "
-				      }
-				    ]
-				  }
-				};
-		      vegaEmbed('#visualizacao_cidades', viewCidades);
-		    </script>
-      </div>
+            <script type="text/javascript" src="assets/js/visualizacao_cidades.js"></script>
+      	</div>
 
     </div>
 
@@ -238,7 +157,7 @@
         <div class="row">
           <div class="col-lg-12 text-center text-lg-left">
             <h3 class="cta-title">Aviso</h3>
-            <p class="cta-text"> Até às 12h30min do dia 29/03/2020, não foi emitido nenhum boletim da Secretaria de Saúde do Estado da Paraíba em relação aos dados do dia 29 de Março referentes ao coronavírus.</p>
+            <p class="cta-text"> Até às 18h30min do dia 29/03/2020, não foi emitido nenhum boletim da Secretaria de Saúde do Estado da Paraíba em relação aos dados do dia 29 de Março referentes ao coronavírus.</p>
           </div>
         </div>
 
@@ -249,60 +168,16 @@
     <section id="sessao_dados_diarios" class="sessao_dados_diarios">
       <div class="container-fluid">
 
-      	<header class="section-header">
+        <header class="section-header">
           <h3>Dados diários</h3>
           <p>Evolução dos casos confirmados por dia na Paraíba</p>
         </header>
 
         <div class="row">
-
-        	<div id="visualizacao_diaria" class="mx-auto"></div>
-
-        	<script type="text/javascript">
-		      var viewDiaria = {
-					"$schema": "https://vega.github.io/schema/vega-lite/v3.json",
-  					"width": 300,
-				  	"height": 200,
-  					"data": {
-  						"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorData.csv",
-  						"format": {"type": "csv"}
-  					},
-  					"transform": [{"fold": ["novosCasos", "totalDeCasos"]}],
-
-
-  					"mark": {
-					    "type": "line",
-					    "point": {
-					      "filled": false,
-					      "fill": "white"
-					    }
-					},
-					"encoding": {
-					    "x": {
-					      "field": "data",
-					      "type": "nominal",
-					      "axis": {"title": "Data (em dias)", "grid": true}
-					    },
-					    "y": {
-					      "field": "value",
-					      "type": "quantitative",
-					      "axis": {"title": "Quantidade de casos", "grid": true}
-					  	},
-					    "color": {"field": "key", "type": "nominal", "title":"Tipos de casos"},
-					    "tooltip": [
-					    	{
-					    		"field": "value",
-					    		"type" : "quantitative",
-					    		"title" : "Quantidade de casos"
-					    	}
-					    ]
-					}
-				  
-				};
-		      vegaEmbed('#visualizacao_diaria', viewDiaria);
-		    </script>
-      </div>
-
+            <div id="visualizacao_diaria" class="mx-auto"></div>
+            <script type="text/javascript" src="assets/js/visualizacao_diaria.js"></script>
+        </div>
+        
       </div>
     </section><!-- Fim da Seção de dados diários -->
 
@@ -316,46 +191,9 @@
 
         <div class="row">
 
-        	<div id="visualizacao_paciente_sexo" class="mx-auto"></div>
+            <div id="visualizacao_paciente_sexo" class="mx-auto"></div>
 
-          <script type="text/javascript">
-		        var viewPacienteSexo = {
-              "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-              "title": "Classificação dos pacientes por sexo dos casos confirmados",
-              "width": 300,
-              "height": 200,
-              "data": {
-                "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorPessoa.csv",
-              "format": {"type": "csv"}
-              },
-              "mark": "bar",
-              "encoding": {
-                "x": {
-                  "field": "sexo",
-                  "type": "nominal"
-                },
-                "y": {
-                  "aggregate": "count",
-                  "field": "sexo",
-                  "type": "quantitative",
-                  "title" : "Quantidade de casos"
-                },
-                "color": {
-                  "field": "sexo",
-                  "type": "nominal"
-                },
-                "tooltip": [
-                {
-                  "aggregate": "count",
-                  "field": "sexo",
-                  "type" : "quantitative",
-                  "title" : "Quantidade de pacientes"
-                }
-                ]
-              }
-            };
-            vegaEmbed('#visualizacao_paciente_sexo', viewPacienteSexo);
-          </script>
+          <script type="text/javascript" src="assets/js/visualizacao_paciente_sexo.js"></script>
 
         </div>
 
@@ -365,43 +203,19 @@
 
           <div id="visualizacao_paciente_idade" class="mx-auto"></div>
 
-            <script type="text/javascript">
-              var viewPacienteIdade = {
-                "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-                "title": "Classificação dos pacientes por idade dos casos confirmados",
-                "width": 300,
-                "height": 200,
-                "data": {
-                  "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorPessoa.csv",
-                  "format": {"type": "csv"}
-                },
-                "mark": "bar",
-                "encoding": {
-                  "x": {
-                    "bin": true,
-                    "field": "idade",
-                    "type": "quantitative",
-                    "title" : "idade"
-                  },
-                  "y": {
-                    "aggregate": "count",
-                    "type": "quantitative"
-                  },
-                  "tooltip": [
-                {
-                  "aggregate": "count",
-                  "field": "idade",
-                  "type" : "quantitative",
-                  "title" : "Quantidade de pacientes"
-                }
-                ]
-                }
-              };
-              vegaEmbed('#visualizacao_paciente_idade', viewPacienteIdade);
-            </script>
+          <script type="text/javascript" src="assets/js/visualizacao_paciente_idade.js"></script>
+        
         </div>
 
+        <br><br>
 
+        <div class="row">
+
+          <div id="visualizacao_facet_paciente_idade" class="mx-auto"></div>
+
+          <script type="text/javascript" src="assets/js/visualizacao_facet_paciente_idade.js"></script>
+        
+        </div>
 
       </div>
 
@@ -512,22 +326,22 @@
 
   </main><!-- End #main -->
 
-  	<!-- ======= Footer ======= -->
-	<footer id="footer" class="section-bg">
-		<div class="footer-top">
+    <!-- ======= Footer ======= -->
+    <footer id="footer" class="section-bg">
+        <div class="footer-top">
       <div class="container-fluid">
 
         <div class="row">
           <div class="col-lg-4">
-						
-						<div class="footer-newsletter text-justify">
+                        
+                        <div class="footer-newsletter text-justify">
               <h4>Um pouco sobre o projeto</h4>
               <p>Lembramos a todos que o Covid19pb é um site independente de organizações públicas. Todas as informações publicadas no nosso site estarão acessíveis a todo cidadão neste <a href="https://github.com/covid19pb/covid19pb.github.io/tree/master/data">link</a></p>
             </div>
 
           </div>
-              		
-          <div class="col-lg-4">	
+                    
+          <div class="col-lg-4">    
 
           <div class="footer-links">
             <h4>Como entrar em contato?</h4>
@@ -540,12 +354,12 @@
               </p>
               <br>
 
-            </div>	
-					</div>
+            </div>  
+                    </div>
 
-					<div class="col-lg-4">
-						
-						<div class="footer-newsletter text-justify">
+                    <div class="col-lg-4">
+                        
+                        <div class="footer-newsletter text-justify">
               <h4>Alguns projetos interessantes sobre o coronavírus no Brasil</h4>
 
               <p>Dr. em Ciências, Biólogo e explicador do mundo, Atila Iamarino, está fazendo um trabalho de conscientização no <a href="https://www.youtube.com/atilaiamarino">Youtube</a>, no <a href="https://twitter.com/oatila">Twitter</a> e também no <a href="https://www.instagram.com/oatila/?hl=pt-br">Instagram</a> </p>
@@ -555,9 +369,9 @@
               <p>O Wesley Cota, doutorando pela Universidade Federal de Viçosa, está monitorando os dados do coronavírus a nível nacional, você pode acessar neste <a href="https://labs.wesleycota.com/sarscov2/br/">link</a></p>
             </div>
           </div>
-				</div>
-			</div>
-		</div>
+                </div>
+            </div>
+        </div>
 
     <div class="container-fluid">
       <div class="copyright">
