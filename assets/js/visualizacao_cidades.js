@@ -1,7 +1,7 @@
 var viewCidades = {
 	"$schema": "https://vega.github.io/schema/vega-lite/v4.json",
 	"title": "Mapa do coronavírus na Paraíba",
-	"width": 350,
+	"width": 300,
 	"height": 300,
 	"data": {
 		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/mapa_cidades_paraiba.json",
