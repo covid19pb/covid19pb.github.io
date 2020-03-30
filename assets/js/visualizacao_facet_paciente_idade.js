@@ -1,6 +1,6 @@
 var viewFacetPacienteIdade = {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-    "title": "Classificação por idade dos casos confirmados divididos pelo sexo",
+    "title": "Classificação por idade divididos pelo sexo",
     "width": 300,
     "height": 200,
     "data": {
