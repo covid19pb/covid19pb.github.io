@@ -6,7 +6,7 @@ var viewDiaria = {
 		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorData.csv",
 		"format": {"type": "csv"}
 	},
-	"transform": [{"fold": ["novosCasos", "totalDeCasos"]}],
+	"transform": [{"fold": ["novosCasos", "totalDeCasos","mortes"]}],
 	"mark": {
 		"type": "line",
 		"point": {
