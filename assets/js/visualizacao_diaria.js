@@ -43,11 +43,18 @@ var viewDiaria = {
 				"orient" : "bottom"
 			}
 		},
-		"tooltip": [{
+		"tooltip": [
+		{
 			"field": "value",
 			"type" : "quantitative",
 			"title" : "Quantidade de casos"
-		}]
+		},
+		{
+			"field": "data",
+			"type" : "temporal",
+			"title" : "Data"
+		}
+		]
 	}
 				  
 };
