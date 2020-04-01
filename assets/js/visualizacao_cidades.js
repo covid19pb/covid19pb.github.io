@@ -1,7 +1,7 @@
 var viewCidades = {
 	"$schema": "https://vega.github.io/schema/vega-lite/v4.json",
 	"title": "Mapa do coronavírus na Paraíba",
-	"width": 320,
+	"width": 330,
 	"height": 300,
 	"data": {
 		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/mapa_cidades_paraiba.json",
@@ -32,7 +32,7 @@ var viewCidades = {
 			"type": "quantitative", 
 			"title": "Casos confirmados",
 			"scale": {
-				"range": ["#fae7cb","#ffac41", "#ff1e56", "#323232", "#000000"]
+				"range": ["#2EC4B6", "#FF9F1C", "#E71D36", "#011627"]
 			},
 			"legend": {
 				"direction" : "horizontal",
