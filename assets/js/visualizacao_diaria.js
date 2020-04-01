@@ -17,7 +17,10 @@ var viewDiaria = {
 	"encoding": {
 		"x": {
 			"field": "data",
-			"type": "nominal",
+			"type": "temporal",
+			"timeUnit": {
+			    "unit": "monthdate"
+			},
 			"axis": {
 				"title": "Data (em dias)",
 				"grid": true
