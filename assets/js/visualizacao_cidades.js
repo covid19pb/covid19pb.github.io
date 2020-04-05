@@ -18,7 +18,7 @@ var viewCidades = {
 			},
 			"key": "codigo",
 			"fields": [
-				"name","uf","codigo","meso","micro","casos_suspeitos","casos_confirmados","curados","mortes"
+				"name","uf","codigo","meso","micro","casos_confirmados","curados","mortes"
 			]
 		}
 	}],
@@ -32,7 +32,7 @@ var viewCidades = {
 			"type": "quantitative", 
 			"title": "Casos confirmados",
 			"scale": {
-				"domain" : [0, 1, 2, 20],
+				"domain" : [0, 1, 2, 30],
 				"range": ["#2EC4B6", "#FF9F1C", "#E71D36", "#011627"]
 			},
 			"legend": {
@@ -60,11 +60,6 @@ var viewCidades = {
 				"field": "properties.micro",
 				"type": "nominal",
 				"title": "Microrregião: "
-			},
-			{
-				"field": "casos_suspeitos",
-				"type": "quantitative",
-				"title": "Casos Suspeitos: "
 			},
 			{
 				"field": "casos_confirmados",

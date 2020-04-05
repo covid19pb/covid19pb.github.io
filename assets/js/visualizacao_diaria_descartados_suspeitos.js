@@ -6,7 +6,7 @@ var viewDiariaDescartadosSuspeitos = {
 		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorData.csv",
 		"format": {"type": "csv"}
 	},
-	"transform": [{"fold": ["casosDescartados", "casosSuspeitos"]}],
+	"transform": [{"fold": ["descartados", "suspeitosInternados","notificacoesSuspeitos"]}],
 	"mark": {
 		"type": "line",
 		"point": {
