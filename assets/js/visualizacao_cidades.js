@@ -67,11 +67,6 @@ var viewCidades = {
 				"title": "Casos confirmados: "
 			},
 			{
-				"field": "curados",
-				"type": "quantitative",
-				"title": "Curados: "
-			},
-			{
 				"field": "mortes",
 				"type": "quantitative",
 				"title": "Mortes: "
