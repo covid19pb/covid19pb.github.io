@@ -53531,7 +53531,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "BREJO PARAIBANO",
+            "micro": "BREJO PARAIBANO",
             "meso": "AGRESTE PARAIBANO",
             "uf": "PB"
           }
@@ -53547,7 +53547,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "CAJAZEIRAS",
+            "micro": "CAJAZEIRAS",
             "meso": "SERTAO PARAIBANO",
             "uf": "PB"
           }
@@ -53565,7 +53565,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "CAMPINA GRANDE",
+            "micro": "CAMPINA GRANDE",
             "meso": "AGRESTE PARAIBANO",
             "uf": "PB"
           }
@@ -53583,7 +53583,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "CARIRI OCIDENTAL",
+            "micro": "CARIRI OCIDENTAL",
             "meso": "BORBOREMA",
             "uf": "PB"
           }
@@ -53601,7 +53601,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "CARIRI ORIENTAL",
+            "micro": "CARIRI ORIENTAL",
             "meso": "BORBOREMA",
             "uf": "PB"
           }
@@ -53615,7 +53615,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "CATOLE DO ROCHA",
+            "micro": "CATOLE DO ROCHA",
             "meso": "SERTAO PARAIBANO",
             "uf": "PB"
           }
@@ -53634,7 +53634,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "CURIMATAU OCIDENTAL",
+            "micro": "CURIMATAU OCIDENTAL",
             "meso": "AGRESTE PARAIBANO",
             "uf": "PB"
           }
@@ -53650,7 +53650,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "CURIMATAU ORIENTAL",
+            "micro": "CURIMATAU ORIENTAL",
             "meso": "AGRESTE PARAIBANO",
             "uf": "PB"
           }
@@ -53665,7 +53665,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "ESPERANCA",
+            "micro": "ESPERANCA",
             "meso": "AGRESTE PARAIBANO",
             "uf": "PB"
           }
@@ -53683,7 +53683,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "GUARABIRA",
+            "micro": "GUARABIRA",
             "meso": "AGRESTE PARAIBANO",
             "uf": "PB"
           }
@@ -53701,7 +53701,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "ITABAIANA",
+            "micro": "ITABAIANA",
             "meso": "AGRESTE PARAIBANO",
             "uf": "PB"
           }
@@ -53717,7 +53717,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "ITAPORANGA",
+            "micro": "ITAPORANGA",
             "meso": "SERTAO PARAIBANO",
             "uf": "PB"
           }
@@ -53740,7 +53740,7 @@
           ],
           "type": "MultiPolygon",
           "properties": {
-            "name": "JOAO PESSOA",
+            "micro": "JOAO PESSOA",
             "meso": "MATA PARAIBANA",
             "uf": "PB"
           }
@@ -53756,7 +53756,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "LITORAL NORTE",
+            "micro": "LITORAL NORTE",
             "meso": "MATA PARAIBANA",
             "uf": "PB"
           }
@@ -53771,7 +53771,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "LITORAL SUL",
+            "micro": "LITORAL SUL",
             "meso": "MATA PARAIBANA",
             "uf": "PB"
           }
@@ -53789,7 +53789,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "PATOS",
+            "micro": "PATOS",
             "meso": "SERTAO PARAIBANO",
             "uf": "PB"
           }
@@ -53806,7 +53806,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "PIANCO",
+            "micro": "PIANCO",
             "meso": "SERTAO PARAIBANO",
             "uf": "PB"
           }
@@ -53824,7 +53824,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "SAPE",
+            "micro": "SAPE",
             "meso": "MATA PARAIBANA",
             "uf": "PB"
           }
@@ -53840,7 +53840,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "SERIDO OCIDENTAL PARAIBANO",
+            "micro": "SERIDO OCIDENTAL PARAIBANO",
             "meso": "BORBOREMA",
             "uf": "PB"
           }
@@ -53857,7 +53857,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "SERIDO ORIENTAL PARAIBANO",
+            "micro": "SERIDO ORIENTAL PARAIBANO",
             "meso": "BORBOREMA",
             "uf": "PB"
           }
@@ -53874,7 +53874,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "SERRA DO TEIXEIRA",
+            "micro": "SERRA DO TEIXEIRA",
             "meso": "SERTAO PARAIBANO",
             "uf": "PB"
           }
@@ -53892,7 +53892,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "SOUSA",
+            "micro": "SOUSA",
             "meso": "SERTAO PARAIBANO",
             "uf": "PB"
           }
@@ -53908,7 +53908,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "name": "UMBUZEIRO",
+            "micro": "UMBUZEIRO",
             "meso": "AGRESTE PARAIBANO",
             "uf": "PB"
           }
