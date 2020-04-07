@@ -1,24 +1,24 @@
-var viewCidades = {
+var viewMicrorregioes = {
 	"$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-	"title": "Mapa do coronavírus na Paraíba por cidades",
+	"title": "Mapa do coronavírus na Paraíba por microrregiões",
 	"width": 330,
 	"height": 300,
 	"data": {
-		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/mapa_cidades_paraiba.json",
+		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/mapa_micro_paraiba.json",
 		"format": {
 			"type": "topojson",
-			"feature": "Munic"
+			"feature": "microrregioes"
 		}
 	},
 	"transform": [{
-		"lookup": "properties.codigo",
+		"lookup": "properties.micro",
 		"from": {
 			"data": {
-				"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorCidade.csv"
+				"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorMicro.csv"
 			},
-			"key": "codigo",
+			"key": "micro",
 			"fields": [
-				"name","uf","codigo","meso","micro","casos_confirmados","curados","mortes"
+				"micro","uf","meso","casos_suspeitos","casos_confirmados","curados","mortes"
 			]
 		}
 	}],
@@ -32,7 +32,7 @@ var viewCidades = {
 			"type": "quantitative", 
 			"title": "Casos confirmados",
 			"scale": {
-				"domain" : [0, 1, 3, 30],
+				"domain" : [0, 1, 3, 33],
 				"range": ["#2EC4B6", "#FF9F1C", "#E71D36", "#011627"]
 			},
 			"legend": {
@@ -42,9 +42,9 @@ var viewCidades = {
 		},
 		"tooltip": [
 			{
-				"field": "properties.name",
+				"field": "properties.micro",
 				"type": "nominal",
-				"title": "Município: "
+				"title": "Microrregião: "
 			}, 
 			{
 				"field": "properties.uf",
@@ -55,11 +55,6 @@ var viewCidades = {
 				"field": "properties.meso",
 				"type": "nominal",
 				"title": "Mesorregião: "
-			},
-			{
-				"field": "properties.micro",
-				"type": "nominal",
-				"title": "Microrregião: "
 			},
 			{
 				"field": "casos_confirmados",
@@ -73,5 +68,4 @@ var viewCidades = {
 			}
 		]
 	}
-};
-vegaEmbed('#visualizacao_cidades', viewCidades);
+};vegaEmbed('#visualizacao_microrregioes', viewMicrorregioes);
