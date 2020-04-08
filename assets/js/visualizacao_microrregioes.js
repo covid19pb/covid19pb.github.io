@@ -32,7 +32,7 @@ var viewMicrorregioes = {
 			"type": "quantitative", 
 			"title": "Casos confirmados",
 			"scale": {
-				"domain" : [0, 1, 3, 33],
+				"domain" : [0, 1, 3, 50],
 				"range": ["#2EC4B6", "#FF9F1C", "#E71D36", "#011627"]
 			},
 			"legend": {
