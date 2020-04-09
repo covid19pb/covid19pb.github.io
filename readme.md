@@ -22,6 +22,7 @@ Visualização de dados do Covid-19 no estado da Paraíba - Brasil.
 
 ## Projetos interessantes de outros pesquisadores ou instituições
 - [Painel Covid-19 João Pessoa](https://experience.arcgis.com/experience/d76ba516389d4e83b9a778d266cac5c1/)
+- [Painel Covid-19 do Consórcio do Nordeste](https://www.comitecientifico-ne.com.br/in%C3%ADcio)
 - [Projeto do Wesley Cota de monitoramento do Covid-19](https://labs.wesleycota.com/sarscov2/br/)
 - [Brasil.io - Dados abertos do Covid-19](https://brasil.io/home)
 - [Painel Coronavírus Brasil - Fiocruz](http://painel.covid19br.org/)
