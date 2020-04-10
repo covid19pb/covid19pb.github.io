@@ -16,7 +16,7 @@ var viewPacienteSexo = {
     "color": {
       "type": "nominal",
       "field": "sexo",
-      "legend": {"labelFontSize": 12, "title": "Sexo", "titleFontSize": 14},
+      "legend": {"labelFontSize": 12, "title": "Sexo", "titleFontSize": 14, "orient": "bottom"},
       "scale": {
         "domain": ["Masculino", "Feminino", "Não divulgado"],
         "range": ["#1f77b4", "#dc56b4", "#ff9966"]
