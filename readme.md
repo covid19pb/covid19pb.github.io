@@ -18,10 +18,12 @@ Visualização de dados do Covid-19 no estado da Paraíba - Brasil.
 ## Observações dos dados
 - **03/04/2020** : Até a data 02/04/2020, a SES apenas notificava os casos suspeitos que estavam internados através do sistema SIVEP Gripe. A partir da data 03/04/2020, houve a criação do parâmetro de notificações de casos suspeitos, que diz respeito aos casos suspeitos registrados pelas secretarias de saude municipais da Paraíba no sistema Redcap.
 - **07/04/2020** : O estado da Paraíba recebeu a base de dados do E-SUS VE onde constam os registros das notificações já realizadas pelos municípios para os casos de síndrome gripal com suspeita para Covid-19.
+- **10/04/2020** : Após investigação municipal, ficou esclarecido que o caso que estava contabilizado em Bayeux reside, na verdade, em Santa Rita (Observação presente no boletim da SES desta data).
 
 ## Falta de dados
 - **02/04/2020** : Houveram 8 casos confirmados, mas a SES não publicou a idade de 7 dos 8 casos confirmados nesta data.
 - **09/04/2020** : Houveram 24 casos confirmados, mas a SES não publicou o sexo e idade de cada caso. Também não divulgou a quantidade de notificações de casos suspeitos desta data.
+- **10/04/2020** : Houveram 7 casos confirmados, mas a SES não publicou o sexo e idade de cada caso. Também não divulgou a quantidade de notificações de casos suspeitos desta data.
 
 ## Projetos interessantes de outros pesquisadores ou instituições
 - [Painel Covid-19 João Pessoa](https://experience.arcgis.com/experience/d76ba516389d4e83b9a778d266cac5c1/)
