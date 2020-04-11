@@ -32,7 +32,7 @@ var viewCidadesMortes = {
 			"type": "quantitative", 
 			"title": "Mortes",
 			"scale": {
-				"domain" : [0, 2, 6, 11],
+				"domain" : [0, 2, 6, 13],
 				"range": ["#2EC4B6", "#FF9F1C", "#E71D36", "#011627"]
 			},
 			"legend": {

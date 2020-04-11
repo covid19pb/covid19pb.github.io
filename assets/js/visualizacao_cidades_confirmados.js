@@ -32,7 +32,7 @@ var viewCidadesConfirmados = {
 			"type": "quantitative", 
 			"title": "Casos confirmados",
 			"scale": {
-				"domain" : [0, 2, 6, 65],
+				"domain" : [0, 4, 8, 80],
 				"range": ["#2EC4B6", "#FF9F1C", "#E71D36", "#011627"]
 			},
 			"legend": {
