@@ -39,7 +39,7 @@
   <!-- ======= Header ======= -->
   <header id="header">
 
-    <div class="container-fluid">
+    <div class="container">
 
       <div class="logo float-left">
         <!-- Uncomment below if you prefer to use an image logo -->
@@ -63,7 +63,7 @@
 
   <!-- ======= Seção Inicial ======= -->
   <section id="sessao_inicial" class="clearfix section-bg">
-    <div class="container-fluid d-flex h-100">
+    <div class="container d-flex h-100">
       <div class="row justify-content-center align-self-center">
         <div class="col-md-6 intro-info order-md-first order-last">
           <h2>Visualização de dados<br>do coronavírus no estado da <span>Paraíba</span></h2>
@@ -81,22 +81,24 @@
 
     <!-- ======= Seção de Dados Rápidos ======= -->
     <section id="dados_rapidos" class="dados_rapidos">
-      <div class="container-fluid-fluid">
+      <div class="container">
 
         <header class="section-header">
           <h3>Dados rápidos</h3>
           <p>
             Última atualização: 10/04/2020 - 19h15min <br>
             Fonte: Secretaria de Saúde da Paraíba / G1 PB / Portal Correio / Click PB <br>
-            Acessos: 
+            Acessos:
+            <!--
             <img src="https://hitwebcounter.com/counter/counter.php?page=7217284&style=0024&nbdigits=5&type=page&initCount=0" title="Quantidade de acessos" Alt="PHP Hits Count"   border="0" >
+            -->
           </p>
 
         </header>
 
       </div>
 
-      <div class="container-fluid">
+      <div class="container">
         <div class="row counters">
 
           <div class="col-lg-2 col-6 text-center mx-auto">
@@ -136,40 +138,76 @@
 
     <!-- ======= Seção de Mapas ======= -->
     <section id="sessao_mapas" class="sessao_mapas section-bg">
-      <div class="container-fluid">
+
+      <div class="container">
 
         <header class="section-header">
           <h3>Dados por mapas</h3>
-          <p>Casos confirmados por cidades da Paraíba</p>
         </header>
 
-        <div class="row">
+        <br><br>
+        <h5 class="text-center">Mapa do Covid-19 por cidades na Paraíba</h5>
+        <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
+          <li class="nav-item">
+            <a class="nav-link active" id="cidades_confirmados-tab" data-toggle="tab" href="#cidades_confirmados" role="tab" aria-controls="cidades_confirmados" aria-selected="true">Confirmados</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" id="cidades_mortes-tab" data-toggle="tab" href="#cidades_mortes" role="tab" aria-controls="cidades_mortes" aria-selected="false">Mortes</a>
+          </li>
+        </ul>
+        <div class="tab-content" id="myTabContent">
 
-            <div id="visualizacao_cidades" class="mx-auto"></div>
+          <div class="tab-pane fade show active" id="cidades_confirmados" role="tabpanel" aria-labelledby="cidades_confirmados-tab">
+            <div class="row">
+              <div id="visualizacao_cidades_confirmados" class="mx-auto"></div>
+              <script type="text/javascript" src="assets/js/visualizacao_cidades_confirmados.js"></script>
+            </div>
+          </div>
 
-            <script type="text/javascript" src="assets/js/visualizacao_cidades.js"></script>
-      	</div>
+          <div class="tab-pane fade" id="cidades_mortes" role="tabpanel" aria-labelledby="cidades_mortes-tab">
+            <div class="row">
+              <div id="visualizacao_cidades_mortes" class="mx-auto"></div>
+              <script type="text/javascript" src="assets/js/visualizacao_cidades_mortes.js"></script>
+            </div>
+          </div>
 
-      	<hr>
-
-        <header class="section-header">
-          <p>Casos confirmados por microrregiões da Paraíba</p>
-        </header>
-
-        <div class="row">
-
-            <div id="visualizacao_microrregioes" class="mx-auto"></div>
-
-            <script type="text/javascript" src="assets/js/visualizacao_microrregioes.js"></script>
         </div>
 
-    </div>
+        <br><br>
+        <h5 class="text-center">Mapa do Covid-19 por microrregiões na Paraíba</h5>
+        <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
+          <li class="nav-item">
+            <a class="nav-link active" id="microrregioes_confirmados-tab" data-toggle="tab" href="#microrregioes_confirmados" role="tab" aria-controls="microrregioes_confirmados" aria-selected="true">Confirmados</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" id="microrregioes_mortes-tab" data-toggle="tab" href="#microrregioes_mortes" role="tab" aria-controls="microrregioes_mortes" aria-selected="false">Mortes</a>
+          </li>
+        </ul>
+        <div class="tab-content" id="myTabContent">
+
+          <div class="tab-pane fade show active" id="microrregioes_confirmados" role="tabpanel" aria-labelledby="microrregioes_confirmados-tab">
+            <div class="row">
+              <div id="visualizacao_microrregioes_confirmados" class="mx-auto"></div>
+              <script type="text/javascript" src="assets/js/visualizacao_microrregioes_confirmados.js"></script>
+            </div>
+          </div>
+
+          <div class="tab-pane fade" id="microrregioes_mortes" role="tabpanel" aria-labelledby="microrregioes_mortes-tab">
+            <div class="row">
+              <div id="visualizacao_microrregioes_mortes" class="mx-auto"></div>
+              <script type="text/javascript" src="assets/js/visualizacao_microrregioes_mortes.js"></script>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
 
     </section><!-- Fim da Seção de Mapas -->
 
     <!-- ======= Seção de Dicas ======= -->
     <section id="sessao_dicas" class="sessao_dicas wow fadeInUp">
-      <div class="container-fluid">
+      <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center text-lg-left">
             <h3 class="cta-title text-center">Como são os sintomas da COVID-19? #FiqueEmCasa</h3>
@@ -184,7 +222,7 @@
 
     <!-- ======= Seção de dados diários ======= -->
     <section id="sessao_dados_diarios" class="sessao_dados_diarios">
-      <div class="container-fluid">
+      <div class="container">
 
         <header class="section-header">
           <h3>Dados diários</h3>
@@ -213,7 +251,7 @@
 
     <!-- ======= Seção de dados dos pacientes ======= -->
     <section id="sessao_dados_pacientes" class="sessao_dados_pacientes section-bg">
-      <div class="container-fluid">
+      <div class="container">
 
         <header class="section-header">
           <h3 class="section-title">Dados dos pacientes</h3>
@@ -254,7 +292,7 @@
 
     <!-- ======= Seção do time ======= -->
     <section id="team" class="team bg-white">
-      <div class="container-fluid">
+      <div class="container">
         <div class="section-header">
           <h3>Time</h3>
           <p>Um pouco sobre quem está por trás dessa iniciativa</p>
@@ -328,7 +366,7 @@
 
     <!-- ======= Seção das fontes de informação ======= -->
     <section id="clients" class="clients wow fadeInUp section-bg">
-      <div class="container-fluid">
+      <div class="container">
 
         <header class="section-header">
           <h3>Fontes da nossa informação</h3>
@@ -542,7 +580,7 @@
 
     <!-- ======= Seção FAQ ======= -->
     <section id="faq" class="faq wow fadeInUp">
-      <div class="container-fluid">
+      <div class="container">
         <header class="section-header">
           <h3>Perguntas frequentes</h3>
           <p>E algumas dicas</p>
@@ -586,7 +624,7 @@
     <!-- ======= Footer ======= -->
     <footer id="footer" class="section-bg">
     	<div class="footer-top">
-      	<div class="container-fluid">
+      	<div class="container">
 
         	<div class="row">
           	<div class="col-lg-4">
@@ -630,7 +668,7 @@
       </div>
     </div>
 
-    <div class="container-fluid">
+    <div class="container">
       <div class="copyright">
         &copy; Copyright <strong>2020</strong>. Todos os direitos reservados
       </div>

@@ -1,6 +1,6 @@
-var viewCidades = {
+var viewCidadesMortes = {
 	"$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-	"title": "Mapa do coronavírus na Paraíba por cidades",
+	"title": "Mortes de Covid-19 por cidades",
 	"width": 330,
 	"height": 300,
 	"data": {
@@ -28,11 +28,11 @@ var viewCidades = {
 	},
 	"encoding": {
 		"color": {
-			"field": "casos_confirmados",
+			"field": "mortes",
 			"type": "quantitative", 
-			"title": "Casos confirmados",
+			"title": "Mortes",
 			"scale": {
-				"domain" : [0, 2, 6, 65],
+				"domain" : [0, 2, 6, 11],
 				"range": ["#2EC4B6", "#FF9F1C", "#E71D36", "#011627"]
 			},
 			"legend": {
@@ -62,16 +62,16 @@ var viewCidades = {
 				"title": "Microrregião: "
 			},
 			{
-				"field": "casos_confirmados",
-				"type": "quantitative",
-				"title": "Casos confirmados: "
-			},
-			{
 				"field": "mortes",
 				"type": "quantitative",
 				"title": "Mortes: "
+			},
+			{
+				"field": "casos_confirmados",
+				"type": "quantitative",
+				"title": "Casos confirmados: "
 			}
 		]
 	}
 };
-vegaEmbed('#visualizacao_cidades', viewCidades);
+vegaEmbed('#visualizacao_cidades_mortes', viewCidadesMortes);

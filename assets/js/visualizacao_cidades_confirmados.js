@@ -1,24 +1,24 @@
-var viewMicrorregioes = {
+var viewCidadesConfirmados = {
 	"$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-	"title": "Mapa do coronavírus na Paraíba por microrregiões",
+	"title": "Casos confirmados de Covid-19 por cidades",
 	"width": 330,
 	"height": 300,
 	"data": {
-		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/mapa_micro_paraiba.json",
+		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/mapa_cidades_paraiba.json",
 		"format": {
 			"type": "topojson",
-			"feature": "microrregioes"
+			"feature": "Munic"
 		}
 	},
 	"transform": [{
-		"lookup": "properties.micro",
+		"lookup": "properties.codigo",
 		"from": {
 			"data": {
-				"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorMicro.csv"
+				"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorCidade.csv"
 			},
-			"key": "micro",
+			"key": "codigo",
 			"fields": [
-				"micro","uf","meso","casos_suspeitos","casos_confirmados","curados","mortes"
+				"name","uf","codigo","meso","micro","casos_confirmados","curados","mortes"
 			]
 		}
 	}],
@@ -32,7 +32,7 @@ var viewMicrorregioes = {
 			"type": "quantitative", 
 			"title": "Casos confirmados",
 			"scale": {
-				"domain" : [0, 1, 3, 75],
+				"domain" : [0, 2, 6, 65],
 				"range": ["#2EC4B6", "#FF9F1C", "#E71D36", "#011627"]
 			},
 			"legend": {
@@ -42,9 +42,9 @@ var viewMicrorregioes = {
 		},
 		"tooltip": [
 			{
-				"field": "properties.micro",
+				"field": "properties.name",
 				"type": "nominal",
-				"title": "Microrregião: "
+				"title": "Município: "
 			}, 
 			{
 				"field": "properties.uf",
@@ -55,6 +55,11 @@ var viewMicrorregioes = {
 				"field": "properties.meso",
 				"type": "nominal",
 				"title": "Mesorregião: "
+			},
+			{
+				"field": "properties.micro",
+				"type": "nominal",
+				"title": "Microrregião: "
 			},
 			{
 				"field": "casos_confirmados",
@@ -68,4 +73,5 @@ var viewMicrorregioes = {
 			}
 		]
 	}
-};vegaEmbed('#visualizacao_microrregioes', viewMicrorregioes);
+};
+vegaEmbed('#visualizacao_cidades_confirmados', viewCidadesConfirmados);
