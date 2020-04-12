@@ -1,11 +1,11 @@
 var viewPacienteSexo = {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.0.2.json",
   "title": "Casos confirmados por sexo",
-  "width": 250,
+  "width": 300,
   "height": 200,
   "config": {
-    "background": "white",
-    "view": {"continuousWidth": 400, "continuousHeight": 300}
+    "background": "transparent",
+    "title": {"anchor": "middle", "fontSize": 14, "offset": 5, "orient": "top"}
   },
      "data": {
         "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorPessoa.csv",
@@ -16,7 +16,7 @@ var viewPacienteSexo = {
     "color": {
       "type": "nominal",
       "field": "sexo",
-      "legend": {"labelFontSize": 12, "title": "Sexo", "titleFontSize": 14, "orient": "bottom"},
+      "legend": {"labelFontSize": 12, "title": "Sexo", "titleFontSize": 14,"orient": "bottom"},
       "scale": {
         "domain": ["Masculino", "Feminino", "Não divulgado"],
         "range": ["#1f77b4", "#dc56b4", "#ff9966"]
