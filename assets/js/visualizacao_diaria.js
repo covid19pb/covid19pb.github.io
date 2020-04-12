@@ -33,6 +33,7 @@ var viewDiaria = {
     },
     "tooltip": [
       {"type": "quantitative", "field": "value", "title": "Número de Casos"},
+      {"type": "quantitative", "field": "taxa_morte", "format": ".2%", "title": "Taxa de Mortalidade"},
       {"type": "temporal", "field": "data", "title": "Data"}
     ],
     "x": {
@@ -69,7 +70,9 @@ var viewDiaria = {
     {
       "calculate": "if((datum.key === 'mortes'),'Mortes',datum.key)",
       "as": "key"
-    }
+    },
+    {"calculate": "datum.mortes / datum.totalDeCasos", 
+    "as": "taxa_morte"}
   ]
 };
 vegaEmbed('#visualizacao_diaria', viewDiaria);
