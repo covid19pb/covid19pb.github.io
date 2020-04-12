@@ -24,7 +24,7 @@ var viewMicrorregioesMortes = {
 	}],
 	"mark": {
 		"type": "geoshape",
-		"stroke": "white"
+		"stroke": "black"
 	},
 	"encoding": {
 		"color": {
@@ -32,8 +32,8 @@ var viewMicrorregioesMortes = {
 			"type": "quantitative", 
 			"title": "Mortes",
 			"scale": {
-				"domain" : [0, 1, 3, 11],
-				"range": ["#2EC4B6", "#FF9F1C", "#E71D36", "#011627"]
+				"domain" : [0, 2, 4, 6, 8, 11],
+				"range": ["#F0F0F0", "#FFB000", "#FE6100", "#DC267F", "#785EF0", "#648FFF"]
 			},
 			"legend": {
 				"direction" : "horizontal",
