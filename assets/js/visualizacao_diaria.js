@@ -32,9 +32,11 @@ var viewDiaria = {
       }
     },
     "tooltip": [
-      {"type": "quantitative", "field": "value", "title": "Número de Casos"},
-      {"type": "quantitative", "field": "taxa_morte", "format": ".2%", "title": "Taxa de Mortalidade"},
-      {"type": "temporal", "field": "data", "title": "Data"}
+      {"type": "temporal", "field": "data", "title": "Data"},
+      {"type": "quantitative", "field": "totalDeCasos", "title": "Total de Casos"},
+      {"type": "quantitative", "field": "mortes", "title": "Total de Mortes"},
+      {"type": "quantitative", "field": "taxa_morte", "format": ".2%","title": "Taxa de Mortalidade"},
+      {"type": "quantitative", "field": "novosCasos", "title": "Novos Casos"}
     ],
     "x": {
       "type": "temporal",
