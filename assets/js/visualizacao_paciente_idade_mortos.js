@@ -1,4 +1,4 @@
-var viewPacienteIdadeConfirmado = { 
+var viewPacienteIdadeMortos = { 
   "$schema": "https://vega.github.io/schema/vega-lite/v4.0.2.json",
   "width": 330,
   "height": 200,
@@ -41,4 +41,4 @@ var viewPacienteIdadeConfirmado = {
     }
   }
 };
-vegaEmbed('#visualizacao_paciente_idade', viewPacienteIdadeConfirmado);
+vegaEmbed('#visualizacao_paciente_idade', viewPacienteIdadeMortos);
