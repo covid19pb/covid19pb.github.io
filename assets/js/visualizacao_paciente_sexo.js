@@ -8,7 +8,7 @@ var viewPacienteSexo = {
     "title": {"anchor": "middle", "fontSize": 14, "offset": 5, "orient": "top"}
   },
      "data": {
-        "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorPessoa.csv",
+        "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_boletim_FaixaEtaria.csv",
         "format": {"type": "csv"}
     },
   "mark": "bar",
