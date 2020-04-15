@@ -53,4 +53,4 @@ var viewPacienteIdadeMortos = {
      }
    }
 };
-vegaEmbed('#visualizacao_paciente_idade', viewPacienteIdadeMortos);
+vegaEmbed('#visualizacao_paciente_idade_mortos', viewPacienteIdadeMortos);

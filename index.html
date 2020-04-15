@@ -255,35 +255,38 @@
 
         <header class="section-header">
           <h3 class="section-title">Dados dos pacientes</h3>
-          <p>Os dados relativos as datas 02, 09, 10, 11 e 12 de Abril de 2020, não foram publicados pelo governo da Paraíba no boletim da secretaria de saúde da PB detalhadamente. Sendo assim, estes casos sem idade, não estão inseridos nos dois gráficos que utilizam o parâmetro da idade dos casos confirmados.</p>
+          <p>Os dados dos <b>casos confirmados</b> abaixo serão atualizados semanalmente pela Secretaria de Saúde da PB em boletins epidemiológicos. A última atualização dos casos confirmados foi em 13/04/2020.</p>
         </header>
 
-        <div class="row">
-
-            <div id="visualizacao_paciente_sexo" class="mx-auto"></div>
-
-          <script type="text/javascript" src="assets/js/visualizacao_paciente_sexo.js"></script>
-
-        </div>
 
         <br><br>
+        <h5 class="text-center">Faixa etária dos casos confirmados e dos mortos por Covid-19</h5>
 
-        <div class="row">
+        <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
+          <li class="nav-item">
+            <a class="nav-link active" id="paciente_idade_confirmados-tab" data-toggle="tab" href="#paciente_idade_confirmados" role="tab" aria-controls="paciente_idade_confirmados" aria-selected="true">Confirmados</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" id="paciente_idade_mortos-tab" data-toggle="tab" href="#paciente_idade_mortos" role="tab" aria-controls="paciente_idade_mortos" aria-selected="false">Mortes</a>
+          </li>
+        </ul>
 
-          <div id="visualizacao_paciente_idade" class="mx-auto"></div>
+        <div class="tab-content" id="myTabContent">
 
-          <script type="text/javascript" src="assets/js/visualizacao_paciente_idade.js"></script>
-        
-        </div>
+          <div class="tab-pane fade show active" id="paciente_idade_confirmados" role="tabpanel" aria-labelledby="paciente_idade_confirmados-tab">
+            <div class="row">
+              <div id="visualizacao_paciente_idade_confirmados" class="mx-auto"></div>
+              <script type="text/javascript" src="assets/js/visualizacao_paciente_idade_confirmados.js"></script>
+            </div>
+          </div>
 
-        <br><br>
+          <div class="tab-pane fade" id="paciente_idade_mortos" role="tabpanel" aria-labelledby="paciente_idade_mortos-tab">
+            <div class="row">
+              <div id="visualizacao_paciente_idade_mortos" class="mx-auto"></div>
+              <script type="text/javascript" src="assets/js/visualizacao_paciente_idade_mortos.js"></script>
+            </div>
+          </div>
 
-        <div class="row">
-
-          <div id="visualizacao_facet_paciente_idade" class="mx-auto"></div>
-
-          <script type="text/javascript" src="assets/js/visualizacao_facet_paciente_idade.js"></script>
-        
         </div>
 
       </div>
