@@ -1,7 +1,7 @@
-var viewFaixaEtariaSexoConfirmado = {
+var viewFaixaEtariaSexoMortos = {
 
   "$schema": "https://vega.github.io/schema/vega-lite/v4.0.2.json",
-  "title": "Casos confirmados por Faixa Etária/Sexo",
+  "title": "Mortes por Faixa Etária/Sexo",
   "spacing": 20,
   "config": {
     "background": "transparent",
@@ -66,7 +66,7 @@ var viewFaixaEtariaSexoConfirmado = {
     "height": 200,
     "transform": [
       {
-        "filter": "((datum.classificacao === 'confirmados') && (datum.ultima_atualizacao === 'True'))"
+        "filter": "((datum.classificacao === 'mortos') && (datum.ultima_atualizacao === 'True'))"
       },
       {"fold": ["masculino", "feminino"]},
       {
@@ -80,4 +80,4 @@ var viewFaixaEtariaSexoConfirmado = {
     ]
   }
 };
-vegaEmbed('#visualizacao_paciente_idade', viewFaixaEtariaSexoConfirmado);
+vegaEmbed('#visualizacao_faixaEtaria_sexo_mortos', viewFaixaEtariaSexoMortos);

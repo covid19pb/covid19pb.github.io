@@ -11,7 +11,7 @@ var viewPacienteIdadeMortos = {
        "filter": {
          "timeUnit": "monthdate",
          "field": "data",
-         "lte": "15 Apr 2020"
+         "lte": "16 Apr 2020"
        },
        "filter": {
          "field": "classificacao",
