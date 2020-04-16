@@ -26,7 +26,7 @@ var viewPacienteIdadeConfirmado = {
    },
    "mark": "bar",
    "encoding": {
-     "color": {"value": "#e60000"},
+     "color": {"value": "#003366"},
      "tooltip": [
        {"type": "temporal", "field": "data", "title": "Data"},
        {"type": "quantitative", "field": "total", "title": "Quantidade"}
