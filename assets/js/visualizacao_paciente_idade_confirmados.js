@@ -8,15 +8,14 @@ var viewPacienteIdadeConfirmado = {
    },
    "transform": [
      {
-       "filter": {
-         "timeUnit": "monthdate",
-         "field": "data",
-         "lte": "13 Apr 2020"
-       },
-       "filter": {
-         "field": "classificacao",
-         "equal": "confirmados"
-       }
+        "filter": {
+          "field": "ultima_atualizacao",
+          "equal" : "True"
+        },
+        "filter": {
+          "field": "classificacao",
+          "equal": "confirmados"
+        }
      }
    ],
    "config": {

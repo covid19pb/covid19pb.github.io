@@ -8,16 +8,15 @@ var viewPacienteIdadeMortos = {
    },
    "transform": [
      {
-       "filter": {
-         "timeUnit": "monthdate",
-         "field": "data",
-         "lte": "16 Apr 2020"
-       },
-       "filter": {
-         "field": "classificacao",
-         "equal": "mortos"
-       }
-     }
+        "filter": {
+          "field": "ultima_atualizacao",
+          "equal" : "True"
+        },
+        "filter": {
+          "field": "classificacao",
+          "equal": "mortos"
+        }
+      }
    ],
    "config": {
      "background": "transparent",
