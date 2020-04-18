@@ -1,8 +1,7 @@
 var viewCidadesConfirmados = {
 	"$schema": "https://vega.github.io/schema/vega-lite/v4.json",
 	"title": "Casos confirmados de Covid-19 por cidades",
-	"width": 330,
-	"height": 300,
+	"width": "container",
 	"data": {
 		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/mapa_cidades_paraiba.json",
 		"format": {

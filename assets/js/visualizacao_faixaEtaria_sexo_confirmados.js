@@ -2,7 +2,6 @@ var viewFaixaEtariaSexoConfirmados = {
 
   "$schema": "https://vega.github.io/schema/vega-lite/v4.0.2.json",
   "title": "Casos confirmados por Faixa Etária/Sexo",
-  "spacing": 20,
   "config": {
     "background": "transparent",
     "view": {"continuousWidth": 400, "continuousHeight": 300},
@@ -62,8 +61,7 @@ var viewFaixaEtariaSexoConfirmados = {
         "scale": {"zero": true}
       }
     },
-    "width": 300,
-    "height": 200,
+    "width": "container",
     "transform": [
       {
         "filter": "((datum.classificacao === 'confirmados') && (datum.ultima_atualizacao === 'True'))"

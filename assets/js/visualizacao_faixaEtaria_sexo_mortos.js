@@ -2,7 +2,6 @@ var viewFaixaEtariaSexoMortos = {
 
   "$schema": "https://vega.github.io/schema/vega-lite/v4.0.2.json",
   "title": "Mortes por Faixa Etária/Sexo",
-  "spacing": 20,
   "config": {
     "background": "transparent",
     "view": {"continuousWidth": 400, "continuousHeight": 300},
@@ -62,8 +61,7 @@ var viewFaixaEtariaSexoMortos = {
         "scale": {"zero": true}
       }
     },
-    "width": 300,
-    "height": 200,
+    "width": "container",
     "transform": [
       {
         "filter": "((datum.classificacao === 'mortos') && (datum.ultima_atualizacao === 'True'))"

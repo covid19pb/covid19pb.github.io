@@ -1,7 +1,6 @@
 var viewPacienteIdadeConfirmado = { 
   "$schema": "https://vega.github.io/schema/vega-lite/v4.0.2.json",
-   "width": 330,
-   "height": 200,
+   "width": "container",
    "title": "Confirmados por Faixa Etária",
      "data": {
      "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_boletim_FaixaEtaria.csv"

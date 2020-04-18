@@ -90,8 +90,9 @@
             Fonte: Secretaria de Saúde da Paraíba / G1 PB / Portal Correio / Click PB <br>
             Acessos:
 
+            <!--
             <img src="https://hitwebcounter.com/counter/counter.php?page=7217284&style=0024&nbdigits=5&type=page&initCount=0" title="Quantidade de acessos" Alt="PHP Hits Count"   border="0" >
-
+            -->
           </p>
 
         </header>
@@ -146,59 +147,46 @@
         </header>
 
         <br><br>
-        <h5 class="text-center">Mapa do Covid-19 por cidades na Paraíba</h5>
-        <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
-          <li class="nav-item">
-            <a class="nav-link active" id="cidades_confirmados-tab" data-toggle="tab" href="#cidades_confirmados" role="tab" aria-controls="cidades_confirmados" aria-selected="true">Confirmados</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" id="cidades_mortes-tab" data-toggle="tab" href="#cidades_mortes" role="tab" aria-controls="cidades_mortes" aria-selected="false">Mortes</a>
-          </li>
-        </ul>
-        <div class="tab-content" id="myTabContent">
-
-          <div class="tab-pane fade show active" id="cidades_confirmados" role="tabpanel" aria-labelledby="cidades_confirmados-tab">
-            <div class="row">
-              <div id="visualizacao_cidades_confirmados" class="mx-auto"></div>
-              <script type="text/javascript" src="assets/js/visualizacao_cidades_confirmados.js"></script>
-            </div>
-          </div>
-
-          <div class="tab-pane fade" id="cidades_mortes" role="tabpanel" aria-labelledby="cidades_mortes-tab">
-            <div class="row">
-              <div id="visualizacao_cidades_mortes" class="mx-auto"></div>
-              <script type="text/javascript" src="assets/js/visualizacao_cidades_mortes.js"></script>
-            </div>
-          </div>
-
+        <h5 class="text-center">Mapa dos casos confirmados de Covid-19 por cidades na Paraíba</h5>
+        
+        <div class="row">
+          <figure class="mx-auto">
+            <div id="visualizacao_cidades_confirmados" class="chartContainer"></div>
+            <script type="text/javascript" src="assets/js/visualizacao_cidades_confirmados.js"></script>
+          </figure>
         </div>
 
-        <br><br>
-        <h5 class="text-center">Mapa do Covid-19 por microrregiões na Paraíba</h5>
-        <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
-          <li class="nav-item">
-            <a class="nav-link active" id="microrregioes_confirmados-tab" data-toggle="tab" href="#microrregioes_confirmados" role="tab" aria-controls="microrregioes_confirmados" aria-selected="true">Confirmados</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" id="microrregioes_mortes-tab" data-toggle="tab" href="#microrregioes_mortes" role="tab" aria-controls="microrregioes_mortes" aria-selected="false">Mortes</a>
-          </li>
-        </ul>
-        <div class="tab-content" id="myTabContent">
+        <hr>
 
-          <div class="tab-pane fade show active" id="microrregioes_confirmados" role="tabpanel" aria-labelledby="microrregioes_confirmados-tab">
-            <div class="row">
-              <div id="visualizacao_microrregioes_confirmados" class="mx-auto"></div>
-              <script type="text/javascript" src="assets/js/visualizacao_microrregioes_confirmados.js"></script>
-            </div>
-          </div>
+        <h5 class="text-center">Mapa das mortes por Covid-19 por cidades na Paraíba</h5>
 
-          <div class="tab-pane fade" id="microrregioes_mortes" role="tabpanel" aria-labelledby="microrregioes_mortes-tab">
-            <div class="row">
-              <div id="visualizacao_microrregioes_mortes" class="mx-auto"></div>
-              <script type="text/javascript" src="assets/js/visualizacao_microrregioes_mortes.js"></script>
-            </div>
-          </div>
+        <div class="row">
+          <figure class="mx-auto">
+            <div id="visualizacao_cidades_mortes" class="chartContainer"></div>
+            <script type="text/javascript" src="assets/js/visualizacao_cidades_mortes.js"></script>
+          </figure>
+        </div>
 
+        <hr>
+
+        <h5 class="text-center">Mapa dos casos confirmados de Covid-19 por microrregiões na Paraíba</h5>
+        
+        <div class="row">
+          <figure class="mx-auto">
+            <div id="visualizacao_microrregioes_confirmados" class="chartContainer"></div>
+            <script type="text/javascript" src="assets/js/visualizacao_microrregioes_confirmados.js"></script>
+          </figure>
+        </div>
+
+        <hr>
+
+        <h5 class="text-center">Mapa das mortes por Covid-19 por microrregiões na Paraíba</h5>
+
+        <div class="row">
+          <figure class="mx-auto">
+            <div id="visualizacao_microrregioes_mortes" class="chartContainer"></div>
+            <script type="text/javascript" src="assets/js/visualizacao_microrregioes_mortes.js"></script>  
+          </figure>
         </div>
 
       </div>
@@ -226,24 +214,26 @@
 
         <header class="section-header">
           <h3>Dados diários</h3>
-          <p>Evolução dos casos confirmados por dia na Paraíba</p>
         </header>
 
+        <h5 class="text-center">Evolução dos casos confirmados por dia na Paraíba</h5>
+
         <div class="row">
-            <div id="visualizacao_diaria" class="mx-auto"></div>
+          <figure class="mx-auto">
+            <div id="visualizacao_diaria" class="chartContainer"></div>
             <script type="text/javascript" src="assets/js/visualizacao_diaria.js"></script>
+          </figure>
         </div>
 
-        <br><br>
         <hr>
 
-        <header class="section-header">
-          <p>Evolução dos casos descartados e suspeitos por dia na Paraíba</p>
-        </header>
+        <h5 class="text-center">Evolução dos casos descartados e suspeitos por dia na Paraíba</h5>
 
         <div class="row">
-            <div id="visualizacao_diaria_descartados_suspeitos" class="mx-auto"></div>
+          <figure class="mx-auto">
+            <div id="visualizacao_diaria_descartados_suspeitos" class="chartContainer"></div>
             <script type="text/javascript" src="assets/js/visualizacao_diaria_descartados_suspeitos.js"></script>
+          </figure>
         </div>
         
       </div>
@@ -258,65 +248,46 @@
           <p>Os dados dos <b>casos confirmados</b> abaixo serão atualizados semanalmente pela Secretaria de Saúde da PB em boletins epidemiológicos. A última atualização dos casos confirmados foi em 13/04/2020.</p>
         </header>
 
+        <h5 class="text-center">Faixa etária dos casos confirmados Covid-19</h5>
 
-        <br><br>
-        <h5 class="text-center">Faixa etária dos casos confirmados e dos mortos por Covid-19</h5>
-
-        <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
-          <li class="nav-item">
-            <a class="nav-link active" id="paciente_idade_confirmados-tab" data-toggle="tab" href="#paciente_idade_confirmados" role="tab" aria-controls="paciente_idade_confirmados" aria-selected="true">Confirmados</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" id="paciente_idade_mortos-tab" data-toggle="tab" href="#paciente_idade_mortos" role="tab" aria-controls="paciente_idade_mortos" aria-selected="false">Mortes</a>
-          </li>
-        </ul>
-
-        <div class="tab-content" id="myTabContent">
-
-          <div class="tab-pane fade show active" id="paciente_idade_confirmados" role="tabpanel" aria-labelledby="paciente_idade_confirmados-tab">
-            <div class="row">
-              <div id="visualizacao_paciente_idade_confirmados" class="mx-auto"></div>
-              <script type="text/javascript" src="assets/js/visualizacao_paciente_idade_confirmados.js"></script>
-            </div>
-          </div>
-
-          <div class="tab-pane fade" id="paciente_idade_mortos" role="tabpanel" aria-labelledby="paciente_idade_mortos-tab">
-            <div class="row">
-              <div id="visualizacao_paciente_idade_mortos" class="mx-auto"></div>
-              <script type="text/javascript" src="assets/js/visualizacao_paciente_idade_mortos.js"></script>
-            </div>
-          </div>
-
+        <div class="row">
+          <figure class="mx-auto">
+            <div id="visualizacao_paciente_idade_confirmados" class="chartContainer"></div>
+            <script type="text/javascript" src="assets/js/visualizacao_paciente_idade_confirmados.js"></script>
+          </figure>
         </div>
 
-        <br><br>
-        <h5 class="text-center">Faixa etária dos casos confirmados e dos mortos por Covid-19 separados por sexo</h5>
+        <hr>
 
-        <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
-          <li class="nav-item">
-            <a class="nav-link active" id="faixaEtaria_sexo_confirmados-tab" data-toggle="tab" href="#faixaEtaria_sexo_confirmados" role="tab" aria-controls="faixaEtaria_sexo_confirmados" aria-selected="true">Confirmados</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" id="faixaEtaria_sexo_mortos-tab" data-toggle="tab" href="#faixaEtaria_sexo_mortos" role="tab" aria-controls="faixaEtaria_sexo_mortos" aria-selected="false">Mortes</a>
-          </li>
-        </ul>
+        <h5 class="text-center">Faixa etária das mortes por Covid-19</h5>
 
-        <div class="tab-content" id="myTabContent">
+        <div class="row">
+          <figure class="mx-auto">
+            <div id="visualizacao_paciente_idade_mortos" class="chartContainer"></div>
+            <script type="text/javascript" src="assets/js/visualizacao_paciente_idade_mortos.js"></script>
+          </figure>
+        </div>
 
-          <div class="tab-pane fade show active" id="faixaEtaria_sexo_confirmados" role="tabpanel" aria-labelledby="faixaEtaria_sexo_confirmados-tab">
-            <div class="row">
-              <div id="visualizacao_faixaEtaria_sexo_confirmados" class="mx-auto"></div>
-              <script type="text/javascript" src="assets/js/visualizacao_faixaEtaria_sexo_confirmados.js"></script>
-            </div>
-          </div>
+        <hr>
 
-          <div class="tab-pane fade" id="faixaEtaria_sexo_mortos" role="tabpanel" aria-labelledby="faixaEtaria_sexo_mortos-tab">
-            <div class="row">
-              <div id="visualizacao_faixaEtaria_sexo_mortos" class="mx-auto"></div>
-              <script type="text/javascript" src="assets/js/visualizacao_faixaEtaria_sexo_mortos.js"></script>
-            </div>
-          </div>
+        <h5 class="text-center">Faixa etária dos casos confirmados de Covid-19 separados por sexo</h5>
 
+        <div class="row">
+          <figure class="mx-auto">
+            <div id="visualizacao_faixaEtaria_sexo_confirmados" class="chartContainer"></div>
+            <script type="text/javascript" src="assets/js/visualizacao_faixaEtaria_sexo_confirmados.js"></script>
+          </figure>
+        </div>
+
+        <hr>
+
+        <h5 class="text-center">Faixa etária das mortes por Covid-19 separados por sexo</h5>
+
+        <div class="row">
+          <figure class="mx-auto">
+            <div id="visualizacao_faixaEtaria_sexo_mortos" class="chartContainer"></div>
+            <script type="text/javascript" src="assets/js/visualizacao_faixaEtaria_sexo_mortos.js"></script>
+          </figure>
         </div>
 
       </div>

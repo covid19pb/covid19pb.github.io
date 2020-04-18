@@ -1,7 +1,6 @@
 var viewDiaria = {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.0.2.json",
-  "width": 300,
-    "height": 200,
+  "width": "container",
   "config": {
     "background": "transparent",
     "view": {"continuousWidth": 400, "continuousHeight": 300}
