@@ -1,4 +1,4 @@
-var viewFaixaEtariaMortos = {
+var viewFaixaEtariaSelecaoMortos = {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.0.2.json",
   "data": {
     "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_boletim_FaixaEtaria.csv"
@@ -17,10 +17,10 @@ var viewFaixaEtariaMortos = {
           "type": "nominal",
           "field": "key",
           "legend": {
-            "labelFontSize": 12,
+            "labelFontSize": 16,
             "orient": "top",
             "title": "Selecione a opção",
-            "titleFontSize": 14
+            "titleFontSize": 16
           },
           "scale": {
             "domain": ["Total", "Masculino", "Feminino"],
@@ -212,4 +212,4 @@ var viewFaixaEtariaMortos = {
     }
   ]
 };
-vegaEmbed('#visualizacao_paciente_faixa_etaria_mortos', viewFaixaEtariaMortos);
+vegaEmbed('#visualizacao_faixaEtaria_selecaoMortos', viewFaixaEtariaSelecaoMortos);
