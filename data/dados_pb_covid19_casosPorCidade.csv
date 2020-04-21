@@ -1,4 +1,4 @@
-"name","uf","codigo","meso","micro","casos_suspeitos","casos_confirmados","curados","mortes"
+"municipio","uf","codigo","meso","micro","suspeitosInternados","confirmadosAcumulados","recuperadosAcumulados","mortesAcumuladas"
 "Água Branca","PB","2500106","SERTAO PARAIBANO","SERRA DO TEIXEIRA",0,0,0,0
 "Aguiar","PB","2500205","SERTAO PARAIBANO","PIANCO",0,0,0,0
 "Alagoa Grande","PB","2500304","AGRESTE PARAIBANO","BREJO PARAIBANO",0,0,0,0

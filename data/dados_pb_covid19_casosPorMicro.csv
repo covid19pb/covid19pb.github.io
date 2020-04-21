@@ -1,4 +1,4 @@
-"micro","uf","meso","casos_suspeitos","casos_confirmados","curados","mortes"
+"micro","uf","meso","suspeitosInternados","confirmadosAcumulados","recuperadosAcumulados","mortesAcumuladas"
 "BREJO PARAIBANO","UF","AGRESTE PARAIBANO",0,0,0,0
 "CAJAZEIRAS","PB","SERTAO PARAIBANO",0,2,0,0
 "CAMPINA GRANDE","PB","AGRESTE PARAIBANO",0,13,0,2

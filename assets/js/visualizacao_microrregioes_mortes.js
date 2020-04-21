@@ -17,7 +17,7 @@ var viewMicrorregioesMortes = {
 			},
 			"key": "micro",
 			"fields": [
-				"micro","uf","meso","casos_suspeitos","casos_confirmados","curados","mortes"
+				"micro","uf","meso","suspeitosInternados","confirmadosAcumulados","recuperadosAcumulados","mortesAcumuladas"
 			]
 		}
 	}],
@@ -27,9 +27,9 @@ var viewMicrorregioesMortes = {
 	},
 	"encoding": {
 		"color": {
-			"field": "mortes",
+			"field": "mortesAcumuladas",
 			"type": "quantitative", 
-			"title": "Mortes",
+			"title": "Mortes acumuladas",
 			"scale": {
 				"domain" : [0, 2, 4, 7, 10, 25],
 				"range": ["#F0F0F0", "#FFB000", "#FE6100", "#DC267F", "#785EF0", "#648FFF"]
@@ -56,14 +56,14 @@ var viewMicrorregioesMortes = {
 				"title": "Mesorregião: "
 			},
 						{
-				"field": "mortes",
+				"field": "mortesAcumuladas",
 				"type": "quantitative",
-				"title": "Mortes: "
+				"title": "Mortes acumuladas: "
 			},
 			{
-				"field": "casos_confirmados",
+				"field": "confirmadosAcumulados",
 				"type": "quantitative",
-				"title": "Casos confirmados: "
+				"title": "Confirmados acumulados: "
 			}
 		]
 	}

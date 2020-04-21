@@ -17,7 +17,7 @@ var viewCidadesMortes = {
 			},
 			"key": "codigo",
 			"fields": [
-				"name","uf","codigo","meso","micro","casos_confirmados","curados","mortes"
+				"municipio","uf","codigo","meso","micro","confirmadosAcumulados","recuperadosAcumulados","mortesAcumuladas"
 			]
 		}
 	}],
@@ -27,9 +27,9 @@ var viewCidadesMortes = {
 	},
 	"encoding": {
 		"color": {
-			"field": "mortes",
+			"field": "mortesAcumuladas",
 			"type": "quantitative", 
-			"title": "Mortes",
+			"title": "Mortes acumuladas",
 			"scale": {
 				"domain" : [0, 2, 4, 7, 10, 20],
 				"range": ["#F0F0F0", "#FFB000", "#FE6100", "#DC267F", "#785EF0", "#648FFF"]
@@ -61,14 +61,14 @@ var viewCidadesMortes = {
 				"title": "Microrregião: "
 			},
 			{
-				"field": "mortes",
+				"field": "mortesAcumuladas",
 				"type": "quantitative",
-				"title": "Mortes: "
+				"title": "Mortes acumuladas: "
 			},
 			{
-				"field": "casos_confirmados",
+				"field": "confirmadosAcumulados",
 				"type": "quantitative",
-				"title": "Casos confirmados: "
+				"title": "Confirmados acumulados: "
 			}
 		]
 	}
