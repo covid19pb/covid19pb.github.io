@@ -1,7 +1,11 @@
 var viewCidadesMortes = {
 	"$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-	"title": "Mortes de Covid-19 por cidades",
+	//"title": "Mortes de Covid-19 por cidades",
 	"width": "container",
+   "config": {
+   	   "background": "transparent",
+   	   "view": {"continuousWidth": 400, "continuousHeight": 300}   	   
+  },
 	"data": {
 		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/mapa_cidades_paraiba.json",
 		"format": {

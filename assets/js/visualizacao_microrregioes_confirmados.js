@@ -1,7 +1,11 @@
 var viewMicrorregioesConfirmados = {
 	"$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-	"title": "Casos confirmados de Covid-19 por microrregiões",
+//	"title": "Casos confirmados de Covid-19 por microrregiões",
 	"width": "container",
+   "config": {
+   	   "background": "transparent",
+   	   "view": {"continuousWidth": 400, "continuousHeight": 300}   	   
+  },
 	"data": {
 		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/mapa_micro_paraiba.json",
 		"format": {
