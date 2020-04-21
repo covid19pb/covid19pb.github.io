@@ -19,23 +19,23 @@ var viewDiaria = {
       "type": "nominal",
       "field": "key",
       "legend": {
-        "columns": 3,
+        "columns": 1,
         "labelFontSize": 12,
         "orient": "bottom",
         "title": "Tipos de Casos",
         "titleFontSize": 14
       },
       "scale": {
-        "domain": ["Total de Casos", "Novos Casos", "Mortes"],
+        "domain": ["Confirmados acumulados", "Confirmados por dia", "Mortes acumuladas"],
         "range": ["#ff8533", "#1f77b4", "#e60000"]
       }
     },
     "tooltip": [
       {"type": "temporal", "field": "data", "title": "Data"},
-      {"type": "quantitative", "field": "totalDeCasos", "title": "Total de Casos"},
-      {"type": "quantitative", "field": "mortes", "title": "Total de Mortes"},
-      {"type": "quantitative", "field": "taxa_morte", "format": ".2%","title": "Taxa de Mortalidade"},
-      {"type": "quantitative", "field": "novosCasos", "title": "Novos Casos"}
+      {"type": "quantitative", "field": "confirmadosAcumulados", "title": "Confirmados acumulados"},
+      {"type": "quantitative", "field": "mortesAcumuladas", "title": "Mortes acumuladas"},
+      {"type": "quantitative", "field": "taxa_letalidade", "format": ".2%","title": "Taxa de letalidade"},
+      {"type": "quantitative", "field": "confirmadosPorDia", "title": "Confirmados por dia"}
     ],
     "x": {
       "type": "temporal",
@@ -59,21 +59,21 @@ var viewDiaria = {
     }
   },
   "transform": [
-    {"fold": ["novosCasos", "totalDeCasos", "mortes"]},
+    {"fold": ["confirmadosPorDia", "confirmadosAcumulados", "mortesAcumuladas"]},
     {
-      "calculate": "if((datum.key === 'novosCasos'),'Novos Casos',datum.key)",
+      "calculate": "if((datum.key === 'confirmadosPorDia'),'Confirmados por dia',datum.key)",
       "as": "key"
     },
     {
-      "calculate": "if((datum.key === 'totalDeCasos'),'Total de Casos',datum.key)",
+      "calculate": "if((datum.key === 'confirmadosAcumulados'),'Confirmados acumulados',datum.key)",
       "as": "key"
     },
     {
-      "calculate": "if((datum.key === 'mortes'),'Mortes',datum.key)",
+      "calculate": "if((datum.key === 'mortesAcumuladas'),'Mortes acumuladas',datum.key)",
       "as": "key"
     },
-    {"calculate": "datum.mortes / datum.totalDeCasos", 
-    "as": "taxa_morte"}
+    {"calculate": "datum.mortesAcumuladas / datum.confirmadosAcumulados", 
+    "as": "taxa_letalidade"}
   ]
 };
 vegaEmbed('#visualizacao_diaria', viewDiaria);

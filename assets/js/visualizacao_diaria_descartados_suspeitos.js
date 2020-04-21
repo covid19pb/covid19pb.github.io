@@ -26,11 +26,7 @@ var viewDiariaDescartadosSuspeitos = {
         "titleFontSize": 14
       },
       "scale": {
-        "domain": [
-          "Descartados",
-          "Suspeitos Notificados",
-          "Suspeitos Internados"
-        ],
+        "domain": ["Descartados acumulados", "Suspeitos Notificados", "Suspeitos Internados"],
         "range": ["#1f77b4", "#ff8533", "#e60000"]
       }
     },
@@ -60,9 +56,9 @@ var viewDiariaDescartadosSuspeitos = {
     }
   },
   "transform": [
-    {"fold": ["descartados", "suspeitosInternados", "notificacoesSuspeitos"]},
+    {"fold": ["descartadosAcumulados", "suspeitosInternados", "notificacoesSuspeitos"]},
     {
-      "calculate": "if((datum.key === 'descartados'),'Descartados',datum.key)",
+      "calculate": "if((datum.key === 'descartadosAcumulados'),'Descartados acumulados',datum.key)",
       "as": "key"
     },
     {
