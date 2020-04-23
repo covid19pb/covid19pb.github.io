@@ -29,8 +29,8 @@ var viewSexoMortes = {
 	},{
 		"mark": {
 	    	"type": "text",
-	    	"radiusOffset": 50,
-	    	"fontSize": 40
+	    	"radiusOffset": 25,
+	    	"fontSize": 30
 	    },
 	    "encoding": {
 	    	"text": {

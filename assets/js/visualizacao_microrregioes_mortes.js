@@ -35,7 +35,7 @@ var viewMicrorregioesMortes = {
 			"type": "quantitative", 
 			"title": "Mortes acumuladas",
 			"scale": {
-				"domain" : [0, 2, 4, 7, 10, 30],
+				"domain" : [0, 2, 4, 7, 10, 40],
 				"range": ["#F0F0F0", "#FFB000", "#FE6100", "#DC267F", "#785EF0", "#648FFF"]
 			},
 			"legend": {
