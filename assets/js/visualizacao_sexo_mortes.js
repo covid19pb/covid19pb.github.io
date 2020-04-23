@@ -30,7 +30,7 @@ var viewSexoMortes = {
 		"mark": {
 	    	"type": "text",
 	    	"radiusOffset": 50,
-	    	"fontSize": 50
+	    	"fontSize": 40
 	    },
 	    "encoding": {
 	    	"text": {
@@ -62,7 +62,7 @@ var viewSexoMortes = {
 	      	"type": "nominal",
 	      	"legend": {
 	        	"labelFontSize": 16,
-	        	"orient": "bottom",
+	        	"orient": "top",
 	        	"title": "Sexo",
 	        	"titleFontSize": 14
 	      	},
@@ -73,4 +73,5 @@ var viewSexoMortes = {
 	    }
 	},
 	"view": {"stroke": null}
-};vegaEmbed('#visualizacao_sexo_mortes', viewSexoMortes);
+};
+vegaEmbed('#visualizacao_sexo_mortes', viewSexoMortes);

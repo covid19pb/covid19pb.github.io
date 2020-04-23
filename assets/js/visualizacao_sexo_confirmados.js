@@ -30,7 +30,7 @@ var viewSexoConfirmados = {
 		"mark": {
 	    	"type": "text",
 	    	"radiusOffset": 50,
-	    	"fontSize": 50
+	    	"fontSize": 40
 	    },
 	    "encoding": {
 	    	"text": {
@@ -62,7 +62,7 @@ var viewSexoConfirmados = {
 	      	"type": "nominal",
 	      	"legend": {
 	        	"labelFontSize": 16,
-	        	"orient": "bottom",
+	        	"orient": "top",
 	        	"title": "Sexo",
 	        	"titleFontSize": 14
 	      	},
@@ -73,4 +73,5 @@ var viewSexoConfirmados = {
 	    }
 	},
 	"view": {"stroke": null}
-};vegaEmbed('#visualizacao_sexo_confirmados', viewSexoConfirmados);
+};
+vegaEmbed('#visualizacao_sexo_confirmados', viewSexoConfirmados);
