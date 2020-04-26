@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Boletins</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/covid_icon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,400,500,600,700" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="assets/vendor/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- Visualização de dados - Vega Lite -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header">
+
+    <div class="container">
+
+      <div class="logo float-left">
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <h1 class="text-light"><a href="#sessao_inicial" class="scrollto"><span>COVID-19 PB</span></a></h1>
+        <!-- <a href="#header" class="scrollto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
+      </div>
+
+      <nav class="main-nav float-right d-none d-lg-block">
+        <ul>
+          <li><a href="index.html">Página Inicial</a></li>
+          <li><a href="#footer">Contato</a></li>
+        </ul>
+      </nav><!-- .main-nav -->
+
+    </div>
+  </header><!-- #header -->
+
+  <!-- ======= Seção Inicial ======= -->
+  <section id="sessao_inicial" class="clearfix section-bg">
+    <div class="container d-flex h-100">
+      <div class="row justify-content-center align-self-center">
+        <div class="col-md-6 intro-info order-md-first order-last">
+          <h2>Visualização de dados<br>do coronavírus no estado da <span>Paraíba</span></h2>
+        </div>
+
+        <div class="col-md-6 intro-img order-md-last order-first">
+          <img src="assets/img/paraiba_mapa.svg" alt="" class="img-fluid">
+        </div>
+        
+      </div>
+
+    </div>
+  </section><!-- Fim da Seção Inicial -->
+
+  <main id="main">
+
+    <!-- ======= Seção das fontes de informação ======= -->
+    <section id="clients" class="clients wow fadeInUp">
+      <div class="container">
+
+        <header class="section-header">
+          <h3>Fontes da nossa informação</h3>
+        </header>
+
+        <div class="owl-carousel clients-carousel">
+          <img src="assets/img/clients/secretaria_saude_pb.jpg" alt="">
+          <img src="assets/img/clients/g1_pb.png" alt="">
+          <img src="assets/img/clients/portalcorreio.jpg" alt="">
+          <img src="assets/img/clients/clickpb.jpg" alt="">
+        </div>
+
+        <br>
+
+        <div class="table-responsive">
+	        <table class="table table-striped">
+	          <thead>
+	            <tr>
+	              <th scope="col">Data</th>
+	              <th scope="col">Horário</th>
+	              <th scope="col">Fonte de informação</th>
+	            </tr>
+	          </thead>
+	          <tbody>
+              <tr>
+                <th scope="row">26/04/2020</th>
+                <td>18h00min</td>
+                <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-26-04" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/26/casos-de-coronavirus-na-paraiba-em-26-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/paraiba/paraiba-tem-29-casos-descartados-de-coronavirus-numero-de-mortos-sobe-para-50-282885.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/pb-registra-44-novos-casos-de-covid-19-total-chega-543/" target="_blank">Portal Correio</a></td>
+              </tr>
+              <tr>
+                <th scope="row">25/04/2020</th>
+                <td>19h00min</td>
+                <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-25-04" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/25/casos-de-coronavirus-na-paraiba-em-25-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/paraiba-registra-52-novos-casos-de-covid-19-e-tres-obitos-nas-ultimas-24h-282845.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/mais-52-casos-de-coronavirus-sao-registrados-na-pb-e-total-chega-499/" target="_blank">Portal Correio</a></td>
+              </tr>
+              <tr>
+                <th scope="row">24/04/2020</th>
+                <td>19h00min</td>
+                <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-24-04" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/24/casos-de-coronavirus-na-paraiba-em-24-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/paraiba-registra-46-mortes-e-447-casos-confirmados-de-covid-19-282808.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/pb-registra-61-casos-de-coronavirus-em-24h-e-total-sobe-para-447/" target="_blank">Portal Correio</a></td>
+              </tr>
+	            <tr>
+                <th scope="row">23/04/2020</th>
+                <td>19h30min</td>
+                <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-23-04" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/23/casos-de-coronavirus-na-paraiba-em-23-de-abril.ghtml" target="_blank">G1 PB</a> e <a href="https://www.clickpb.com.br/saude/paraiba-registra-44-mortes-e-386-casos-confirmados-de-covid-19-282746.html" target="_blank">Click PB</a></td>
+              </tr>
+	            <tr>
+                <th scope="row">22/04/2020</th>
+                <td>19h00min</td>
+                <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-22-04" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/22/casos-de-coronavirus-na-paraiba-em-22-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/paraiba-registra-40-mortes-e-345-casos-confirmados-de-covid-19-282667.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/pb-registra-44-casos-de-coronavirus-em-24h-e-chega-345/" target="_blank">Portal Correio</a></td>
+              </tr>
+              <tr>
+                <th scope="row">21/04/2020</th>
+                <td>19h00min</td>
+                <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/arquivos/boletim-epidemiologico-10_covid_19_ses_pb-1-1.pdf" target="_blank">Boletim Epidemiológico</a>, <a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-21-04" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/21/casos-de-coronavirus-na-paraiba-em-21-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/casos-de-coronavirus-na-paraiba-passam-marca-de-300-estado-ja-tem-39-mortes-confirmadas-282599.html" target="_blank">Click PB</a> e  e <a href="https://portalcorreio.com.br/casos-de-coronavirus-passam-de-300-na-pb-e-mortes-sobem-para-39/" target="_blank">Portal Correio</a></td>
+              </tr>
+	          	<tr>
+                <th scope="row">20/04/2020</th>
+                <td>18h00min</td>
+                <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-20-04-17h" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/20/casos-de-coronavirus-na-paraiba-em-20-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/paraiba/paraiba-tem-33-mortes-263-casos-confirmados-e116-recuperados-do-coronavirus-282542.html" target="_blank">Click PB</a> e  e <a href="https://portalcorreio.com.br/pb-chega-a-263-casos-de-coronavirus-com-33-mortos-e-116-curados/" target="_blank">Portal Correio</a></td>
+              </tr>
+	            <tr>
+                <th scope="row">19/04/2020</th>
+                <td>17h30min</td>
+                <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-19-04-17h" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/19/casos-de-coronavirus-na-paraiba-em-19-de-abril.ghtml" target="_blank">G1 PB</a> e <a href="https://www.clickpb.com.br/saude/paraiba-tem-245-casos-confirmados-de-covid-19-ja-sao-32-mortes-e-99-pessoas-se-recuperaram-282467.html" target="_blank">Click PB</a></td>
+              </tr>
+              <tr>
+                <th scope="row">18/04/2020</th>
+                <td>19h00min</td>
+                <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-18-04-17h" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/18/casos-de-coronavirus-na-paraiba-em-18-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/paraiba/paraiba-tem-29-mortes-236-casos-confirmados-e-90-recuperados-do-coronavirus-282438.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/sobem-para-236-os-casos-de-coronavirus-na-pb-com-29-mortes/" target="_blank">Portal Correio</a></td>
+              </tr>
+	          	<tr>
+                <th scope="row">17/04/2020</th>
+                <td>19h00min</td>
+                <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-17-04-17h" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/17/casos-de-coronavirus-na-paraiba-em-17-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/mortes-por-covid-19-na-paraiba-sobem-para-28-estado-ja-contabiliza-mais-de-200-casos-da-doenca-282396.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/pb-tem-205-casos-de-coronavirus-com-90-curados-e-28-mortos/" target="_blank">Portal Correio</a></td>
+              </tr>
+	            <tr>
+                <th scope="row">16/04/2020</th>
+                <td>19h00min</td>
+                <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-16-04-17h00" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/16/casos-de-coronavirus-na-paraiba-em-16-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/sobe-para-26-numero-de-mortes-por-coronavirus-na-paraiba-e-casos-confirmados-chegam-195-282313.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/cg-tem-1a-morte-por-coronavirus-pb-tem-195-casos-e-26-obitos/" target="_blank">Portal Correio</a></td>
+              </tr>
+              <tr>
+                <th scope="row">15/04/2020</th>
+                <td>18h00min</td>
+                <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-15-04-17h00" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/15/casos-de-coronavirus-na-paraiba-em-15-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/sobe-para-24-numero-de-mortes-por-coronavirus-na-paraiba-e-casos-confirmados-chegam-165-282239.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/paraiba-tem-165-casos-de-coronavirus-e-24-mortes/" target="_blank">Portal Correio</a></td>
+              </tr>
+	          	<tr>
+                <th scope="row">14/04/2020</th>
+                <td>18h00min</td>
+                <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-14-04-16h30" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/14/casos-de-coronavirus-na-paraiba-em-14-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/mortes-por-covid-19-na-paraiba-chegam-21-casos-confirmados-sobem-para-152-282148.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/casos-de-coronavirus-na-pb-sobem-para-152-com-21-mortes/" target="_blank">Portal Correio</a></td>
+              </tr>
+              <tr>
+                <th scope="row">13/04/2020</th>
+                <td>22h00min</td>
+                <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-13-04-19h" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/13/casos-de-coronavirus-na-paraiba-em-13-de-abril.ghtml.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/paraiba-tem-117-casos-confirmados-e-3-mortes-por-coronavirus-total-de-obitos-chega-16-282085.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/casos-de-coronavirus-chegam-a-136-na-pb-e-mortes-sobem-para-16/" target="_blank">Portal Correio</a></td>
+              </tr>
+              <tr>
+                <th scope="row">12/04/2020</th>
+                <td>18h35min</td>
+                <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-12-04-17h" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/12/casos-de-coronavirus-na-paraiba-em-12-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/sobe-para-110-o-numero-de-casos-confirmados-de-coronavirus-na-paraiba-282008.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/casos-coronavirus-110-paraiba/" target="_blank">Portal Correio</a></td>
+              </tr>
+              <tr>
+                <th scope="row">11/04/2020</th>
+                <td>19h15min</td>
+                <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-11-04-17h" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/11/casos-de-coronavirus-na-paraiba-em-11-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/paraiba-tem-13-mortes-por-coronavirus-e-ultrapassa-os-100-casos-confirmados-281965.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/casos-de-coronavirus-passam-de-100-e-mortes-sobem-para-13-na-pb/" target="_blank">Portal Correio</a></td>
+              </tr>
+              <tr>
+                <th scope="row">10/04/2020</th>
+                <td>18h30min</td>
+                <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-10-04-17h" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/10/casos-de-coronavirus-na-paraiba-em-10-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/paraiba-tem-mais-seis-casos-confirmados-de-coronavirus-e-numero-ainda-e-de-11-mortes-281941.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/casos-de-coronavirus-seguem-subindo-e-chegam-a-85-na-paraiba/" target="_blank">Portal Correio</a></td>
+              </tr>
+              <tr>
+                <th scope="row">09/04/2020</th>
+                <td>22h00min</td>
+                <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-09-04-19h" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/09/casos-de-coronavirus-na-paraiba-em-9-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/paraiba-tem-11-mortes-por-covid-19-total-de-casos-confirmados-chega-79-281913.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/coronavirus-mortes-saltam-para-11-e-casos-ja-sao-79-na-pb/" target="_blank">Portal Correio</a></td>
+              </tr>
+	          	<tr>
+	              <th scope="row">08/04/2020</th>
+	              <td>19h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-08-04-17h30" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/08/casos-de-coronavirus-na-paraiba-em-8-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/sobe-para-7-numero-de-mortes-por-coronavirus-na-paraiba-e-casos-confirmados-sao-55-no-total-281832.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/casos-de-coronavirus-disparam-na-pb-e-chegam-a-55-com-sete-mortes/" target="_blank">Portal Correio</a></td>
+	            </tr>
+	          	<tr>
+	              <th scope="row">07/04/2020</th>
+	              <td>18h15min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-07-04-17h30" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/07/casos-de-coronavirus-na-paraiba-em-7-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/paraiba-soma-mais-5-casos-confirmados-de-infeccao-por-coronavirus-e-total-sobe-para-41-infectados-281746.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/pb-tem-36-casos-de-coronavirus-4-mortes-e-608-descartados/" target="_blank">Portal Correio</a></td>
+	            </tr>
+	          	<tr>
+	              <th scope="row">06/04/2020</th>
+	              <td>19h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-06-04-17h" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/06/casos-de-coronavirus-na-paraiba-em-6-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/paraiba-tem-36-casos-confirmados-do-novo-coronavirus-281671.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/pb-tem-36-casos-de-coronavirus-4-mortes-e-608-descartados/" target="_blank">Portal Correio</a></td>
+	            </tr>
+	          	<tr>
+	              <th scope="row">05/04/2020</th>
+	              <td>19h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-05-04-17h" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://www.clickpb.com.br/paraiba/paraiba-confirma-quarta-morte-por-coronavirus-e-registra-35-casos-no-total-281584.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/paraiba-confirma-quarta-morte-causada-por-coronavirus/" target="_blank">Portal Correio</a></td>
+	            </tr>
+	          	<tr>
+	              <th scope="row">04/04/2020</th>
+	              <td>18h45min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-03-04-20h-1" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/04/casos-de-coronavirus-na-paraiba-em-4-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/paraiba/paraiba-confirma-terceira-morte-por-coronavirus-e-registra-34-casos-no-total-281544.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/homem-de-43-anos-morre-com-coronavirus-apos-4-dias-internado-em-jp/" target="_blank">Portal Correio</a></td>
+	            </tr>
+	          	<tr>
+	              <th scope="row">04/04/2020</th>
+	              <td>13h25min</td>
+	              <td><a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/04/idosa-morre-vitima-do-novo-coronavirus-na-paraiba-diz-ses.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/segunda-morte-por-covid-19-e-confirmada-na-paraiba-mulher-de-86-anos-era-de-junco-do-serido-281529.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/paraiba-confirma-segunda-morte-causada-por-coronavirus/" target="_blank">Portal Correio</a></td>
+	            </tr>
+	          	<tr>
+	              <th scope="row">03/04/2020</th>
+	              <td>21h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-03-04-20h" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/03/casos-de-coronavirus-na-paraiba-em-3-de-abril.ghtml" target="_blank">G1 PB</a> e <a href="https://www.clickpb.com.br/paraiba/paraiba-tem-dois-novos-casos-de-coronavirus-em-junco-de-serido-e-serra-branca-total-chega-32-28151" target="_blank">Click PB</a></td>
+	            </tr>
+	          	<tr>
+	              <th scope="row">03/04/2020</th>
+	              <td>15h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-03-04-13h40" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/03/casos-de-coronavirus-na-paraiba-em-3-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/sobe-para-30-numero-de-casos-confirmados-de-coronavirus-na-paraiba-281481.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/sobe-para-30-o-numero-de-casos-de-coronavirus-na-pb/" target="_blank">Portal Correio</a></td>
+	            </tr>
+	          	<tr>
+	              <th scope="row">02/04/2020</th>
+	              <td>19h15min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-02-04-18h" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/02/casos-de-coronavirus-na-paraiba-em-2-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/mulher-de-88-anos-de-idade-internada-em-uti-testa-positivo-para-covid-19-e-paraiba-tem-29-casos-no-total-281424.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/paraiba-tem-29-casos-de-coronavirus-e-445-descartados/" target="_blank">Portal Correio</a></td>
+	            </tr>
+	          	<tr>
+	              <th scope="row">02/04/2020</th>
+	              <td>13h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-02-04-12h" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/02/casos-de-coronavirus-na-paraiba-em-2-de-abril.ghtml" target="_blank">G1 PB</a> e <a href="https://www.clickpb.com.br/saude/paraiba-tem-mais-7-casos-confirmados-de-coronavirus-e-total-e-de-28-infectados-281394.html" target="_blank">Click PB</a></td>
+	            </tr>
+	          	<tr>
+	              <th scope="row">01/04/2020</th>
+	              <td>18h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-01-04-18h" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/01/casos-de-coronavirus-na-paraiba-em-1o-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/paraiba/numero-de-casos-confirmados-de-covid-19-na-paraiba-chega-21-281337.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/pb-confirma-21o-caso-de-coronavirus-15-deles-estao-em-jp/" target="_blank">Portal Correio</a></td>
+	            </tr>
+	          	<tr>
+	              <th scope="row">01/04/2020</th>
+	              <td>12h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-01-04-10h" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/04/01/casos-de-coronavirus-na-paraiba-em-1o-de-abril.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/numero-de-casos-confirmados-de-covid-19-na-paraiba-chega-20-281304.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/20-casos-confirmados-coronavirus-pb/" target="_blank">Portal Correio</a></td>
+	            </tr>
+	          	<tr>
+	              <th scope="row">31/03/2020</th>
+	              <td>19h15min</td>
+	              <td><a href="https://g1.globo.com/pb/paraiba/noticia/2020/03/31/casos-de-coronavirus-na-paraiba-em-31-de-marco.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/paraiba-tem-19-casos-confirmados-407-casos-descartados-e-um-obito-do-novo-coronavirus-281261.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/chegam-19-os-casos-confirmados-de-coronavirus-na-pb/" target="_blank">Portal Correio</a></td>
+	            </tr>
+	          	<tr>
+	              <th scope="row">31/03/2020</th>
+	              <td>17h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-31-03-17h" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/03/31/paraiba-registra-primeira-morte-por-covid-19-diz-ses.ghtml" target="_blank">G1 PB</a>, <a href="https://www.clickpb.com.br/saude/paraiba-confirma-primeira-morte-por-coronavirus-281241.html" target="_blank">Click PB</a> e <a href="https://portalcorreio.com.br/paraiba-registra-primeira-morte-pelo-coronavirus/" target="_blank">Portal Correio</a></td>
+	            </tr>
+	          	<tr>
+	              <th scope="row">31/03/2020</th>
+	              <td>12h15min</td>
+	              <td><a href="https://paraiba.pb.gov.br/noticias/saude-divulga-perfil-de-coronavirus-na-paraiba-em-boletim-epidemiologico" target="_blank">Boletim da Secretaria de Saúde</a></td>
+	            </tr>
+	          	<tr>
+	              <th scope="row">30/03/2020</th>
+	              <td>17h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-30-03-17h" target="_blank">Boletim da Secretaria de Saúde da PB</a>, <a href="https://g1.globo.com/pb/paraiba/noticia/2020/03/30/casos-de-coronavirus-na-paraiba-em-30-de-marco.ghtml" target="_blank">G1 PB</a> e <a href="https://www.clickpb.com.br/saude/paraiba-tem-17-casos-confirmados-de-coronavirus-281158.html" target="_blank">Click PB</a></td>
+	            </tr>
+	            <tr>
+	              <th scope="row">30/03/2020</th>
+	              <td>10h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-30-03-10h" target="_blank">https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-30-03-10h</a></td>
+	            </tr>
+	            <tr>
+	              <th scope="row">29/03/2020</th>
+	              <td> - </td>
+	              <td>Não foi publicado nenhum boletim da secretaria de saúde da Paraíba nesta data</td>
+	            </tr>
+	            <tr>
+	              <th scope="row">28/03/2020</th>
+	              <td>10h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-28-03-09h30" target="_blank">https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-28-03-09h30</a></td>
+	            </tr>
+	            <tr>
+	              <th scope="row">27/03/2020</th>
+	              <td>17h46min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-27-03-17h46" target="_blank">https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-27-03-17h46</a></td>
+	            </tr>
+	            <tr>
+	              <th scope="row">27/03/2020</th>
+	              <td>10h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-27-03-10h" target="_blank">https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-27-03-10h</a></td>
+	            </tr>
+	            <tr>
+	              <th scope="row">26/03/2020</th>
+	              <td>17h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-26-03-17h" target="_blank">https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-26-03-17h</a></td>
+	            </tr>
+	            <tr>
+	              <th scope="row">26/03/2020</th>
+	              <td>7h30min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-26-03-7h30" target="_blank">https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-26-03-7h30</a></td>
+	            </tr>
+	            <tr>
+	              <th scope="row">25/03/2020</th>
+	              <td>18h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-25-03-18h" target="_blank">https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-25-03-18h</a></td>
+	            </tr>
+	            <tr>
+	              <th scope="row">24/03/2020</th>
+	              <td>20h35min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-24-03-20h35" target="_blank">https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-24-03-20h35</a></td>
+	            </tr>
+	            <tr>
+	              <th scope="row">24/03/2020</th>
+	              <td>18h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-24-03-18h" target="_blank">https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-24-03-18h</a></td>
+	            </tr>
+	            <tr>
+	              <th scope="row">24/03/2020</th>
+	              <td>10h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-24-03-10h" target="_blank">https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-24-03-10h</a></td>
+	            </tr>
+	            <tr>
+	              <th scope="row">23/03/2020</th>
+	              <td>20h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-23-03-20h" target="_blank">https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-23-03-20h</a></td>
+	            </tr>
+	            <tr>
+	              <th scope="row">23/03/2020</th>
+	              <td>07h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-23-03-07h" target="_blank">https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-23-03-07h</a></td>
+	            </tr>
+	            <tr>
+	              <th scope="row">22/03/2020</th>
+	              <td>20h00min</td>
+	              <td><a href="https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-22-03-20h" target="_blank">https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/atualizacao-covid-19-22-03-20h</a></td>
+	            </tr>
+	            <tr>
+	              <th scope="row">21/03/2020</th>
+	              <td> - </td>
+	              <td>Não foi publicado nenhum boletim da secretaria de saúde da Paraíba nesta data</td>
+	            </tr>
+	            <tr>
+	              <th scope="row">20/03/2020</th>
+	              <td> - </td>
+	              <td>Não foi publicado nenhum boletim da secretaria de saúde da Paraíba nesta data</td>
+	            </tr>
+	            <tr>
+	              <th scope="row">19/03/2020</th>
+	              <td> - </td>
+	              <td>Não foi publicado nenhum boletim da secretaria de saúde da Paraíba nesta data</td>
+	            </tr>
+	            <tr>
+	              <th scope="row">18/03/2020</th>
+	              <td>11h14min</td>
+	              <td><a href="https://paraiba.pb.gov.br/noticias/paraiba-confirma-primeiro-caso-de-coronavirus" target="_blank">https://paraiba.pb.gov.br/noticias/paraiba-confirma-primeiro-caso-de-coronavirus</a></td>
+	            </tr>
+	          </tbody>
+	        </table>
+	      </div>
+
+      </div>
+    </section><!-- Fim da Seção das fontes de informação -->
+
+    <!-- ======= Seção FAQ ======= -->
+    <section id="faq" class="faq wow fadeInUp section-bg">
+      <div class="container">
+        <header class="section-header">
+          <h3>Perguntas frequentes</h3>
+          <p>E algumas dicas</p>
+        </header>
+
+        <ul id="faq-list" class="wow fadeInUp">
+          <li>
+            <a data-toggle="collapse" class="collapsed" href="#faq1">Qual o intervalo de tempo para atualizar as informações? <i class="ion-android-remove"></i></a>
+            <div id="faq1" class="collapse" data-parent="#faq-list">
+              <p>
+                Geralmente, iremos atualizar o site duas ou três vezes ao dia. Na seção de <b>dados rápidos</b>, colocamos o horário da última atualização do site.
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <a data-toggle="collapse" href="#faq2" class="collapsed">Onde os dados estão armazenados? <i class="ion-android-remove"></i></a>
+            <div id="faq2" class="collapse" data-parent="#faq-list">
+              <p>
+                Colocamos todos os dados em um repositório do Github e todos os dados também estão acessíveis a todos os cidadãos. Por favor, acesse o link abaixo: <a href="https://github.com/covid19pb/covid19pb.github.io/tree/master/data" target="_blank">repositório de dados</a>
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <a data-toggle="collapse" href="#faq3" class="collapsed">Qual framework é utilizado para visualização dos dados? <i class="ion-android-remove"></i></a>
+            <div id="faq3" class="collapse" data-parent="#faq-list">
+              <p>
+                Nós estamos utilizando o Vega-lite, que está disponível gratuitamente no link abaixo: <a href="https://vega.github.io/vega-lite/" target="_blank">vega-lite</a>
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <a data-toggle="collapse" href="#faq4" class="collapsed">As visualizações são acessíveis para daltônicos? <i class="ion-android-remove"></i></a>
+            <div id="faq4" class="collapse" data-parent="#faq-list">
+              <p>
+                Nós estamos adaptando as cores dos mapas e dos gráficos para qualquer pessoa com daltonismo, garantindo assim, acessibilidade a todos. Nos baseamos no estudo do David Nichols, que possui PhD em matemática, para adaptar nossas visualizações aos daltônicos. Você pode acessar o estudo no link abaixo
+
+                <a href="https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40" target="_blank">estudo de paletas de cores para daltônicos</a>
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <a data-toggle="collapse" href="#faq5" class="collapsed">Aonde estão os boletins e informações dos dados?<i class="ion-android-remove"></i></a>
+            <div id="faq5" class="collapse" data-parent="#faq-list">
+              <p>
+                Os boletins da secretaria de saúde da Paraíba e as notícias diárias em relação ao Covid-19 na Paraíba estão disponíveis no link abaixo. Eles são atualizados no site diariamente a cada novo boletim publicado pelo governo da Paraíba.
+
+                <a href="boletins.html" target="_blank">Link dos boletins</a>
+              </p>
+            </div>
+          </li>
+
+        </ul>
+
+      </div>
+    </section><!-- Fim da Seção FAQ -->
+
+  </main><!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer" class="bg-white">
+    	<div class="footer-top">
+      	<div class="container">
+
+        	<div class="row">
+          	<div class="col-lg-4">
+                        
+              <div class="footer-newsletter text-justify">
+	              <h4>Um pouco sobre o projeto</h4>
+	              <p>Lembramos a todos que o Covid19pb é um site independente de organizações públicas. Todas as informações publicadas no nosso site estarão acessíveis a todo cidadão neste <a href="https://github.com/covid19pb/covid19pb.github.io/tree/master/data">link</a></p>
+            	</div>
+
+          	</div>
+                    
+          <div class="col-lg-4">    
+
+          	<div class="footer-links">
+            	<h4>Como entrar em contato?</h4>
+              <p>
+                Daniel Marques <br>
+                <strong><a href="https://twitter.com/Daniel_MVG">Twitter</a></strong><br><br>
+                ou
+                <br>
+                <strong>Email:</strong> danielmarquesvg@gmail.com
+              </p>
+              <br>
+
+            </div>  
+          </div>
+
+          <div class="col-lg-4">
+                        
+            <div class="footer-newsletter text-justify">
+					    <h4>Alguns projetos interessantes sobre o coronavírus no Brasil</h4>
+
+					    <p>Dr. em Ciências, Biólogo e explicador do mundo, Atila Iamarino, está fazendo um trabalho de conscientização no <a href="https://www.youtube.com/atilaiamarino">Youtube</a>, no <a href="https://twitter.com/oatila">Twitter</a> e também no <a href="https://www.instagram.com/oatila/?hl=pt-br">Instagram</a> </p>
+
+					    <p>As criadoras do canal Peixe Babel, no Twitter, também estão dando uma cobertura especial sobre os dados do coronavírus no Brasil, vale a pena dar uma olhadinha no <a href="https://twitter.com/canalpeixebabel">Twitter</a></p>
+
+					    <p>O Wesley Cota, doutorando pela Universidade Federal de Viçosa, está monitorando os dados do coronavírus a nível nacional, você pode acessar neste <a href="https://labs.wesleycota.com/sarscov2/br/">link</a></p>
+				    </div>
+				  </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong>2020</strong>.
+      </div>
+      <div class="credits">
+        Design por <a href="https://bootstrapmade.com/">BootstrapMade</a>, reformulado por <a href="https://danielmarquesvg.github.io/">Daniel Marques</a>
+      </div>
+    </div>
+
+  </footer><!-- End  Footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/counterup/counterup.min.js"></script>
+  <script src="assets/vendor/venobox/venobox.min.js"></script>
+  <script src="assets/vendor/mobile-nav/mobile-nav.js"></script>
+  <script src="assets/vendor/wow/wow.min.js"></script>
+  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
