@@ -6,16 +6,16 @@ Visualização de dados do Covid-19 no estado da Paraíba - Brasil.
 [https://covid19pb.github.io/](https://covid19pb.github.io/)
 
 ## Dashboards do governo da PB
-[Dashboard 40 - Casos confirmados na PB](https://superset.plataformatarget.com.br/superset/dashboard/40/)
-[Dashboard 41 - Apoio Psicológico](https://superset.plataformatarget.com.br/superset/dashboard/41/)
-[Dashboard 42 - Dados relativos a ligações sobre o coronavírus](https://superset.plataformatarget.com.br/superset/dashboard/42/)
-[Dashborad 44 - Dados comparativos entre estados](https://superset.plataformatarget.com.br/superset/dashboard/44/)
-[Dashborad 49 - Dados sobre leitos e hospitais](https://superset.plataformatarget.com.br/superset/dashboard/46/)
-[Dashborad 49 - Dados sobre leitos e hospitais](https://superset.plataformatarget.com.br/superset/dashboard/49/)
-[Dashboard 52 - Dados relativos a ligações sobre o coronavírus](https://superset.plataformatarget.com.br/superset/dashboard/52/)
-[Dashboard 55 - Dados epidemiológicos](https://superset.plataformatarget.com.br/superset/dashboard/55/)
-[Dashboard 56 - Dados de internações](https://superset.plataformatarget.com.br/superset/dashboard/56/)
-[Dashboard 58 - Dados de Cabedelo](https://superset.plataformatarget.com.br/superset/dashboard/58/)
+- [Dashboard 40 - Casos confirmados na PB](https://superset.plataformatarget.com.br/superset/dashboard/40/)
+- [Dashboard 41 - Apoio Psicológico](https://superset.plataformatarget.com.br/superset/dashboard/41/)
+- [Dashboard 42 - Dados relativos a ligações sobre o coronavírus](https://superset.plataformatarget.com.br/superset/dashboard/42/)
+- [Dashborad 44 - Dados comparativos entre estados](https://superset.plataformatarget.com.br/superset/dashboard/44/)
+- [Dashborad 49 - Dados sobre leitos e hospitais](https://superset.plataformatarget.com.br/superset/dashboard/46/)
+- [Dashborad 49 - Dados sobre leitos e hospitais](https://superset.plataformatarget.com.br/superset/dashboard/49/)
+- [Dashboard 52 - Dados relativos a ligações sobre o coronavírus](https://superset.plataformatarget.com.br/superset/dashboard/52/)
+- [Dashboard 55 - Dados epidemiológicos](https://superset.plataformatarget.com.br/superset/dashboard/55/)
+- [Dashboard 56 - Dados de internações](https://superset.plataformatarget.com.br/superset/dashboard/56/)
+- [Dashboard 58 - Dados de Cabedelo](https://superset.plataformatarget.com.br/superset/dashboard/58/)
 
 
 ## Siglas
