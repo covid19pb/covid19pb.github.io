@@ -16,7 +16,11 @@ Visualização de dados do Covid-19 no estado da Paraíba - Brasil.
 - [Dashboard 55 - Dados epidemiológicos](https://superset.plataformatarget.com.br/superset/dashboard/55/)
 - [Dashboard 56 - Dados de internações](https://superset.plataformatarget.com.br/superset/dashboard/56/)
 - [Dashboard 58 - Dados de Cabedelo](https://superset.plataformatarget.com.br/superset/dashboard/58/)
+- [Dashboard 64 - Casos confirmados SES - Paraíba](https://superset.plataformatarget.com.br/superset/dashboard/64/)
 - [Dashboard 65 - Codata casos notificados internados covid-19 Paraíba](https://superset.plataformatarget.com.br/superset/dashboard/65/)
+- [Dashboard 70 - Casos confirmados covid-19 Paraíba](https://superset.plataformatarget.com.br/superset/dashboard/70/)
+- [Dashboard 71 - Casos covid-19 Paraíba Helcio](https://superset.plataformatarget.com.br/superset/dashboard/71/)
+- [Dashboard 72 - Gestão de Leitos Covid-19 Paraíba](https://superset.plataformatarget.com.br/superset/dashboard/72/)
 - [Dashboard 74 - Capacidade hospitalar Paraíba](https://superset.plataformatarget.com.br/superset/dashboard/74/)
 
 ## Siglas
