@@ -10,13 +10,14 @@ Visualização de dados do Covid-19 no estado da Paraíba - Brasil.
 - [Dashboard 41 - Apoio Psicológico](https://superset.plataformatarget.com.br/superset/dashboard/41/)
 - [Dashboard 42 - Dados relativos a ligações sobre o coronavírus](https://superset.plataformatarget.com.br/superset/dashboard/42/)
 - [Dashborad 44 - Dados comparativos entre estados](https://superset.plataformatarget.com.br/superset/dashboard/44/)
-- [Dashborad 49 - Dados sobre leitos e hospitais](https://superset.plataformatarget.com.br/superset/dashboard/46/)
+- [Dashborad 46 - Dados sobre leitos e hospitais](https://superset.plataformatarget.com.br/superset/dashboard/46/)
 - [Dashborad 49 - Dados sobre leitos e hospitais](https://superset.plataformatarget.com.br/superset/dashboard/49/)
 - [Dashboard 52 - Dados relativos a ligações sobre o coronavírus](https://superset.plataformatarget.com.br/superset/dashboard/52/)
 - [Dashboard 55 - Dados epidemiológicos](https://superset.plataformatarget.com.br/superset/dashboard/55/)
 - [Dashboard 56 - Dados de internações](https://superset.plataformatarget.com.br/superset/dashboard/56/)
 - [Dashboard 58 - Dados de Cabedelo](https://superset.plataformatarget.com.br/superset/dashboard/58/)
-
+- [Dashboard 65 - Codata casos notificados internados covid-19 Paraíba](https://superset.plataformatarget.com.br/superset/dashboard/65/)
+- [Dashboard 74 - Capacidade hospitalar Paraíba](https://superset.plataformatarget.com.br/superset/dashboard/74/)
 
 ## Siglas
 - **SES** : Secretaria Estadual de Saúde da Paraíba
