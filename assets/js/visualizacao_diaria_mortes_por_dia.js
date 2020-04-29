@@ -1,4 +1,4 @@
-var viewDiariaDescartadosSuspeitos = {
+var viewDiariaMortesPorDia = {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.0.2.json",
     "width": "container",
     "config": {
@@ -9,7 +9,7 @@ var viewDiariaDescartadosSuspeitos = {
         "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorData.csv"
     },
     "mark": {
-        "type": "line",
+        "type": "bar",
         "opacity": 0.8,
         "point": {"filled": false, "fill": "white"},
         "strokeWidth": 2.5
@@ -26,13 +26,16 @@ var viewDiariaDescartadosSuspeitos = {
                 "titleFontSize": 14
             },
             "scale": {
-                "domain": ["Descartados acumulados", "Suspeitos Notificados"],
-                "range": ["#1f77b4", "#ff8533"]
+                "domain": ["Mortes por dia"],
+                "range": ["#e60000"]
             }
         },
         "tooltip": [
-            {"type": "quantitative", "field": "value", "title": "Número de Casos"},
-            {"type": "temporal", "field": "data", "title": "Data"}
+            {"type": "temporal", "field": "data", "title": "Data"},
+            {"type": "quantitative", "field": "mortesPorDia", "title": "Mortes por dia"},
+            {"type": "quantitative", "field": "confirmadosAcumulados", "title": "Confirmados acumulados"},
+            {"type": "quantitative", "field": "mortesAcumuladas", "title": "Mortes acumuladas"},
+            {"type": "quantitative", "field": "taxa_letalidade", "format": ".2%","title": "Taxa de letalidade"}
         ],
         "x": {
             "type": "temporal",
@@ -56,15 +59,23 @@ var viewDiariaDescartadosSuspeitos = {
         }
     },
     "transform": [
-        {"fold": ["descartadosAcumulados", "notificacoesSuspeitos"]},
+        {"fold": ["mortesPorDia"]},
         {
-            "calculate": "if((datum.key === 'descartadosAcumulados'),'Descartados acumulados',datum.key)",
-            "as": "key"
+          "calculate": "if((datum.key === 'mortesPorDia'),'Mortes por dia',datum.key)",
+          "as": "key"
         },
         {
-            "calculate": "if((datum.key === 'notificacoesSuspeitos'),'Suspeitos Notificados',datum.key)",
-            "as": "key"
+          "calculate": "if((datum.key === 'confirmadosAcumulados'),'Confirmados acumulados',datum.key)",
+          "as": "key"
+        },
+        {
+          "calculate": "if((datum.key === 'mortesAcumuladas'),'Mortes acumuladas',datum.key)",
+          "as": "key"
+        },
+        {
+            "calculate": "datum.mortesAcumuladas / datum.confirmadosAcumulados", 
+            "as": "taxa_letalidade"
         }
     ]
 };
-vegaEmbed('#visualizacao_diaria_descartados_suspeitos', viewDiariaDescartadosSuspeitos);
+vegaEmbed('#visualizacao_diaria_mortes_por_dia', viewDiariaMortesPorDia);
