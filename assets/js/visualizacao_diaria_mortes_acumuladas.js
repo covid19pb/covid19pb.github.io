@@ -9,7 +9,7 @@ var viewDiariaMortesAcumuladas = {
         "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorData.csv"
     },
     "mark": {
-        "type": "bar",
+        "type": "line",
         "opacity": 0.8,
         "point": {"filled": false, "fill": "white"},
         "strokeWidth": 2.5

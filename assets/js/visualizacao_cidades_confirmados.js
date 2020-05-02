@@ -36,7 +36,7 @@ var viewCidadesConfirmados = {
 			"title": "Confirmados acumulados",
 			"scale": {
 				"type":"threshold",
-				"domain" : [1, 10, 50, 100, 200, 400],
+				"domain" : [1, 10, 50, 100, 200, 500],
 				"range": ["#F0F0F0", "#FFBD00", "#FF5400", "#FF0054", "#9E0059", "#390099","#000000"]
 			},
 			"legend": {
