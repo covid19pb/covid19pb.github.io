@@ -1,4 +1,4 @@
-var viewDiariaMortosRecuperados = {
+var viewDiariaMortesRecuperados = {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.0.2.json",
     "width": "container",
     "config": {
@@ -68,4 +68,4 @@ var viewDiariaMortosRecuperados = {
         }
     ]
 };
-vegaEmbed('#visualizacao_diaria_mortos_recuperados', viewDiariaMortosRecuperados);
+vegaEmbed('#visualizacao_diaria_mortes_recuperados', viewDiariaMortesRecuperados);
