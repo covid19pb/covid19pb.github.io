@@ -110,3 +110,6 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 109,"masculino",84,"João Pessoa","JOAO PESSOA","2020-04-23","null","null","null","2020-05-07","2020-05-07","hospital público"
 110,"masculino",80,"Santa Rita","JOAO PESSOA","2020-04-26","null","null","null","2020-05-04","2020-05-07","hospital público"
 111,"masculino",69,"São Bento","CATOLE DO ROCHA","2020-04-26","null","null","null","2020-05-07","2020-05-07","hospital público"
+112,"masculino",78,"João Pessoa","JOAO PESSOA","2020-04-27","null","null","null","2020-05-07","2020-05-08","UPA"
+113,"feminino",64,"Cabedelo","JOAO PESSOA","2020-04-24","null","null","null","2020-05-08","2020-05-08","hospital público"
+114,"masculino",66,"Santa Rita","JOAO PESSOA","2020-04-27","null","null","null","2020-05-07","2020-05-08","hospital público"
