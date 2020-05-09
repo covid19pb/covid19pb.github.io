@@ -1,35 +1,44 @@
 function csvToTable(data){
 	var allRows = data.split(/\r?\n|\r/);
-	var table = "<table class='table table-striped'>";
+	var table = "<table class='table table-bordered'>";
 
-	for(var singleRow = 0; singleRow < allRows.length; singleRow++){
-		if(singleRow === 0){
-			table += "<thead>";
-			table += "<tr>";
-		} else {
-			table += "<tr>";
-		}
+	table += "<thead class='thead-dark'>";
+	table += "<tr>";
 
+	table += "<th scope='col'>Município</th>";
+	// table += "<th scope='col'>UF</th>";
+	// table += "<th scope='col'>Código</th>";
+	// table += "<th scope='col'>Mesorregião</th>";
+	// table += "<th scope='col'>Microregião</th>";
+	// table += "<th scope='col'>Internados</th>";
+	table += "<th scope='col'>Confirmados</th>";
+	// table += "<th scope='col'>Recuperados</th>";
+	table += "<th scope='col'>Mortes</th>";
+
+	table += "</tr>";
+	table += "</thead>";
+
+	table += "<tbody>";
+
+	for(var singleRow = 1; singleRow < allRows.length; singleRow++){
+
+		table += "<tr>";
 		var rowCells = allRows[singleRow].split(',');
+
+		
 		for(var rowSingleCell = 0; rowSingleCell < rowCells.length; rowSingleCell++){
-			if(singleRow === 0){
-				table += "<th>";
-				table += rowCells[rowSingleCell];
-				table += "</th>";
-			} else {
-				table += "<td>";
-				table += rowCells[rowSingleCell];
-				table += "</td>";
+
+			if((rowSingleCell === 0) || (rowSingleCell === 6) || (rowSingleCell === 8)){
+				if(rowCells[6] >= 1){
+					table += "<td>";
+					table += rowCells[rowSingleCell];
+					table += "</td>";	
+				}
 			}
 		}
 
-		if(singleRow === 0){
-			table += "</tr>";
-			table += "</thead>";
-			table += "<tbody>";
-		} else {
-			table += "</tr>";
-		}
+		table += "</tr>";
+
 	}
 
 	table += "</tbody>";
