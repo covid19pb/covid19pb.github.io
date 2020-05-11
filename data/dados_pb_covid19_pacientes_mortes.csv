@@ -134,3 +134,7 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 133,"masculino",75,"João Pessoa","JOAO PESSOA","2020-04-28","null","null","null","2020-05-09","2020-05-10","hospital privado"
 134,"feminino",41,"Patos","PATOS","2020-04-29","null","null","null","2020-05-05","2020-05-10","hospital público"
 135,"feminino",75,"Santa Rita","JOAO PESSOA","2020-04-28","null","null","null","2020-05-09","2020-05-10","hospital público"
+136,"feminino",54,"Mari","SAPE","2020-05-01","null","null","null","2020-05-10","2020-05-11","hospital público"
+137,"feminino",67,"Sousa","SOUSA","2020-04-29","null","null","null","2020-05-11","2020-05-11","hospital público"
+138,"feminino",69,"João Pessoa","JOAO PESSOA","2020-04-25","null","null","null","2020-05-07","2020-05-11","hospital privado"
+139,"masculino",74,"Patos","PATOS","2020-04-30","null","null","null","2020-05-09","2020-05-11","null"
