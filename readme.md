@@ -23,6 +23,17 @@ Visualização de dados do Covid-19 no estado da Paraíba - Brasil.
 - [Dashboard 72 - Gestão de Leitos Covid-19 Paraíba](https://superset.plataformatarget.com.br/superset/dashboard/72/)
 - [Dashboard 74 - Capacidade hospitalar Paraíba](https://superset.plataformatarget.com.br/superset/dashboard/74/)
 
+## Links abertos
+- [Lista de Dashboards Ativos](https://superset.plataformatarget.com.br/dashboard/list/)
+- [Tabelas de dados](https://superset.plataformatarget.com.br/tablemodelview/list/?_flt_1_is_sqllab_view=y)
+- [Gráficos](https://superset.plataformatarget.com.br/chart/list/)
+
+## Dashboards abertos
+- [Dashboard Homologação](https://superset.plataformatarget.com.br/superset/dashboard/homologacao/)
+- [Dados Epidemiológicos - 55](https://superset.plataformatarget.com.br/superset/dashboard/55/)
+- [Gestão de Leitos - 72](https://superset.plataformatarget.com.br/superset/dashboard/72/)
+- [Gestão de Leitos - 74](https://superset.plataformatarget.com.br/superset/dashboard/paraiba_xtr74/)
+
 ## Siglas
 - **SES** : Secretaria Estadual de Saúde da Paraíba
 - **MS** : Ministério da Saúde
