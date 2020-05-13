@@ -1444,3 +1444,22 @@ figcaption {
   text-align: right;
   font-size: 12px;
 }
+
+.my-custom-scrollbar {
+	position: relative;
+	height: 300px;
+	overflow: auto;
+}
+
+.table-wrapper-scroll-y {
+	display: block;
+}
+
+.tableFixHead { 
+	overflow-y: auto;
+}
+
+.tableFixHead thead th { 
+	position: sticky;
+	top: 0;
+}
