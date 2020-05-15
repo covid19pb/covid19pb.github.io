@@ -1,161 +1,171 @@
 id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataEntradaUTI,dataDoDiagnostico,dataDoObito,dataDoBoletim,localDoObito
-1,"masculino",36,"Patos","PATOS","null","2020-03-26","2020-03-26","null","2020-03-31","2020-03-31","hospital público"
-2,"feminino",86,"Junco do Seridó","SERIDO OCIDENTAL PARAIBANO","2020-03-25","2020-04-01","2020-04-01","null","2020-04-04","2020-04-04","hospital público"
-3,"masculino",43,"João Pessoa","JOAO PESSOA","2020-03-28","2020-04-01","2020-04-02","null","2020-04-04","2020-04-04","hospital privado"
-4,"feminino",88,"João Pessoa","JOAO PESSOA","null","null","null","2020-04-02","2020-04-04","2020-04-05","hospital privado"
-5,"masculino",34,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-03-30","2020-04-08","hospital público"
-6,"masculino",71,"Cabedelo","JOAO PESSOA","null","null","null","null","2020-03-30","2020-04-08","hospital privado"
-7,"feminino",59,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-04-08","2020-04-08","hospital privado"
-8,"feminino",34,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-03-24","2020-04-09","hospital privado"
-9,"masculino",68,"Cabedelo","JOAO PESSOA","2020-03-18","null","null","null","2020-04-04","2020-04-09","hospital público"
-10,"masculino",84,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-03-31","2020-04-09","null"
-11,"masculino",87,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-04-06","2020-04-09","null"
-12,"masculino",91,"Bayeux","JOAO PESSOA","null","null","null","null","2020-04-06","2020-04-11","hospital público"
-13,"feminino",90,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-04-09","2020-04-11","hospital público"
-14,"feminino",83,"João Pessoa","JOAO PESSOA","2020-04-05","null","null","null","2020-04-12","2020-04-13","hospital público"
-15,"feminino",60,"João Pessoa","JOAO PESSOA","null","2020-04-03","null","null","2020-04-13","2020-04-13","hospital privado"
-16,"masculino",68,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-04-13","2020-04-13","hospital privado"
-17,"masculino",65,"Santa Rita","JOAO PESSOA","null","null","null","null","2020-04-13","2020-04-14","hospital público"
-18,"feminino",0,"Taperoá","CARIRI OCIDENTAL","null","null","null","null","2020-04-11","2020-04-14","hospital público"
-19,"masculino",46,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-04-12","2020-04-14","hospital público"
-20,"masculino",88,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-04-10","2020-04-14","hospital privado"
-21,"feminino",95,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-03-23","2020-04-14","hospital privado"
-22,"feminino",85,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-04-14","2020-04-15","hospital público"
-23,"masculino",82,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-04-14","2020-04-15","residência"
-24,"feminino",84,"Sapé","SAPE","null","null","null","null","2020-04-15","2020-04-15","hospital privado"
-25,"masculino",67,"Campina Grande","CAMPINA GRANDE","null","null","null","null","2020-04-15","2020-04-16","hospital público"
-26,"masculino",42,"Patos","PATOS","null","null","null","null","2020-04-12","2020-04-16","hospital público"
-27,"feminino",93,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-04-16","2020-04-17","hospital público"
-28,"masculino",57,"Riachão do Poço","SAPE","null","null","null","null","2020-04-13","2020-04-17","hospital público"
-29,"masculino",40,"Santa Rita","JOAO PESSOA","null","null","null","null","2020-04-18","2020-04-18","hospital público"
-30,"feminino",41,"Campina Grande","CAMPINA GRANDE","null","2020-04-10","null","null","2020-04-18","2020-04-19","hospital público"
-31,"feminino",84,"João Pessoa","JOAO PESSOA","null","2020-04-14","null","null","2020-04-18","2020-04-19","hospital privado"
-32,"masculino",81,"João Pessoa","JOAO PESSOA","null","2020-04-15","null","null","2020-04-18","2020-04-19","hospital público"
-33,"feminino",86,"João Pessoa","JOAO PESSOA","null","2020-04-12","null","null","2020-04-19","2020-04-20","hospital público"
-34,"feminino",71,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-04-17","2020-04-21","hospital privado"
-35,"masculino",56,"João Pessoa","JOAO PESSOA","2020-04-04","null","null","null","2020-04-21","2020-04-21","hospital privado"
-36,"masculino",62,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-04-21","2020-04-21","hospital público"
-37,"feminino",67,"João Pessoa","JOAO PESSOA","2020-04-07","2020-04-15","null","null","2020-04-21","2020-04-21","hospital público"
-38,"masculino",95,"João Pessoa","JOAO PESSOA","2020-04-06","2020-04-14","null","null","2020-04-21","2020-04-21","hospital público"
-39,"masculino",61,"Cajazeiras","CAJAZEIRAS","2020-04-10","null","null","null","2020-04-20","2020-04-21","hospital público"
-40,"masculino",71,"Santa Rita","JOAO PESSOA","null","null","null","null","2020-04-21","2020-04-22","residência"
-41,"masculino",50,"João Pessoa","JOAO PESSOA","2020-04-16","null","null","null","2020-04-22","2020-04-23","hospital público"
-42,"feminino",77,"João Pessoa","JOAO PESSOA","2020-04-06","2020-04-12","null","null","2020-04-22","2020-04-23","hospital público"
-43,"masculino",38,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-04-22","2020-04-23","hospital público"
-44,"feminino",44,"Santa Rita","JOAO PESSOA","2020-03-30","2020-04-07","null","null","2020-04-22","2020-04-23","hospital público"
-45,"masculino",44,"Conde","JOAO PESSOA","null","null","null","null","2020-04-23","2020-04-24","hospital público"
-46,"masculino",71,"Santa Rita","JOAO PESSOA","null","null","null","null","2020-04-23","2020-04-24","hospital público"
-47,"masculino",69,"Brejo do Cruz","CATOLE DO ROCHA","null","null","null","null","2020-04-22","2020-04-25","hospital público"
-48,"feminino",77,"Santa Rita","JOAO PESSOA","null","2020-04-20","null","null","2020-04-21","2020-04-25","UPA"
-49,"feminino",69,"Marizópolis","SOUSA","null","2020-04-24","null","null","2020-04-25","2020-04-25","hospital público"
-50,"masculino",37,"Santa Rita","JOAO PESSOA","null","null","null","null","2020-04-24","2020-04-25","hospital público"
-51,"masculino",54,"Boqueirão","CARIRI ORIENTAL","null","null","null","null","2020-04-26","2020-04-27","UPA"
-52,"feminino",72,"Santa Rita","JOAO PESSOA","null","null","null","null","2020-04-27","2020-04-27","hospital público"
-53,"feminino",52,"Mari","SAPE","null","null","null","null","2020-04-24","2020-04-27","residência"
-54,"masculino",76,"Santa Rita","JOAO PESSOA","null","null","null","null","2020-04-16","2020-04-28","null"
-55,"masculino",71,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-04-24","2020-04-28","null"
-56,"masculino",63,"Bayeux","JOAO PESSOA","null","2020-04-20","null","null","2020-04-26","2020-04-28","hospital público"
-57,"masculino",79,"Santa Rita","JOAO PESSOA","2020-04-25","null","null","null","2020-04-25","2020-04-28","hospital público"
-58,"feminino",20,"João Pessoa","JOAO PESSOA","2020-04-24","2020-04-26","2020-04-26","2020-04-26","2020-04-28","2020-04-29","maternidade pública"
-59,"masculino",41,"Bayeux","JOAO PESSOA","2020-04-20","null","null","null","2020-04-29","2020-04-29","UPA"
-60,"feminino",94,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-04-28","2020-04-29","hospital privado"
-61,"masculino",54,"Santa Rita","JOAO PESSOA","2020-04-20","null","null","null","2020-04-27","2020-04-29","hospital público"
-62,"masculino",90,"João Pessoa","JOAO PESSOA","2020-04-16","null","null","null","2020-04-26","2020-04-29","hospital privado"
-63,"masculino",51,"João Pessoa","JOAO PESSOA","null","null","null","null","2020-04-29","2020-04-30","hospital público"
-64,"feminino",40,"Patos","PATOS","null","null","null","null","2020-04-28","2020-04-30","hospital público"
-65,"masculino",49,"Santa Rita","JOAO PESSOA","null","null","null","null","2020-04-29","2020-04-30","residência"
-66,"feminino",61,"Alhandra","LITORAL SUL","null","null","null","null","2020-04-28","2020-04-30","hospital público"
-67,"masculino",55,"Cabedelo","JOAO PESSOA","null","null","null","null","2020-04-28","2020-04-30","hospital público"
-68,"masculino",71,"Santa Rita","JOAO PESSOA","2020-04-21","null","null","null","2020-04-29","2020-05-01","hospital público"
-69,"masculino",39,"João Pessoa","JOAO PESSOA","2020-04-22","null","null","null","2020-04-29","2020-05-01","hospital público"
-70,"masculino",57,"Santa Rita","JOAO PESSOA","2020-04-15","null","null","null","2020-04-30","2020-05-01","hospital público"
-71,"masculino",95,"Umbuzeiro","UMBUZEIRO","2020-04-26","null","null","null","2020-04-27","2020-05-01","hospital público"
-72,"masculino",83,"João Pessoa","JOAO PESSOA","2020-04-22","null","null","null","2020-04-30","2020-05-01","hospital público"
-73,"masculino",39,"João Pessoa","JOAO PESSOA","2020-04-19","null","null","null","2020-04-30","2020-05-01","hospital público"
-74,"masculino",80,"São Bento","CATOLE DO ROCHA","2020-04-19","null","null","null","2020-05-01","2020-05-01","hospital público"
-75,"masculino",73,"João Pessoa","JOAO PESSOA","2020-04-08","null","null","null","2020-05-01","2020-05-02","hospital privado"
-76,"masculino",56,"Santa Rita","JOAO PESSOA","2020-04-19","null","null","null","2020-05-01","2020-05-02","hospital público"
-77,"masculino",69,"Santa Rita","JOAO PESSOA","2020-04-26","null","null","null","2020-05-02","2020-05-03","hospital público"
-78,"masculino",61,"João Pessoa","JOAO PESSOA","2020-04-09","null","null","null","2020-05-03","2020-05-03","hospital público"
-79,"masculino",51,"João Pessoa","JOAO PESSOA","2020-04-26","null","null","null","2020-05-02","2020-05-03","hospital público"
-80,"masculino",59,"Lagoa Seca","CAMPINA GRANDE","2020-04-18","null","null","null","2020-05-04","2020-05-04","hospital público"
-81,"masculino",68,"Cruz do Espírito Santo","SAPE","2020-04-25","null","null","null","2020-04-30","2020-05-04","hospital público"
-82,"masculino",40,"Santa Rita","JOAO PESSOA","2020-04-03","null","null","null","2020-05-03","2020-05-04","hospital público"
-83,"feminino",63,"João Pessoa","JOAO PESSOA","2020-04-27","null","null","null","2020-05-01","2020-05-04","hospital público"
-84,"feminino",83,"Pedras de Fogo","LITORAL SUL","2020-04-26","null","null","null","2020-05-04","2020-05-04","hospital público"
-85,"masculino",64,"Alhandra","LITORAL SUL","2020-04-27","null","null","null","2020-05-04","2020-05-04","hospital público"
-86,"feminino",80,"Santa Rita","JOAO PESSOA","2020-04-24","null","null","null","2020-05-01","2020-05-05","hospital público"
-87,"masculino",69,"Santa Rita","JOAO PESSOA","2020-04-24","null","null","null","2020-05-04","2020-05-05","hospital público"
-88,"feminino",38,"João Pessoa","JOAO PESSOA","2020-04-19","null","null","null","2020-05-04","2020-05-05","hospital público"
-89,"feminino",51,"João Pessoa","JOAO PESSOA","2020-04-27","null","null","null","2020-05-04","2020-05-05","hospital público"
-90,"masculino",35,"João Pessoa","JOAO PESSOA","2020-04-25","null","null","null","2020-05-05","2020-05-05","hospital público"
-91,"feminino",76,"Cabedelo","JOAO PESSOA","2020-04-28","null","null","null","2020-05-03","2020-05-05","hospital público"
-92,"masculino",45,"João Pessoa","JOAO PESSOA","2020-04-18","null","null","null","2020-05-04","2020-05-05","hospital público"
-93,"masculino",51,"João Pessoa","JOAO PESSOA","2020-04-19","null","null","null","2020-05-05","2020-05-06","hospital público"
-94,"masculino",68,"Santa Rita","JOAO PESSOA","2020-04-25","null","null","null","2020-05-01","2020-05-06","hospital público"
-95,"feminino",67,"Patos","PATOS","2020-04-26","null","null","null","2020-05-01","2020-05-06","hospital público"
-96,"feminino",44,"João Pessoa","JOAO PESSOA","2020-04-27","null","null","null","2020-05-05","2020-05-06","hospital público"
-97,"masculino",84,"Alhandra","LITORAL SUL","2020-05-01","null","null","null","2020-05-04","2020-05-06","hospital público"
-98,"masculino",43,"Itapororoca","LITORAL NORTE","2020-04-17","null","null","null","2020-05-05","2020-05-06","hospital público"
-99,"masculino",57,"Patos","PATOS","2020-04-26","null","null","null","2020-05-06","2020-05-06","hospital público"
-100,"masculino",48,"João Pessoa","JOAO PESSOA","2020-04-25","null","null","null","2020-05-06","2020-05-06","hospital público"
-101,"feminino",70,"Bayeux","JOAO PESSOA","2020-04-25","null","null","null","2020-05-02","2020-05-06","hospital público"
-102,"masculino",53,"Bayeux","JOAO PESSOA","2020-04-23","null","null","null","2020-05-06","2020-05-07","hospital público"
-103,"masculino",43,"Santa Rita","JOAO PESSOA","2020-04-26","null","null","null","2020-05-04","2020-05-07","hospital público"
-104,"masculino",82,"João Pessoa","JOAO PESSOA","2020-05-01","null","null","null","2020-05-05","2020-05-07","hospital público"
-105,"masculino",78,"João Pessoa","JOAO PESSOA","2020-04-25","null","null","null","2020-05-05","2020-05-07","hospital público"
-106,"masculino",62,"João Pessoa","JOAO PESSOA","2020-04-24","null","null","null","2020-05-06","2020-05-07","hospital privado"
-107,"masculino",61,"Patos","PATOS","2020-04-06","null","null","null","2020-05-06","2020-05-07","hospital público"
-108,"feminino",37,"Santa Rita","JOAO PESSOA","2020-04-24","null","null","null","2020-05-06","2020-05-07","hospital público"
-109,"masculino",84,"João Pessoa","JOAO PESSOA","2020-04-23","null","null","null","2020-05-07","2020-05-07","hospital público"
-110,"masculino",80,"Santa Rita","JOAO PESSOA","2020-04-26","null","null","null","2020-05-04","2020-05-07","hospital público"
-111,"masculino",69,"São Bento","CATOLE DO ROCHA","2020-04-26","null","null","null","2020-05-07","2020-05-07","hospital público"
-112,"masculino",78,"João Pessoa","JOAO PESSOA","2020-04-27","null","null","null","2020-05-07","2020-05-08","UPA"
-113,"feminino",64,"Cabedelo","JOAO PESSOA","2020-04-24","null","null","null","2020-05-08","2020-05-08","hospital público"
-114,"masculino",66,"Santa Rita","JOAO PESSOA","2020-04-27","null","null","null","2020-05-07","2020-05-08","hospital público"
-115,"feminino",56,"Bayeux","JOAO PESSOA","2020-04-26","null","null","null","2020-05-08","2020-05-09","hospital público"
-116,"feminino",84,"Patos","PATOS","2020-04-29","null","null","null","2020-05-09","2020-05-09","hospital público"
-117,"masculino",79,"João Pessoa","JOAO PESSOA","2020-04-16","null","null","null","2020-05-08","2020-05-09","hospital público"
-118,"feminino",85,"João Pessoa","JOAO PESSOA","2020-05-01","null","null","null","2020-05-08","2020-05-09","hospital privado"
-119,"feminino",86,"Santa Rita","JOAO PESSOA","2020-05-01","null","null","null","2020-05-08","2020-05-09","hospital público"
-120,"feminino",73,"Santa Rita","JOAO PESSOA","2020-04-28","null","null","null","2020-05-05","2020-05-09","hospital público"
-121,"masculino",41,"Campina Grande","CAMPINA GRANDE","2020-04-25","null","null","null","2020-05-09","2020-05-09","hospital público"
-122,"masculino",87,"Santa Rita","JOAO PESSOA","2020-04-28","null","null","null","2020-05-08","2020-05-09","hospital público"
-123,"feminino",84,"Congo","CARIRI OCIDENTAL","2020-05-01","null","null","null","2020-05-08","2020-05-09","hospital público"
-124,"feminino",67,"São José de Piranhas","CAJAZEIRAS","2020-04-21","null","null","null","2020-04-24","2020-05-09","hospital público"
-125,"masculino",74,"João Pessoa","JOAO PESSOA","2020-04-02","null","null","null","2020-05-09","2020-05-10","hospital público"
-126,"masculino",74,"Sapé","SAPE","2020-04-23","null","null","null","2020-05-09","2020-05-10","hospital público"
-127,"masculino",84,"João Pessoa","JOAO PESSOA","2020-04-21","null","null","null","2020-05-09","2020-05-10","hospital público"
-128,"masculino",71,"Cabedelo","JOAO PESSOA","2020-04-28","null","null","null","2020-05-09","2020-05-10","hospital público"
-129,"masculino",91,"Santa Rita","JOAO PESSOA","2020-05-04","null","null","null","2020-05-08","2020-05-10","hospital público"
-130,"masculino",71,"Santa Rita","JOAO PESSOA","2020-04-21","null","null","null","2020-05-09","2020-05-10","hospital público"
-131,"masculino",76,"João Pessoa","JOAO PESSOA","2020-04-26","null","null","null","2020-05-09","2020-05-10","hospital público"
-132,"masculino",48,"Cruz do Espírito Santo","SAPE","2020-04-25","null","null","null","2020-05-10","2020-05-10","hospital público"
-133,"masculino",75,"João Pessoa","JOAO PESSOA","2020-04-28","null","null","null","2020-05-09","2020-05-10","hospital privado"
-134,"feminino",41,"Patos","PATOS","2020-04-29","null","null","null","2020-05-05","2020-05-10","hospital público"
-135,"feminino",75,"Santa Rita","JOAO PESSOA","2020-04-28","null","null","null","2020-05-09","2020-05-10","hospital público"
-136,"feminino",54,"Mari","SAPE","2020-05-01","null","null","null","2020-05-10","2020-05-11","hospital público"
-137,"feminino",67,"Sousa","SOUSA","2020-04-29","null","null","null","2020-05-11","2020-05-11","hospital público"
-138,"feminino",69,"João Pessoa","JOAO PESSOA","2020-04-25","null","null","null","2020-05-07","2020-05-11","hospital privado"
-139,"masculino",74,"Patos","PATOS","2020-04-30","null","null","null","2020-05-09","2020-05-11","null"
-140,"feminino",83,"Bayeux","JOAO PESSOA","2020-05-06","null","null","null","2020-05-11","2020-05-12","hospital público"
-141,"masculino",47,"João Pessoa","JOAO PESSOA","2020-05-02","null","null","null","2020-05-11","2020-05-12","hospital público"
-142,"feminino",43,"Santa Rita","JOAO PESSOA","2020-04-22","null","null","null","2020-05-11","2020-05-12","hospital público"
-143,"masculino",86,"Bayeux","JOAO PESSOA","2020-04-17","null","null","null","2020-05-10","2020-05-12","hospital público"
-144,"feminino",89,"Santa Rita","JOAO PESSOA","2020-04-27","null","null","null","2020-05-06","2020-05-12","hospital público"
-145,"masculino",72,"João Pessoa","JOAO PESSOA","2020-05-05","null","null","null","2020-05-09","2020-05-12","hospital público"
-146,"feminino",77,"João Pessoa","JOAO PESSOA","2020-05-04","null","null","null","2020-05-11","2020-05-12","hospital público"
-147,"masculino",43,"Mogeiro","ITABAIANA","2020-04-10","null","null","null","2020-05-11","2020-05-12","hospital público"
-148,"feminino",49,"Sobrado","SAPE","2020-04-02","null","null","null","2020-05-11","2020-05-12","hospital público"
-149,"masculino",46,"Santa Rita","JOAO PESSOA","2020-04-06","null","null","null","2020-05-03","2020-05-12","hospital público"
-150,"masculino",82,"Sapé","SAPE","2020-05-01","null","null","null","2020-05-12","2020-05-12","hospital público"
-151,"feminino",58,"Sapé","SAPE","2020-04-28","null","null","null","2020-05-12","2020-05-12","hospital público"
-152,"feminino",43,"São Sebastião da Lagoa de Roça","ESPERANCA","2020-04-29","null","null","null","2020-05-10","2020-05-12","hospital público"
-153,"masculino",91,"Campina Grande","CAMPINA GRANDE","2020-05-05","null","null","null","2020-05-10","2020-05-12","hospital público"
-154,"masculino",64,"Piancó","PIANCO","2020-05-05","null","null","null","2020-05-12","2020-05-12","hospital público"
-155,"feminino",66,"João Pessoa","JOAO PESSOA","2020-04-28","null","null","null","2020-05-05","2020-05-13","hospital público"
-156,"feminino",64,"Santa Rita","JOAO PESSOA","2020-04-20","null","null","null","2020-05-07","2020-05-13","hospital público"
-157,"masculino",75,"Santa Rita","JOAO PESSOA","2020-04-20","null","null","null","2020-05-13","2020-05-13","hospital público"
-158,"feminino",82,"João Pessoa","JOAO PESSOA","2020-05-04","null","null","null","2020-05-08","2020-05-14","hospital público"
-159,"masculino",79,"Caaporã","LITORAL SUL","2020-04-29","null","null","null","2020-05-13","2020-05-14","hospital público"
-160,"masculino",57,"Santa Rita","JOAO PESSOA","2020-05-02","null","null","null","2020-05-09","2020-05-14","hospital público"
+1,masculino,36,Patos,PATOS,null,2020-03-26,2020-03-26,null,2020-03-31,2020-03-31,hospital público
+2,feminino,86,Junco do Seridó,SERIDO OCIDENTAL PARAIBANO,2020-03-25,2020-04-01,2020-04-01,null,2020-04-04,2020-04-04,hospital público
+3,masculino,43,João Pessoa,JOAO PESSOA,2020-03-28,2020-04-01,2020-04-02,null,2020-04-04,2020-04-04,hospital privado
+4,feminino,88,João Pessoa,JOAO PESSOA,null,null,null,2020-04-02,2020-04-04,2020-04-05,hospital privado
+5,masculino,34,João Pessoa,JOAO PESSOA,null,null,null,null,2020-03-30,2020-04-08,hospital público
+6,masculino,71,Cabedelo,JOAO PESSOA,null,null,null,null,2020-03-30,2020-04-08,hospital privado
+7,feminino,59,João Pessoa,JOAO PESSOA,null,null,null,null,2020-04-08,2020-04-08,hospital privado
+8,feminino,34,João Pessoa,JOAO PESSOA,null,null,null,null,2020-03-24,2020-04-09,hospital privado
+9,masculino,68,Cabedelo,JOAO PESSOA,2020-03-18,null,null,null,2020-04-04,2020-04-09,hospital público
+10,masculino,84,João Pessoa,JOAO PESSOA,null,null,null,null,2020-03-31,2020-04-09,null
+11,masculino,87,João Pessoa,JOAO PESSOA,null,null,null,null,2020-04-06,2020-04-09,null
+12,masculino,91,Bayeux,JOAO PESSOA,null,null,null,null,2020-04-06,2020-04-11,hospital público
+13,feminino,90,João Pessoa,JOAO PESSOA,null,null,null,null,2020-04-09,2020-04-11,hospital público
+14,feminino,83,João Pessoa,JOAO PESSOA,2020-04-05,null,null,null,2020-04-12,2020-04-13,hospital público
+15,feminino,60,João Pessoa,JOAO PESSOA,null,2020-04-03,null,null,2020-04-13,2020-04-13,hospital privado
+16,masculino,68,João Pessoa,JOAO PESSOA,null,null,null,null,2020-04-13,2020-04-13,hospital privado
+17,masculino,65,Santa Rita,JOAO PESSOA,null,null,null,null,2020-04-13,2020-04-14,hospital público
+18,feminino,0,Taperoá,CARIRI OCIDENTAL,null,null,null,null,2020-04-11,2020-04-14,hospital público
+19,masculino,46,João Pessoa,JOAO PESSOA,null,null,null,null,2020-04-12,2020-04-14,hospital público
+20,masculino,88,João Pessoa,JOAO PESSOA,null,null,null,null,2020-04-10,2020-04-14,hospital privado
+21,feminino,95,João Pessoa,JOAO PESSOA,null,null,null,null,2020-03-23,2020-04-14,hospital privado
+22,feminino,85,João Pessoa,JOAO PESSOA,null,null,null,null,2020-04-14,2020-04-15,hospital público
+23,masculino,82,João Pessoa,JOAO PESSOA,null,null,null,null,2020-04-14,2020-04-15,residência
+24,feminino,84,Sapé,SAPE,null,null,null,null,2020-04-15,2020-04-15,hospital privado
+25,masculino,67,Campina Grande,CAMPINA GRANDE,null,null,null,null,2020-04-15,2020-04-16,hospital público
+26,masculino,42,Patos,PATOS,null,null,null,null,2020-04-12,2020-04-16,hospital público
+27,feminino,93,João Pessoa,JOAO PESSOA,null,null,null,null,2020-04-16,2020-04-17,hospital público
+28,masculino,57,Riachão do Poço,SAPE,null,null,null,null,2020-04-13,2020-04-17,hospital público
+29,masculino,40,Santa Rita,JOAO PESSOA,null,null,null,null,2020-04-18,2020-04-18,hospital público
+30,feminino,41,Campina Grande,CAMPINA GRANDE,null,2020-04-10,null,null,2020-04-18,2020-04-19,hospital público
+31,feminino,84,João Pessoa,JOAO PESSOA,null,2020-04-14,null,null,2020-04-18,2020-04-19,hospital privado
+32,masculino,81,João Pessoa,JOAO PESSOA,null,2020-04-15,null,null,2020-04-18,2020-04-19,hospital público
+33,feminino,86,João Pessoa,JOAO PESSOA,null,2020-04-12,null,null,2020-04-19,2020-04-20,hospital público
+34,feminino,71,João Pessoa,JOAO PESSOA,null,null,null,null,2020-04-17,2020-04-21,hospital privado
+35,masculino,56,João Pessoa,JOAO PESSOA,2020-04-04,null,null,null,2020-04-21,2020-04-21,hospital privado
+36,masculino,62,João Pessoa,JOAO PESSOA,null,null,null,null,2020-04-21,2020-04-21,hospital público
+37,feminino,67,João Pessoa,JOAO PESSOA,2020-04-07,2020-04-15,null,null,2020-04-21,2020-04-21,hospital público
+38,masculino,95,João Pessoa,JOAO PESSOA,2020-04-06,2020-04-14,null,null,2020-04-21,2020-04-21,hospital público
+39,masculino,61,Cajazeiras,CAJAZEIRAS,2020-04-10,null,null,null,2020-04-20,2020-04-21,hospital público
+40,masculino,71,Santa Rita,JOAO PESSOA,null,null,null,null,2020-04-21,2020-04-22,residência
+41,masculino,50,João Pessoa,JOAO PESSOA,2020-04-16,null,null,null,2020-04-22,2020-04-23,hospital público
+42,feminino,77,João Pessoa,JOAO PESSOA,2020-04-06,2020-04-12,null,null,2020-04-22,2020-04-23,hospital público
+43,masculino,38,João Pessoa,JOAO PESSOA,null,null,null,null,2020-04-22,2020-04-23,hospital público
+44,feminino,44,Santa Rita,JOAO PESSOA,2020-03-30,2020-04-07,null,null,2020-04-22,2020-04-23,hospital público
+45,masculino,44,Conde,JOAO PESSOA,null,null,null,null,2020-04-23,2020-04-24,hospital público
+46,masculino,71,Santa Rita,JOAO PESSOA,null,null,null,null,2020-04-23,2020-04-24,hospital público
+47,masculino,69,Brejo do Cruz,CATOLE DO ROCHA,null,null,null,null,2020-04-22,2020-04-25,hospital público
+48,feminino,77,Santa Rita,JOAO PESSOA,null,2020-04-20,null,null,2020-04-21,2020-04-25,UPA
+49,feminino,69,Marizópolis,SOUSA,null,2020-04-24,null,null,2020-04-25,2020-04-25,hospital público
+50,masculino,37,Santa Rita,JOAO PESSOA,null,null,null,null,2020-04-24,2020-04-25,hospital público
+51,masculino,54,Boqueirão,CARIRI ORIENTAL,null,null,null,null,2020-04-26,2020-04-27,UPA
+52,feminino,72,Santa Rita,JOAO PESSOA,null,null,null,null,2020-04-27,2020-04-27,hospital público
+53,feminino,52,Mari,SAPE,null,null,null,null,2020-04-24,2020-04-27,residência
+54,masculino,76,Santa Rita,JOAO PESSOA,null,null,null,null,2020-04-16,2020-04-28,null
+55,masculino,71,João Pessoa,JOAO PESSOA,null,null,null,null,2020-04-24,2020-04-28,null
+56,masculino,63,Bayeux,JOAO PESSOA,null,2020-04-20,null,null,2020-04-26,2020-04-28,hospital público
+57,masculino,79,Santa Rita,JOAO PESSOA,2020-04-25,null,null,null,2020-04-25,2020-04-28,hospital público
+58,feminino,20,João Pessoa,JOAO PESSOA,2020-04-24,2020-04-26,2020-04-26,2020-04-26,2020-04-28,2020-04-29,maternidade pública
+59,masculino,41,Bayeux,JOAO PESSOA,2020-04-20,null,null,null,2020-04-29,2020-04-29,UPA
+60,feminino,94,João Pessoa,JOAO PESSOA,null,null,null,null,2020-04-28,2020-04-29,hospital privado
+61,masculino,54,Santa Rita,JOAO PESSOA,2020-04-20,null,null,null,2020-04-27,2020-04-29,hospital público
+62,masculino,90,João Pessoa,JOAO PESSOA,2020-04-16,null,null,null,2020-04-26,2020-04-29,hospital privado
+63,masculino,51,João Pessoa,JOAO PESSOA,null,null,null,null,2020-04-29,2020-04-30,hospital público
+64,feminino,40,Patos,PATOS,null,null,null,null,2020-04-28,2020-04-30,hospital público
+65,masculino,49,Santa Rita,JOAO PESSOA,null,null,null,null,2020-04-29,2020-04-30,residência
+66,feminino,61,Alhandra,LITORAL SUL,null,null,null,null,2020-04-28,2020-04-30,hospital público
+67,masculino,55,Cabedelo,JOAO PESSOA,null,null,null,null,2020-04-28,2020-04-30,hospital público
+68,masculino,71,Santa Rita,JOAO PESSOA,2020-04-21,null,null,null,2020-04-29,2020-05-01,hospital público
+69,masculino,39,João Pessoa,JOAO PESSOA,2020-04-22,null,null,null,2020-04-29,2020-05-01,hospital público
+70,masculino,57,Santa Rita,JOAO PESSOA,2020-04-15,null,null,null,2020-04-30,2020-05-01,hospital público
+71,masculino,95,Umbuzeiro,UMBUZEIRO,2020-04-26,null,null,null,2020-04-27,2020-05-01,hospital público
+72,masculino,83,João Pessoa,JOAO PESSOA,2020-04-22,null,null,null,2020-04-30,2020-05-01,hospital público
+73,masculino,39,João Pessoa,JOAO PESSOA,2020-04-19,null,null,null,2020-04-30,2020-05-01,hospital público
+74,masculino,80,São Bento,CATOLE DO ROCHA,2020-04-19,null,null,null,2020-05-01,2020-05-01,hospital público
+75,masculino,73,João Pessoa,JOAO PESSOA,2020-04-08,null,null,null,2020-05-01,2020-05-02,hospital privado
+76,masculino,56,Santa Rita,JOAO PESSOA,2020-04-19,null,null,null,2020-05-01,2020-05-02,hospital público
+77,masculino,69,Santa Rita,JOAO PESSOA,2020-04-26,null,null,null,2020-05-02,2020-05-03,hospital público
+78,masculino,61,João Pessoa,JOAO PESSOA,2020-04-09,null,null,null,2020-05-03,2020-05-03,hospital público
+79,masculino,51,João Pessoa,JOAO PESSOA,2020-04-26,null,null,null,2020-05-02,2020-05-03,hospital público
+80,masculino,59,Lagoa Seca,CAMPINA GRANDE,2020-04-18,null,null,null,2020-05-04,2020-05-04,hospital público
+81,masculino,68,Cruz do Espírito Santo,SAPE,2020-04-25,null,null,null,2020-04-30,2020-05-04,hospital público
+82,masculino,40,Santa Rita,JOAO PESSOA,2020-04-03,null,null,null,2020-05-03,2020-05-04,hospital público
+83,feminino,63,João Pessoa,JOAO PESSOA,2020-04-27,null,null,null,2020-05-01,2020-05-04,hospital público
+84,feminino,83,Pedras de Fogo,LITORAL SUL,2020-04-26,null,null,null,2020-05-04,2020-05-04,hospital público
+85,masculino,64,Alhandra,LITORAL SUL,2020-04-27,null,null,null,2020-05-04,2020-05-04,hospital público
+86,feminino,80,Santa Rita,JOAO PESSOA,2020-04-24,null,null,null,2020-05-01,2020-05-05,hospital público
+87,masculino,69,Santa Rita,JOAO PESSOA,2020-04-24,null,null,null,2020-05-04,2020-05-05,hospital público
+88,feminino,38,João Pessoa,JOAO PESSOA,2020-04-19,null,null,null,2020-05-04,2020-05-05,hospital público
+89,feminino,51,João Pessoa,JOAO PESSOA,2020-04-27,null,null,null,2020-05-04,2020-05-05,hospital público
+90,masculino,35,João Pessoa,JOAO PESSOA,2020-04-25,null,null,null,2020-05-05,2020-05-05,hospital público
+91,feminino,76,Cabedelo,JOAO PESSOA,2020-04-28,null,null,null,2020-05-03,2020-05-05,hospital público
+92,masculino,45,João Pessoa,JOAO PESSOA,2020-04-18,null,null,null,2020-05-04,2020-05-05,hospital público
+93,masculino,51,João Pessoa,JOAO PESSOA,2020-04-19,null,null,null,2020-05-05,2020-05-06,hospital público
+94,masculino,68,Santa Rita,JOAO PESSOA,2020-04-25,null,null,null,2020-05-01,2020-05-06,hospital público
+95,feminino,67,Patos,PATOS,2020-04-26,null,null,null,2020-05-01,2020-05-06,hospital público
+96,feminino,44,João Pessoa,JOAO PESSOA,2020-04-27,null,null,null,2020-05-05,2020-05-06,hospital público
+97,masculino,84,Alhandra,LITORAL SUL,2020-05-01,null,null,null,2020-05-04,2020-05-06,hospital público
+98,masculino,43,Itapororoca,LITORAL NORTE,2020-04-17,null,null,null,2020-05-05,2020-05-06,hospital público
+99,masculino,57,Patos,PATOS,2020-04-26,null,null,null,2020-05-06,2020-05-06,hospital público
+100,masculino,48,João Pessoa,JOAO PESSOA,2020-04-25,null,null,null,2020-05-06,2020-05-06,hospital público
+101,feminino,70,Bayeux,JOAO PESSOA,2020-04-25,null,null,null,2020-05-02,2020-05-06,hospital público
+102,masculino,53,Bayeux,JOAO PESSOA,2020-04-23,null,null,null,2020-05-06,2020-05-07,hospital público
+103,masculino,43,Santa Rita,JOAO PESSOA,2020-04-26,null,null,null,2020-05-04,2020-05-07,hospital público
+104,masculino,82,João Pessoa,JOAO PESSOA,2020-05-01,null,null,null,2020-05-05,2020-05-07,hospital público
+105,masculino,78,João Pessoa,JOAO PESSOA,2020-04-25,null,null,null,2020-05-05,2020-05-07,hospital público
+106,masculino,62,João Pessoa,JOAO PESSOA,2020-04-24,null,null,null,2020-05-06,2020-05-07,hospital privado
+107,masculino,61,Patos,PATOS,2020-04-06,null,null,null,2020-05-06,2020-05-07,hospital público
+108,feminino,37,Santa Rita,JOAO PESSOA,2020-04-24,null,null,null,2020-05-06,2020-05-07,hospital público
+109,masculino,84,João Pessoa,JOAO PESSOA,2020-04-23,null,null,null,2020-05-07,2020-05-07,hospital público
+110,masculino,80,Santa Rita,JOAO PESSOA,2020-04-26,null,null,null,2020-05-04,2020-05-07,hospital público
+111,masculino,69,São Bento,CATOLE DO ROCHA,2020-04-26,null,null,null,2020-05-07,2020-05-07,hospital público
+112,masculino,78,João Pessoa,JOAO PESSOA,2020-04-27,null,null,null,2020-05-07,2020-05-08,UPA
+113,feminino,64,Cabedelo,JOAO PESSOA,2020-04-24,null,null,null,2020-05-08,2020-05-08,hospital público
+114,masculino,66,Santa Rita,JOAO PESSOA,2020-04-27,null,null,null,2020-05-07,2020-05-08,hospital público
+115,feminino,56,Bayeux,JOAO PESSOA,2020-04-26,null,null,null,2020-05-08,2020-05-09,hospital público
+116,feminino,84,Patos,PATOS,2020-04-29,null,null,null,2020-05-09,2020-05-09,hospital público
+117,masculino,79,João Pessoa,JOAO PESSOA,2020-04-16,null,null,null,2020-05-08,2020-05-09,hospital público
+118,feminino,85,João Pessoa,JOAO PESSOA,2020-05-01,null,null,null,2020-05-08,2020-05-09,hospital privado
+119,feminino,86,Santa Rita,JOAO PESSOA,2020-05-01,null,null,null,2020-05-08,2020-05-09,hospital público
+120,feminino,73,Santa Rita,JOAO PESSOA,2020-04-28,null,null,null,2020-05-05,2020-05-09,hospital público
+121,masculino,41,Campina Grande,CAMPINA GRANDE,2020-04-25,null,null,null,2020-05-09,2020-05-09,hospital público
+122,masculino,87,Santa Rita,JOAO PESSOA,2020-04-28,null,null,null,2020-05-08,2020-05-09,hospital público
+123,feminino,84,Congo,CARIRI OCIDENTAL,2020-05-01,null,null,null,2020-05-08,2020-05-09,hospital público
+124,feminino,67,São José de Piranhas,CAJAZEIRAS,2020-04-21,null,null,null,2020-04-24,2020-05-09,hospital público
+125,masculino,74,João Pessoa,JOAO PESSOA,2020-04-02,null,null,null,2020-05-09,2020-05-10,hospital público
+126,masculino,74,Sapé,SAPE,2020-04-23,null,null,null,2020-05-09,2020-05-10,hospital público
+127,masculino,84,João Pessoa,JOAO PESSOA,2020-04-21,null,null,null,2020-05-09,2020-05-10,hospital público
+128,masculino,71,Cabedelo,JOAO PESSOA,2020-04-28,null,null,null,2020-05-09,2020-05-10,hospital público
+129,masculino,91,Santa Rita,JOAO PESSOA,2020-05-04,null,null,null,2020-05-08,2020-05-10,hospital público
+130,masculino,71,Santa Rita,JOAO PESSOA,2020-04-21,null,null,null,2020-05-09,2020-05-10,hospital público
+131,masculino,76,João Pessoa,JOAO PESSOA,2020-04-26,null,null,null,2020-05-09,2020-05-10,hospital público
+132,masculino,48,Cruz do Espírito Santo,SAPE,2020-04-25,null,null,null,2020-05-10,2020-05-10,hospital público
+133,masculino,75,João Pessoa,JOAO PESSOA,2020-04-28,null,null,null,2020-05-09,2020-05-10,hospital privado
+134,feminino,41,Patos,PATOS,2020-04-29,null,null,null,2020-05-05,2020-05-10,hospital público
+135,feminino,75,Santa Rita,JOAO PESSOA,2020-04-28,null,null,null,2020-05-09,2020-05-10,hospital público
+136,feminino,54,Mari,SAPE,2020-05-01,null,null,null,2020-05-10,2020-05-11,hospital público
+137,feminino,67,Sousa,SOUSA,2020-04-29,null,null,null,2020-05-11,2020-05-11,hospital público
+138,feminino,69,João Pessoa,JOAO PESSOA,2020-04-25,null,null,null,2020-05-07,2020-05-11,hospital privado
+139,masculino,74,Patos,PATOS,2020-04-30,null,null,null,2020-05-09,2020-05-11,null
+140,feminino,83,Bayeux,JOAO PESSOA,2020-05-06,null,null,null,2020-05-11,2020-05-12,hospital público
+141,masculino,47,João Pessoa,JOAO PESSOA,2020-05-02,null,null,null,2020-05-11,2020-05-12,hospital público
+142,feminino,43,Santa Rita,JOAO PESSOA,2020-04-22,null,null,null,2020-05-11,2020-05-12,hospital público
+143,masculino,86,Bayeux,JOAO PESSOA,2020-04-17,null,null,null,2020-05-10,2020-05-12,hospital público
+144,feminino,89,Santa Rita,JOAO PESSOA,2020-04-27,null,null,null,2020-05-06,2020-05-12,hospital público
+145,masculino,72,João Pessoa,JOAO PESSOA,2020-05-05,null,null,null,2020-05-09,2020-05-12,hospital público
+146,feminino,77,João Pessoa,JOAO PESSOA,2020-05-04,null,null,null,2020-05-11,2020-05-12,hospital público
+147,masculino,43,Mogeiro,ITABAIANA,2020-04-10,null,null,null,2020-05-11,2020-05-12,hospital público
+148,feminino,49,Sobrado,SAPE,2020-04-02,null,null,null,2020-05-11,2020-05-12,hospital público
+149,masculino,46,Santa Rita,JOAO PESSOA,2020-04-06,null,null,null,2020-05-03,2020-05-12,hospital público
+150,masculino,82,Sapé,SAPE,2020-05-01,null,null,null,2020-05-12,2020-05-12,hospital público
+151,feminino,58,Sapé,SAPE,2020-04-28,null,null,null,2020-05-12,2020-05-12,hospital público
+152,feminino,43,São Sebastião da Lagoa de Roça,ESPERANCA,2020-04-29,null,null,null,2020-05-10,2020-05-12,hospital público
+153,masculino,91,Campina Grande,CAMPINA GRANDE,2020-05-05,null,null,null,2020-05-10,2020-05-12,hospital público
+154,masculino,64,Piancó,PIANCO,2020-05-05,null,null,null,2020-05-12,2020-05-12,hospital público
+155,feminino,66,João Pessoa,JOAO PESSOA,2020-04-28,null,null,null,2020-05-05,2020-05-13,hospital público
+156,feminino,64,Santa Rita,JOAO PESSOA,2020-04-20,null,null,null,2020-05-07,2020-05-13,hospital público
+157,masculino,75,Santa Rita,JOAO PESSOA,2020-04-20,null,null,null,2020-05-13,2020-05-13,hospital público
+158,feminino,82,João Pessoa,JOAO PESSOA,2020-05-04,null,null,null,2020-05-08,2020-05-14,hospital público
+159,masculino,79,Caaporã,LITORAL SUL,2020-04-29,null,null,null,2020-05-13,2020-05-14,hospital público
+160,masculino,57,Santa Rita,JOAO PESSOA,2020-05-02,null,null,null,2020-05-09,2020-05-14,hospital público
+161,feminino,67,João Pessoa,JOAO PESSOA,2020-04-23,null,null,null,2020-05-14,2020-05-15,hospital público
+162,masculino,69,João Pessoa,JOAO PESSOA,2020-04-28,null,null,null,2020-05-14,2020-05-15,hospital privado
+163,masculino,42,Itatuba,ITABAIANA,2020-05-04,null,null,null,2020-05-14,2020-05-15,hospital público
+164,masculino,48,João Pessoa,JOAO PESSOA,2020-04-29,null,null,null,2020-05-14,2020-05-15,hospital público
+165,feminino,88,Pedras de Fogo,LITORAL SUL,2020-04-30,null,null,null,2020-05-14,2020-05-15,hospital público
+166,masculino,37,João Pessoa,JOAO PESSOA,2020-05-02,null,null,null,2020-05-15,2020-05-15,hospital público
+167,masculino,0,Cuitegi,GUARABIRA,2020-04-25,null,null,null,2020-05-14,2020-05-15,hospital público
+168,masculino,80,Santa Rita,JOAO PESSOA,2020-05-09,null,null,null,2020-05-13,2020-05-15,hospital público
+169,feminino,45,Cruz do Espírito Santo,SAPE,2020-04-26,null,null,null,2020-05-12,2020-05-15,hospital público
+170,feminino,40,São Sebastião de Lagoa da Roça,ESPERANCA,2020-04-28,null,null,null,2020-05-14,2020-05-15,hospital público
