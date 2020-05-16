@@ -169,3 +169,16 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 168,masculino,80,Santa Rita,JOAO PESSOA,2020-05-09,null,null,null,2020-05-13,2020-05-15,hospital público
 169,feminino,45,Cruz do Espírito Santo,SAPE,2020-04-26,null,null,null,2020-05-12,2020-05-15,hospital público
 170,feminino,40,São Sebastião de Lagoa da Roça,ESPERANCA,2020-04-28,null,null,null,2020-05-14,2020-05-15,hospital público
+171,masculino,52,Itaporanga,ITAPORANGA,2020-04-26,null,null,null,2020-05-15,2020-05-16,hospital público
+172,masculino,54,Piancó,PIANCÓ,2020-05-06,null,null,null,2020-05-09,2020-05-16,hospital privado
+173,feminino,63,Santa Rita,JOAO PESSOA,2020-05-08,null,null,null,2020-05-10,2020-05-16,hospital público
+174,feminino,73,Patos,PATOS,2020-05-09,null,null,null,2020-05-15,2020-05-16,hospital público
+175,masculino,73,Patos,PATOS,2020-05-06,null,null,null,2020-05-16,2020-05-16,hospital público
+176,feminino,94,João Pessoa,JOAO PESSOA,null,null,null,null,2020-05-05,2020-05-16,residência
+177,feminino,38,João Pessoa,JOAO PESSOA,2020-04-30,null,null,null,2020-05-15,2020-05-16,hospital público
+178,masculino,66,Patos,PATOS,2020-04-29,null,null,null,2020-05-09,2020-05-16,hospital público
+179,masculino,50,Patos,PATOS,2020-05-03,null,null,null,2020-05-12,2020-05-16,hospital público
+180,masculino,56,Gado Bravo,UMBUZEIRO,2020-05-09,null,null,null,2020-05-14,2020-05-16,residência
+181,feminino,59,João Pessoa,JOAO PESSOA,2020-05-01,null,null,null,2020-05-13,2020-05-16,hospital público
+182,masculino,45,Campina Grande,CAMPINA GRANDE,2020-05-04,null,null,null,2020-05-11,2020-05-16,hospital público
+183,masculino,5,João Pessoa,JOAO PESSOA,2020-05-03,null,null,null,2020-05-06,2020-05-16,residência
