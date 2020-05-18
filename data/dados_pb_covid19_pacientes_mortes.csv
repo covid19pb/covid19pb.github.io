@@ -193,3 +193,16 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 192,masculino,41,Patos,PATOS,2020-05-01,null,null,null,2020-05-09,2020-05-17,hospital público
 193,masculino,79,Pedras de Fogo,LITORAL SUL,2020-04-30,null,null,null,2020-05-16,2020-05-17,hospital público
 194,masculino,67,Santa Rita,JOAO PESSOA,2020-05-06,null,null,null,2020-05-13,2020-05-17,hospital público
+195,masculino,87,Santa Luzia,SERIDO OCIDENTAL PARAIBANO,2020-05-03,null,null,null,2020-05-16,2020-05-18,hospital público
+196,masculino,88,João Pessoa,JOAO PESSOA,2020-05-01,null,null,null,2020-05-17,2020-05-18,hospital privado
+197,feminino,56,Santa Rita,JOAO PESSOA,2020-04-25,null,null,null,2020-05-15,2020-05-18,hospital público
+198,masculino,51,João Pessoa,JOAO PESSOA,2020-04-30,null,null,null,2020-05-15,2020-05-18,hospital público
+199,masculino,44,Pitimbu,LITORAL SUL,2020-04-30,null,null,null,2020-05-17,2020-05-18,hospital público
+200,feminino,81,Cruz do Espírito Santo,SAPE,2020-05-07,null,null,null,2020-05-15,2020-05-18,hospital público
+201,masculino,77,João Pessoa,JOAO PESSOA,2020-05-03,null,null,null,2020-05-17,2020-05-18,hospital privado
+202,feminino,64,Campina Grande,CAMPINA GRANDE,2020-05-08,null,null,null,2020-05-16,2020-05-18,hospital público
+203,masculino,87,Campina Grande,CAMPINA GRANDE,2020-05-05,null,null,null,2020-05-17,2020-05-18,hospital público
+204,feminino,20,Santa Rita,JOAO PESSOA,2020-04-28,null,null,null,2020-05-09,2020-05-18,hospital privado
+205,masculino,75,Bayeux,JOAO PESSOA,2020-05-02,null,null,null,2020-05-12,2020-05-18,hospital público
+206,feminino,84,Patos,PATOS,2020-05-02,null,null,null,2020-05-18,2020-05-18,hospital público
+207,masculino,84,Guarabira,GUARABIRA,2020-05-08,null,null,null,2020-05-18,2020-05-18,hospital público
