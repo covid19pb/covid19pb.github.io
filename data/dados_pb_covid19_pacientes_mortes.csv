@@ -182,3 +182,14 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 181,feminino,59,João Pessoa,JOAO PESSOA,2020-05-01,null,null,null,2020-05-13,2020-05-16,hospital público
 182,masculino,45,Campina Grande,CAMPINA GRANDE,2020-05-04,null,null,null,2020-05-11,2020-05-16,hospital público
 183,masculino,5,João Pessoa,JOAO PESSOA,2020-05-03,null,null,null,2020-05-06,2020-05-16,residência
+184,feminino,81,Guarabira,GUARABIRA,2020-05-01,null,null,null,2020-05-16,2020-05-17,hospital público
+185,masculino,54,Santa Luzia,SERIDO OCIDENTAL PARAIBANO,2020-05-01,null,null,null,2020-05-13,2020-05-17,hospital público
+186,feminino,28,Alagoa Nova,BREJO PARAIBANO,2020-05-10,null,null,null,2020-05-11,2020-05-17,hospital público
+187,feminino,84,Santa Rita,JOAO PESSOA,2020-04-30,null,null,null,2020-05-15,2020-05-17,hospital público
+188,feminino,44,João Pessoa,JOAO PESSOA,2020-04-30,null,null,null,2020-05-16,2020-05-17,UPA
+189,masculino,75,João Pessoa,JOAO PESSOA,2020-05-01,null,null,null,2020-05-16,2020-05-17,hospital público
+190,masculino,78,João Pessoa,JOAO PESSOA,2020-04-02,null,null,null,2020-05-16,2020-05-17,hospital público
+191,masculino,68,Caaporã,LITORAL SUL,2020-05-02,null,null,null,2020-05-07,2020-05-17,hospital público
+192,masculino,41,Patos,PATOS,2020-05-01,null,null,null,2020-05-09,2020-05-17,hospital público
+193,masculino,79,Pedras de Fogo,LITORAL SUL,2020-04-30,null,null,null,2020-05-16,2020-05-17,hospital público
+194,masculino,67,Santa Rita,JOAO PESSOA,2020-05-06,null,null,null,2020-05-13,2020-05-17,hospital público
