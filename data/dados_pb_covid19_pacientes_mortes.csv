@@ -218,3 +218,14 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 217,feminino,82,Pitimbu,LITORAL SUL,2020-05-18,null,null,null,2020-05-19,2020-05-19,UPA
 218,masculino,73,Tacima,CURIMATAU ORIENTAL,2020-04-26,null,null,null,2020-05-19,2020-05-19,UPA
 219,masculino,58,São Bento,CATOLE DO ROCHA,2020-05-04,null,null,null,2020-05-12,2020-05-19,UPA
+220,masculino,38,João Pessoa,JOAO PESSOA,2020-05-08,null,null,null,2020-05-13,2020-05-20,hospital público
+221,feminino,66,São Miguel de Taipu,SAPE,2020-05-05,null,null,null,2020-05-11,2020-05-20,hospital público
+222,feminino,41,Capim,LITORAL NORTE,2020-05-05,null,null,null,2020-05-19,2020-05-20,hospital público
+223,masculino,80,Rio Tinto,LITORAL NORTE,2020-05-05,null,null,null,2020-05-19,2020-05-20,hospital público
+224,masculino,73,Bayeux,JOAO PESSOA,2020-05-14,null,null,null,2020-05-19,2020-05-20,hospital público
+225,feminino,84,Uiraúna,CAJAZEIRAS,2020-05-07,null,null,null,2020-05-17,2020-05-20,hospital público
+226,masculino,63,João Pessoa,JOAO PESSOA,2020-05-04,null,null,null,2020-05-17,2020-05-20,hospital privado
+227,masculino,71,Patos,PATOS,2020-04-25,null,null,null,2020-05-20,2020-05-20,hospital privado
+228,feminino,75,Itabaiana,ITABAIANA,2020-05-04,null,null,null,2020-05-19,2020-05-20,hospital público
+229,masculino,71,Santa Rita,JOAO PESSOA,2020-05-08,null,null,null,2020-05-12,2020-05-20,hospital público
+230,feminino,71,Santa Rita,JOAO PESSOA,2020-04-30,null,null,null,2020-05-10,2020-05-20,hospital público
