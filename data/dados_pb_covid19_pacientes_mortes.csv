@@ -229,3 +229,18 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 228,feminino,75,Itabaiana,ITABAIANA,2020-05-04,null,null,null,2020-05-19,2020-05-20,hospital público
 229,masculino,71,Santa Rita,JOAO PESSOA,2020-05-08,null,null,null,2020-05-12,2020-05-20,hospital público
 230,feminino,71,Santa Rita,JOAO PESSOA,2020-04-30,null,null,null,2020-05-10,2020-05-20,hospital público
+231,masculino,68,João Pessoa,JOAO PESSOA,2020-05-06,null,null,null,2020-05-07,2020-05-21,hospital público
+232,masculino,57,Cruz do Espírito Santo,SAPE,2020-05-15,null,null,null,2020-05-20,2020-05-21,hospital público
+233,masculino,66,Cachoeira dos Índios,CAJAZEIRAS,2020-05-04,null,null,null,2020-05-20,2020-05-21,hospital público
+234,masculino,27,João Pessoa,JOAO PESSOA,2020-05-04,null,null,null,2020-05-10,2020-05-21,hospital público
+235,masculino,35,João Pessoa,JOAO PESSOA,2020-04-24,null,null,null,2020-05-21,2020-05-21,hospital público
+236,masculino,89,Campina Grande,CAMPINA GRANDE,2020-05-10,null,null,null,2020-05-21,2020-05-21,hospital público
+237,masculino,35,Cajazeiras,CAJAZEIRAS,2020-05-08,null,null,null,2020-05-20,2020-05-21,hospital público
+238,masculino,61,Conde,JOAO PESSOA,2020-05-04,null,null,null,2020-05-16,2020-05-21,hospital público
+239,masculino,97,João Pessoa,JOAO PESSOA,2020-04-25,null,null,null,2020-05-10,2020-05-21,residência
+240,masculino,68,João Pessoa,JOAO PESSOA,2020-04-22,null,null,null,2020-05-10,2020-05-21,residência
+241,feminino,65,Caiçara,GUARABIRA,2020-04-29,null,null,null,2020-05-10,2020-05-21,hospital público
+242,masculino,73,Santa Rita,JOAO PESSOA,2020-04-16,null,null,null,2020-05-20,2020-05-21,UPA
+243,masculino,55,João Pessoa,JOAO PESSOA,2020-05-09,null,null,null,2020-05-20,2020-05-21,hospital público
+244,feminino,90,Campina Grande,CAMPINA GRANDE,2020-05-06,null,null,null,2020-05-18,2020-05-21,hospital público
+245,masculino,97,Alhandra,LITORAL SUL,2020-05-08,null,null,null,2020-05-20,2020-05-21,hospital público
