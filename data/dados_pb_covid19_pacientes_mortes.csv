@@ -244,3 +244,6 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 243,masculino,55,João Pessoa,JOAO PESSOA,2020-05-09,null,null,null,2020-05-20,2020-05-21,hospital público
 244,feminino,90,Campina Grande,CAMPINA GRANDE,2020-05-06,null,null,null,2020-05-18,2020-05-21,hospital público
 245,masculino,97,Alhandra,LITORAL SUL,2020-05-08,null,null,null,2020-05-20,2020-05-21,hospital público
+246,masculino,48,Lagoa Seca,CAMPINA GRANDE,2020-05-09,null,null,null,2020-05-22,2020-05-22,hospital público
+247,feminino,66,Campina Grande,CAMPINA GRANDE,2020-05-09,null,null,null,2020-05-16,2020-05-22,hospital público
+248,masculino,57,Serraria,BREJO PARAIBANO,2020-05-02,null,null,null,2020-05-12,2020-05-22,UPA
