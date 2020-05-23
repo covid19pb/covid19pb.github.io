@@ -247,3 +247,13 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 246,masculino,48,Lagoa Seca,CAMPINA GRANDE,2020-05-09,null,null,null,2020-05-22,2020-05-22,hospital público
 247,feminino,66,Campina Grande,CAMPINA GRANDE,2020-05-09,null,null,null,2020-05-16,2020-05-22,hospital público
 248,masculino,57,Serraria,BREJO PARAIBANO,2020-05-02,null,null,null,2020-05-12,2020-05-22,UPA
+249,feminino,59,Cruz do Espírito Santo,SAPE,2020-05-11,null,null,null,2020-05-14,2020-05-23,hospital público
+250,masculino,62,Cajazeiras,CAJAZEIRAS,2020-05-02,null,null,null,2020-05-17,2020-05-23,hospital público
+251,masculino,90,João Pessoa,JOAO PESSOA,2020-05-09,null,null,null,2020-05-14,2020-05-23,UPA
+252,masculino,64,Areia,BREJO PARAIBANO,2020-05-05,null,null,null,2020-05-22,2020-05-23,hospital público
+253,feminino,72,Bayeux,JOAO PESSOA,2020-05-05,null,null,null,2020-05-22,2020-05-23,hospital público
+254,masculino,66,Bayeux,JOAO PESSOA,2020-05-03,null,null,null,2020-05-13,2020-05-23,residência
+255,masculino,48,Patos,PATOS,2020-04-29,null,null,null,2020-05-22,2020-05-23,hospital público
+256,masculino,61,Caaporã,LITORAL SUL,2020-04-19,null,null,null,2020-05-21,2020-05-23,hospital público
+257,masculino,61,João Pessoa,JOAO PESSOA,2020-05-03,null,null,null,2020-05-22,2020-05-23,hospital público
+258,feminino,84,Cajazeiras,Cajazeiras,2020-05-03,null,null,null,2020-05-23,2020-05-23,hospital público
