@@ -257,3 +257,17 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 256,masculino,61,Caaporã,LITORAL SUL,2020-04-19,null,null,null,2020-05-21,2020-05-23,hospital público
 257,masculino,61,João Pessoa,JOAO PESSOA,2020-05-03,null,null,null,2020-05-22,2020-05-23,hospital público
 258,feminino,84,Cajazeiras,Cajazeiras,2020-05-03,null,null,null,2020-05-23,2020-05-23,hospital público
+259,masculino,83,Cajazeiras,Cajazeiras,2020-05-09,null,null,null,2020-05-22,2020-05-24,hospital público
+260,feminino,95,João Pessoa,JOAO PESSOA,2020-05-11,null,null,null,2020-05-20,2020-05-24,hospital público
+261,feminino,37,Santa Rita,JOAO PESSOA,2020-05-09,null,null,null,2020-05-16,2020-05-24,hospital público
+262,feminino,71,Santa Rita,JOAO PESSOA,2020-05-01,null,null,null,2020-05-21,2020-05-24,hospital público
+263,masculino,86,Bayeux,JOAO PESSOA,2020-05-07,null,null,null,2020-05-10,2020-05-24,hospital público
+264,masculino,64,Caaporã,LITORAL SUL,2020-05-07,null,null,null,2020-05-20,2020-05-24,hospital público
+265,feminino,76,Baía da Traição,LITORAL NORTE,2020-05-11,null,null,null,2020-05-23,2020-05-24,hospital público
+266,masculino,63,Pedras de Fogo,LITORAL SUL,2020-05-05,null,null,null,2020-05-22,2020-05-24,hospital público
+267,feminino,39,João Pessoa,JOAO PESSOA,2020-05-01,null,null,null,2020-05-22,2020-05-24,hospital público
+268,masculino,72,João Pessoa,JOAO PESSOA,2020-05-10,null,null,null,2020-05-14,2020-05-24,hospital público
+269,feminino,24,Santa Rita,JOAO PESSOA,2020-05-02,null,null,null,2020-05-23,2020-05-24,hospital público
+270,masculino,57,João Pessoa,JOAO PESSOA,2020-05-10,null,null,null,2020-05-23,2020-05-24,hospital público
+271,masculino,69,Patos,PATOS,2020-05-02,null,null,null,2020-05-24,2020-05-24,hospital privado
+272,masculino,43,João Pessoa,JOAO PESSOA,2020-05-17,null,null,null,2020-05-24,2020-05-24,hospital público
