@@ -271,3 +271,10 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 270,masculino,57,João Pessoa,JOAO PESSOA,2020-05-10,null,null,null,2020-05-23,2020-05-24,hospital público
 271,masculino,69,Patos,PATOS,2020-05-02,null,null,null,2020-05-24,2020-05-24,hospital privado
 272,masculino,43,João Pessoa,JOAO PESSOA,2020-05-17,null,null,null,2020-05-24,2020-05-24,hospital público
+273,feminino,84,Bayeux,JOAO PESSOA,2020-05-11,null,null,null,2020-05-20,2020-05-25,hospital público
+274,feminino,36,Bayeux,JOAO PESSOA,2020-05-22,null,null,null,2020-05-23,2020-05-25,hospital privado
+275,feminino,96,João Pessoa,JOAO PESSOA,2020-05-17,null,null,null,2020-05-20,2020-05-25,hospital público
+276,feminino,59,João Pessoa,JOAO PESSOA,2020-05-17,null,null,null,2020-05-24,2020-05-25,hospital público
+277,feminino,72,Santa Rita,JOAO PESSOA,2020-05-15,null,null,null,2020-05-19,2020-05-25,hospital público
+278,masculino,78,Mamanguape,LITORAL NORTE,2020-05-15,null,null,null,2020-05-24,2020-05-25,hospital público
+279,masculino,93,Campina Grande,CAMPINA GRANDE,2020-05-18,null,null,null,2020-05-24,2020-05-25,UPA
