@@ -278,3 +278,10 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 277,feminino,72,Santa Rita,JOAO PESSOA,2020-05-15,null,null,null,2020-05-19,2020-05-25,hospital público
 278,masculino,78,Mamanguape,LITORAL NORTE,2020-05-15,null,null,null,2020-05-24,2020-05-25,hospital público
 279,masculino,93,Campina Grande,CAMPINA GRANDE,2020-05-18,null,null,null,2020-05-24,2020-05-25,UPA
+280,masculino,81,Mari,SAPE,2020-05-10,null,null,null,2020-05-23,2020-05-26,hospital público
+281,masculino,82,João Pessoa,JOAO PESSOA,2020-05-07,null,null,null,2020-05-23,2020-05-26,hospital público
+282,masculino,68,Bayeux,JOAO PESSOA,2020-05-06,null,null,null,2020-05-25,2020-05-26,hospital público
+283,masculino,80,João Pessoa,JOAO PESSOA,2020-04-29,null,null,null,2020-05-25,2020-05-26,hospital público
+284,feminino,80,Cabedelo,JOAO PESSOA,2020-05-08,null,null,null,2020-05-23,2020-05-26,hospital público
+285,feminino,72,Patos,PATOS,2020-04-26,null,null,null,2020-05-25,2020-05-26,hospital público
+286,masculino,27,Santa Rita,JOAO PESSOA,2020-05-22,null,null,null,2020-05-24,2020-05-26,hospital público
