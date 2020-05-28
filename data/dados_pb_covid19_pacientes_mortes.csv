@@ -285,3 +285,15 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 284,feminino,80,Cabedelo,JOAO PESSOA,2020-05-08,null,null,null,2020-05-23,2020-05-26,hospital público
 285,feminino,72,Patos,PATOS,2020-04-26,null,null,null,2020-05-25,2020-05-26,hospital público
 286,masculino,27,Santa Rita,JOAO PESSOA,2020-05-22,null,null,null,2020-05-24,2020-05-26,hospital público
+287,masculino,57,Serraria,BREJO PARAIBANO,2020-05-10,null,null,null,2020-05-12,2020-05-27,UPA
+288,feminino,24,Mamanguape,LITORAL NORTE,2020-05-07,null,null,null,2020-05-26,2020-05-27,hospital público
+289,feminino,60,Santa Rita,JOAO PESSOA,2020-05-05,null,null,null,2020-05-25,2020-05-27,hospital público
+290,masculino,61,Bayeux,JOAO PESSOA,2020-04-29,null,null,null,2020-05-26,2020-05-27,hospital público
+291,masculino,78,São Bento,CATOLE DO ROCHA,2020-05-08,null,null,null,2020-05-23,2020-05-27,hospital público
+292,masculino,87,Catolé do Rocha,CATOLE DO ROCHA,2020-05-10,null,null,null,2020-05-25,2020-05-27,hospital público
+293,masculino,85,Catolé do Rocha,CATOLE DO ROCHA,2020-05-14,null,null,null,2020-05-25,2020-05-27,hospital público
+294,masculino,76,Lucena,JOAO PESSOA,2020-05-10,null,null,null,2020-05-14,2020-05-27,UPA
+295,masculino,61,Barra de São Miguel,CARIRI ORIENTAL,2020-05-04,null,null,null,2020-05-20,2020-05-27,hospital público
+296,feminino,59,João Pessoa,JOAO PESSOA,2020-04-28,null,null,null,2020-05-26,2020-05-27,hospital público
+297,masculino,34,João Pessoa,JOAO PESSOA,2020-05-05,null,null,null,2020-05-26,2020-05-27,hospital público
+298,feminino,95,Remígio,CURIMATAU OCIDENTAL,2020-05-02,null,null,null,2020-05-26,2020-05-27,hospital privado
