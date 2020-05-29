@@ -297,3 +297,23 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 296,feminino,59,João Pessoa,JOAO PESSOA,2020-04-28,null,null,null,2020-05-26,2020-05-27,hospital público
 297,masculino,34,João Pessoa,JOAO PESSOA,2020-05-05,null,null,null,2020-05-26,2020-05-27,hospital público
 298,feminino,95,Remígio,CURIMATAU OCIDENTAL,2020-05-02,null,null,null,2020-05-26,2020-05-27,hospital privado
+299,feminino,82,Pitimbu,LITORAL SUL,2020-05-15,null,null,null,2020-05-19,2020-05-28,residência
+300,masculino,56,Sapé,SAPE,2020-05-10,null,null,null,2020-05-15,2020-05-28,hospital público
+301,feminino,36,João Pessoa,JOAO PESSOA,2020-05-10,null,null,null,2020-05-16,2020-05-28,UPA
+302,masculino,54,João Pessoa,JOAO PESSOA,2020-05-15,null,null,null,2020-05-19,2020-05-28,residência
+303,masculino,83,Bayeux,JOAO PESSOA,2020-05-17,null,null,null,2020-05-18,2020-05-28,UPA
+304,feminino,97,Campina Grande,CAMPINA GRANDE,2020-05-12,null,null,null,2020-05-18,2020-05-28,hospital privado
+305,feminino,71,João Pessoa,JOAO PESSOA,2020-05-07,null,null,null,2020-05-15,2020-05-28,UPA
+306,feminino,60,Santa Rita,JOAO PESSOA,2020-05-13,null,null,null,2020-05-18,2020-05-28,UPA
+307,masculino,56,João Pessoa,JOAO PESSOA,2020-05-11,null,null,null,2020-05-24,2020-05-28,hospital público
+308,masculino,73,João Pessoa,JOAO PESSOA,2020-05-13,null,null,null,2020-05-19,2020-05-28,residência
+309,masculino,53,Santa Rita,JOAO PESSOA,2020-05-06,null,null,null,2020-05-19,2020-05-28,UPA
+310,masculino,80,Itabaiana,ITABAIANA,2020-05-15,null,null,null,2020-05-26,2020-05-28,hospital público
+311,masculino,78,Juripiranga,SAPE,2020-05-15,null,null,null,2020-05-27,2020-05-28,UPA
+312,feminino,43,João Pessoa,JOAO PESSOA,2020-05-23,null,null,null,2020-05-27,2020-05-28,hospital público
+313,masculino,77,João Pessoa,JOAO PESSOA,2020-05-18,null,null,null,2020-05-26,2020-05-28,hospital público
+314,masculino,89,Campina Grande,CAMPINA GRANDE,2020-05-08,null,null,null,2020-05-13,2020-05-28,hospital público
+315,masculino,89,Campina Grande,CAMPINA GRANDE,2020-05-23,null,null,null,2020-05-24,2020-05-28,hospital público
+316,masculino,50,Campina Grande,CAMPINA GRANDE,2020-05-21,null,null,null,2020-05-25,2020-05-28,hospital público
+317,feminino,58,Patos,PATOS,2020-05-18,null,null,null,2020-05-21,2020-05-28,hospital público
+318,masculino,73,Patos,PATOS,2020-05-18,null,null,null,2020-05-21,2020-05-28,hospital público
