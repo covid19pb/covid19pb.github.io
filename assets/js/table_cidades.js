@@ -5,14 +5,13 @@ function csvToTable(data){
 	table += "<thead class='thead-dark'>";
 	table += "<tr>";
 
+	//table += "<th scope='col'>Data</th>";
+	// table += "<th scope='col'>Última atualização</th>";
 	table += "<th scope='col'>Município</th>";
-	// table += "<th scope='col'>UF</th>";
 	// table += "<th scope='col'>Código</th>";
 	// table += "<th scope='col'>Mesorregião</th>";
 	// table += "<th scope='col'>Microregião</th>";
-	// table += "<th scope='col'>Internados</th>";
 	table += "<th scope='col'>Confirmados</th>";
-	// table += "<th scope='col'>Recuperados</th>";
 	table += "<th scope='col'>Mortes</th>";
 
 	table += "</tr>";
@@ -28,7 +27,7 @@ function csvToTable(data){
 		
 		for(var rowSingleCell = 0; rowSingleCell < rowCells.length; rowSingleCell++){
 
-			if((rowSingleCell === 0) || (rowSingleCell === 6) || (rowSingleCell === 8)){
+			if((rowSingleCell === 2) || (rowSingleCell === 6) || (rowSingleCell === 7)){
 				if(rowCells[6] >= 1){
 					table += "<td>";
 					table += rowCells[rowSingleCell];

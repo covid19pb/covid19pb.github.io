@@ -15,17 +15,14 @@ var viewMicrorregioesMortes = {
 	},
 	"transform": [
 		{
-		  "filter": "(datum.ultima_atualizacao === 'True')"
-		},
-		{
 		"lookup": "properties.micro",
 		"from": {
 			"data": {
 				"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorMicro.csv"
 			},
-			"key": "micro",
+			"key": "microrregiao",
 			"fields": [
-				"data","ultima_atualizacao","mesorregiao","microrregiao","confirmadosAcumulados","mortesAcumuladas"
+				"data","mesorregiao","microrregiao","confirmadosAcumulados","mortesAcumuladas"
 			]
 		}
 	}],

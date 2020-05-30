@@ -15,9 +15,6 @@ var viewCidadesMortes = {
 	},
 	"transform": [
 		{
-		  "filter": "(datum.ultima_atualizacao === 'True')"
-		},
-		{
 		"lookup": "properties.codigo",
 		"from": {
 			"data": {
@@ -25,7 +22,7 @@ var viewCidadesMortes = {
 			},
 			"key": "codigo",
 			"fields": [
-				"data","ultima_atualizacao","municipio","codigo","mesorregiao","microrregiao","confirmadosAcumulados","mortesAcumuladas"
+				"data","municipio","codigo","mesorregiao","microrregiao","confirmadosAcumulados","mortesAcumuladas"
 			]
 		}
 	}],
