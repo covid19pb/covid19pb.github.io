@@ -317,3 +317,12 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 316,masculino,50,Campina Grande,CAMPINA GRANDE,2020-05-21,null,null,null,2020-05-25,2020-05-28,hospital público
 317,feminino,58,Patos,PATOS,2020-05-18,null,null,null,2020-05-21,2020-05-28,hospital público
 318,masculino,73,Patos,PATOS,2020-05-18,null,null,null,2020-05-21,2020-05-28,hospital público
+319,feminino,40,Rio Tinto,LITORAL NORTE,2020-05-18,null,null,null,2020-05-27,2020-05-29,hospital público
+320,masculino,76,Mamanguape,LITORAL NORTE,2020-05-22,null,null,null,2020-05-27,2020-05-29,hospital público
+321,masculino,50,João Pessoa,JOAO PESSOA,2020-04-20,null,null,null,2020-05-06,2020-05-29,hospital público
+322,feminino,89,Santa Rita,JOAO PESSOA,2020-05-07,null,null,null,2020-05-08,2020-05-29,hospital público
+323,masculino,82,Mari,SAPE,2020-05-09,null,null,null,2020-05-23,2020-05-29,hospital público
+324,masculino,72,João Pessoa,JOAO PESSOA,2020-05-16,null,null,null,2020-05-26,2020-05-29,hospital público
+325,feminino,89,João Pessoa,JOAO PESSOA,2020-04-21,null,null,null,2020-05-13,2020-05-29,hospital público
+326,feminino,65,João Pessoa,JOAO PESSOA,2020-04-03,null,null,null,2020-05-23,2020-05-29,hospital público
+327,masculino,60,João Pessoa,JOAO PESSOA,2020-04-29,null,null,null,2020-05-01,2020-05-29,UPA

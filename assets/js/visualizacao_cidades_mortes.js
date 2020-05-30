@@ -13,7 +13,11 @@ var viewCidadesMortes = {
 			"feature": "Munic"
 		}
 	},
-	"transform": [{
+	"transform": [
+		{
+		  "filter": "(datum.ultima_atualizacao === 'True')"
+		},
+		{
 		"lookup": "properties.codigo",
 		"from": {
 			"data": {
@@ -21,7 +25,7 @@ var viewCidadesMortes = {
 			},
 			"key": "codigo",
 			"fields": [
-				"municipio","uf","codigo","meso","micro","confirmadosAcumulados","recuperadosAcumulados","mortesAcumuladas"
+				"data","ultima_atualizacao","municipio","codigo","mesorregiao","microrregiao","confirmadosAcumulados","mortesAcumuladas"
 			]
 		}
 	}],
@@ -50,11 +54,6 @@ var viewCidadesMortes = {
 				"type": "nominal",
 				"title": "Município: "
 			}, 
-			{
-				"field": "properties.uf",
-				"type": "nominal",
-				"title": "UF: "
-			},
 			{
 				"field": "properties.meso",
 				"type": "nominal",

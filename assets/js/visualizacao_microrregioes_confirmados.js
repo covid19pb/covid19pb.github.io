@@ -13,7 +13,11 @@ var viewMicrorregioesConfirmados = {
 			"feature": "microrregioes"
 		}
 	},
-	"transform": [{
+	"transform": [
+		{
+		  "filter": "(datum.ultima_atualizacao === 'True')"
+		},
+		{
 		"lookup": "properties.micro",
 		"from": {
 			"data": {
@@ -21,7 +25,7 @@ var viewMicrorregioesConfirmados = {
 			},
 			"key": "micro",
 			"fields": [
-				"micro","uf","meso","suspeitosInternados","confirmadosAcumulados","recuperadosAcumulados","mortesAcumuladas"
+				"data","ultima_atualizacao","mesorregiao","microrregiao","confirmadosAcumulados","mortesAcumuladas"
 			]
 		}
 	}],
@@ -50,11 +54,6 @@ var viewMicrorregioesConfirmados = {
 				"type": "nominal",
 				"title": "Microrregião: "
 			}, 
-			{
-				"field": "properties.uf",
-				"type": "nominal",
-				"title": "UF: "
-			},
 			{
 				"field": "properties.meso",
 				"type": "nominal",
