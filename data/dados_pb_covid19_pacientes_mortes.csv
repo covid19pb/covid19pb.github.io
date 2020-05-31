@@ -326,3 +326,22 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 325,feminino,89,João Pessoa,JOAO PESSOA,2020-04-21,null,null,null,2020-05-13,2020-05-29,hospital público
 326,feminino,65,João Pessoa,JOAO PESSOA,2020-04-03,null,null,null,2020-05-23,2020-05-29,hospital público
 327,masculino,60,João Pessoa,JOAO PESSOA,2020-04-29,null,null,null,2020-05-01,2020-05-29,UPA
+328,feminino,47,João Pessoa,JOAO PESSOA,2020-05-05,null,null,null,2020-05-07,2020-05-30,hospital público
+329,feminino,56,João Pessoa,JOAO PESSOA,2020-05-01,null,null,null,2020-05-13,2020-05-30,hospital público
+330,masculino,64,João Pessoa,JOAO PESSOA,2020-04-30,null,null,null,2020-05-10,2020-05-30,hospital público
+331,masculino,71,João Pessoa,JOAO PESSOA,2020-05-13,null,null,null,2020-05-21,2020-05-30,hospital público
+332,masculino,85,João Pessoa,JOAO PESSOA,2020-05-16,null,null,null,2020-05-28,2020-05-30,hospital público
+333,feminino,83,Santa Rita,JOAO PESSOA,2020-05-19,null,null,null,2020-05-28,2020-05-30,hospital público
+334,masculino,76,João Pessoa,JOAO PESSOA,2020-05-16,null,null,null,2020-05-29,2020-05-30,hospital público
+335,feminino,71,Patos,PATOS,2020-05-16,null,null,null,2020-05-30,2020-05-30,hospital público
+336,masculino,74,Gurjão,CARIRI ORIENTAL,2020-05-19,null,null,null,2020-05-20,2020-05-30,hospital público
+337,masculino,57,João Pessoa,JOAO PESSOA,2020-05-07,null,null,null,2020-05-08,2020-05-30,hospital público
+338,feminino,75,João Pessoa,JOAO PESSOA,2020-04-28,null,null,null,2020-05-18,2020-05-30,hospital público
+339,feminino,63,João Pessoa,JOAO PESSOA,2020-05-09,null,null,null,2020-05-14,2020-05-30,UPA
+340,masculino,81,Cabedelo,JOAO PESSOA,2020-05-06,null,null,null,2020-05-09,2020-05-30,UPA
+341,masculino,43,João Pessoa,JOAO PESSOA,2020-04-30,null,null,null,2020-05-23,2020-05-30,hospital público
+342,feminino,86,João Pessoa,JOAO PESSOA,2020-04-01,null,null,null,2020-04-14,2020-05-30,UPA
+343,masculino,72,Santa Rita,JOAO PESSOA,2020-04-28,null,null,null,2020-05-22,2020-05-30,hospital público
+344,masculino,34,João Pessoa,JOAO PESSOA,2020-05-15,null,null,null,2020-05-24,2020-05-30,UPA
+345,feminino,63,Santa Rita,JOAO PESSOA,2020-05-01,null,null,null,2020-05-18,2020-05-30,hospital público
+346,feminino,55,Santa Rita,JOAO PESSOA,2020-05-15,null,null,null,2020-05-24,2020-05-30,hospital público
