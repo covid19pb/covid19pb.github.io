@@ -345,3 +345,17 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 344,masculino,34,João Pessoa,JOAO PESSOA,2020-05-15,null,null,null,2020-05-24,2020-05-30,UPA
 345,feminino,63,Santa Rita,JOAO PESSOA,2020-05-01,null,null,null,2020-05-18,2020-05-30,hospital público
 346,feminino,55,Santa Rita,JOAO PESSOA,2020-05-15,null,null,null,2020-05-24,2020-05-30,hospital público
+347,masculino,72,Campina Grande,CAMPINA GRANDE,2020-05-05,null,null,null,2020-05-21,2020-05-31,hospital público
+348,masculino,83,Campina Grande,CAMPINA GRANDE,2020-05-04,null,null,null,2020-05-15,2020-05-31,hospital público
+349,masculino,48,Campina Grande,CAMPINA GRANDE,null,2020-05-21,null,null,2020-05-21,2020-05-31,hospital público
+350,masculino,39,Campina Grande,CAMPINA GRANDE,2020-05-09,null,null,null,2020-05-28,2020-05-31,hospital público
+351,feminino,95,Cruz do Espírito Santo,SAPE,2020-05-11,null,null,null,2020-05-20,2020-05-31,hospital público
+352,feminino,91,Campina Grande,CAMPINA GRANDE,2020-05-18,null,null,null,2020-05-20,2020-05-31,hospital público
+353,masculino,89,Remígio,CURIMATAU OCIDENTAL,2020-05-14,null,null,null,2020-05-25,2020-05-31,hospital público
+354,masculino,65,João Pessoa,JOAO PESSOA,2020-05-15,null,null,null,2020-05-31,2020-05-31,hospital público
+355,feminino,92,João Pessoa,JOAO PESSOA,2020-05-05,null,null,null,2020-05-20,2020-05-31,hospital público
+356,masculino,58,Cruz do Espírito Santo,SAPE,2020-04-29,null,null,null,2020-05-27,2020-05-31,hospital público
+357,feminino,66,Santa Rita,JOAO PESSOA,2020-04-27,null,null,null,2020-05-09,2020-05-31,hospital público
+358,masculino,37,João Pessoa,JOAO PESSOA,2020-05-06,null,null,null,2020-05-12,2020-05-31,hospital público
+359,masculino,80,Santa Rita,JOAO PESSOA,2020-04-27,null,null,null,2020-05-10,2020-05-31,hospital público
+360,masculino,92,João Pessoa,JOAO PESSOA,2020-04-13,null,null,null,2020-05-25,2020-05-31,hospital público
