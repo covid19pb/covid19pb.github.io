@@ -369,3 +369,12 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 368,masculino,72,Bayeux,JOAO PESSOA,2020-05-19,null,null,null,2020-05-30,2020-06-01,hospital público
 369,feminino,91,Guarabira,GUARABIRA,2020-05-19,null,null,null,2020-06-01,2020-06-01,UPA
 370,feminino,41,Bayeux,JOAO PESSOA,2020-05-01,null,null,null,2020-05-19,2020-06-01,hospital público
+371,masculino,86,Caaporã,LITORAL SUL,2020-05-23,null,null,null,2020-05-25,2020-06-02,hospital público
+372,feminino,81,São Bento,CATOLE DO ROCHA,2020-05-19,null,null,null,2020-05-30,2020-06-02,hospital público
+373,masculino,75,Água Branca,SERRA DO TEIXEIRA,2020-05-14,null,null,null,2020-05-15,2020-06-02,hospital público
+374,masculino,95,São Mamede,SERIDO OCIDENTAL PARAIBANO,2020-05-07,null,null,null,2020-05-17,2020-06-02,hospital público
+375,masculino,76,Santa Rita,JOAO PESSOA,2020-05-10,null,null,null,2020-05-17,2020-06-02,residência
+376,masculino,85,Caaporã,LITORAL SUL,2020-05-21,null,null,null,2020-05-29,2020-06-02,residência
+377,masculino,74,Jacaraú,LITORAL NORTE,2020-05-17,null,null,null,2020-05-31,2020-06-02,hospital público
+378,masculino,77,Santa Rita,JOAO PESSOA,2020-05-01,null,null,null,2020-05-30,2020-06-02,UPA
+379,feminino,87,Santa Rita,JOAO PESSOA,2020-05-26,null,null,null,2020-05-30,2020-06-02,hospital público
