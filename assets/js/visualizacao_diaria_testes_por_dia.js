@@ -69,7 +69,16 @@ var viewDiariaTestesPorDia = {
           "aggregate": "mean"
         },
         "color": {"value": "red"},
-        "size": {"value": 2}
+        "size": {"value": 3},
+        "tooltip": [
+          {
+            "field": "testesPorDia",
+            "type": "quantitative",
+            "aggregate": "mean",
+            "format": ".2f",
+            "title": "Média de testes de covid-19"
+          }
+        ]
       }
     }
   ],
