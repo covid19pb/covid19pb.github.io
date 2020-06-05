@@ -7,6 +7,7 @@ Visualização de dados do Covid-19 no estado da Paraíba - Brasil.
 - [Daniel Marques](https://github.com/danielmarquesvg), [@Daniel_MVG](https://twitter.com/Daniel_MVG)
 - [Francinaldo Carlos](https://github.com/francinaldocn)
 - [Marcus Williams](https://github.com/marcuswac)
+- [Fernando Lordão](https://github.com/fernandolordao)
 
 ## Citação
 
@@ -16,7 +17,7 @@ Em BibTeX:
 @misc{Covid19PB,
 	title = {Visualização de dados do Covid-19 no estado da Paraíba - Brasil},
 	howpublished = {\url{https://covid19pb.github.io}},
-	author = {Daniel Marques Vasconcelos Guimarães and Francinaldo Carlos Nunes and Marcus Williams Aquino de Carvalho},
+	author = {Daniel Marques Vasconcelos Guimarães and Francinaldo Carlos Nunes and Marcus Williams Aquino de Carvalho and Fernando Augusto Ferreira Lordão},
 	year = {2020}
 }
 ```
@@ -59,7 +60,8 @@ Em BibTeX:
 - **MS** : Ministério da Saúde
 
 ## Fontes de informação
-- [Boletim da secretaria de saúde da Paraíba](https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/)
+- [Boletins da secretaria de saúde da Paraíba](https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/)
+- [Boletins Epidemiológicos da secretaria de saúde da Paraíba](https://paraiba.pb.gov.br/diretas/saude/coronavirus/profissionais-de-saude/boletins-e-notas-tecnicas)
 - [G1 PB](https://g1.globo.com/pb/paraiba/)
 - [Click PB](https://www.clickpb.com.br/)
 - [Portal Correio](https://portalcorreio.com.br/)
