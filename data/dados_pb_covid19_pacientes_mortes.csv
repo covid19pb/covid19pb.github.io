@@ -437,3 +437,16 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 436,feminino,86,Santa Luzia,SERIDO OCIDENTAL PARAIBANO,2020-05-14,,,,2020-06-04,2020-06-04,hospital público
 437,masculino,69,Santa Rita,JOAO PESSOA,2020-05-26,,,,2020-05-28,2020-06-04,hospital público
 438,masculino,83,Santa Rita,JOAO PESSOA,2020-05-06,,,,2020-05-15,2020-06-04,hospital público
+439,masculino,84,Mari,SAPE,2020-05-06,,,,2020-05-22,2020-06-05,hospital público
+440,masculino,45,Catolé do Rocha,CATOLE DO ROCHA,2020-05-08,,,,2020-06-04,2020-06-05,hospital público
+441,feminino,78,Itapororoca,LITORAL NORTE,2020-05-25,,,,2020-06-04,2020-06-05,hospital público
+442,masculino,69,Santa Rita,JOAO PESSOA,2020-05-10,,,,2020-06-04,2020-06-05,hospital público
+443,masculino,95,João Pessoa,JOAO PESSOA,2020-05-18,,,,2020-06-04,2020-06-05,hospital público
+444,feminino,66,Mamanguape,LITORAL NORTE,2020-05-21,,,,2020-06-03,2020-06-05,hospital público
+445,feminino,74,Bayeux,JOAO PESSOA,2020-05-09,,,,2020-06-03,2020-06-05,hospital público
+446,feminino,32,Cruz do Espírito Santo,SAPE,2020-05-15,,,,2020-06-02,2020-06-05,hospital público
+447,feminino,80,João Pessoa,JOAO PESSOA,2020-05-25,,,,2020-06-04,2020-06-05,hospital público
+448,masculino,79,Santa Rita,JOAO PESSOA,2020-05-24,,,,2020-06-01,2020-06-05,hospital público
+449,masculino,79,Mari,SAPE,2020-05-13,,,,2020-05-29,2020-06-05,residência
+450,masculino,90,Pilar,SAPE,2020-05-20,,,,2020-05-24,2020-06-05,residência
+451,feminino,61,Santa Rita,JOAO PESSOA,2020-05-20,,,,2020-05-27,2020-06-05,residência

@@ -2,6 +2,26 @@
 
 Visualização de dados do Covid-19 no estado da Paraíba - Brasil.
 
+## Equipe
+
+- [Daniel Marques](https://github.com/danielmarquesvg), [@Daniel_MVG](https://twitter.com/Daniel_MVG)
+- [Francinaldo Carlos](https://github.com/francinaldocn)
+- [Marcus Williams](https://github.com/marcuswac)
+
+## Citação
+
+Em BibTeX:
+
+```
+@misc{Covid19PB,
+	title = {Visualização de dados do Covid-19 no estado da Paraíba - Brasil},
+	howpublished = {\url{https://covid19pb.github.io}},
+	author = {Daniel Marques Vasconcelos Guimarães and Francinaldo Carlos Nunes and Marcus Williams Aquino de Carvalho},
+	year = {2020}
+}
+```
+
+
 ## Link do projeto
 [https://covid19pb.github.io/](https://covid19pb.github.io/)
 
