@@ -1,0 +1,439 @@
+Inicio Sintomas;Doenças preexistentes;Método;Município de Residência;Idade;Sexo;Data do Óbito
+2020-04-06;;Swab;João Pessoa;94;Feminino;2020-04-28
+2020-04-22;;Swab;João Pessoa;68;Masculino;2020-05-10
+2020-05-01;;Swab;Alagoa Grande;76;Feminino;2020-05-17
+2020-05-19;;Swab;Campina Grande;96;Feminino;2020-05-26
+2020-04-25;;Swab;Campina Grande;41;Masculino;2020-05-09
+2020-05-05;;T. Rápido;João Pessoa;72;Masculino;2020-05-09
+2020-05-18;;Swab;Campina Grande;91;Feminino;2020-05-20
+2020-04-19;;Swab;João Pessoa;51;Masculino;2020-05-05
+2020-04-23;;Swab;Bayeux;67;Masculino;2020-05-08
+2020-05-02;;Swab;Remigio;95;Feminino;2020-05-13
+2020-04-25;;Swab;João Pessoa;78;Masculino;2020-05-05
+2020-05-03;;Swab;João Pessoa;77;Masculino;2020-05-17
+2020-05-06;;T. Rápido;Patos;77;Masculino;2020-05-16
+2020-05-17;;swab;São Mamede;95;Masculino;2020-05-07
+2020-04-18;;Swab;Lagoa Seca;59;Masculino;2020-05-04
+2020-04-06;;Swab;Sapé;84;Feminino;2020-04-13
+2020-04-26;;swab;João Pessoa;62;Feminino;2020-04-29
+2020-04-19;;Swab;Campina Grande;67;Masculino;2020-05-24
+2020-05-18;;T. Rápido;João Pessoa;77;Masculino;2020-05-26
+2020-04-29;;Swab;São Sebastião de Lagoa de Roça;43;Feminino;2020-05-10
+2020-04-20;;swab;João Pessoa;68;Feminino;2020-04-24
+2020-04-27;;T. Rápido;João Pessoa;51;Feminino;2020-05-04
+2020-04-29;;Swab;Cruz do Espirito Santo;58;Masculino;2020-05-27
+2020-05-09;;T. Rápido;João Pessoa;55;Masculino;2020-05-20
+2020-05-08;;T. Rápido;Cajazeiras;35;Masculino;2020-05-20
+2020-04-25;;Swab;João Pessoa;69;Feminino;2020-05-07
+2020-04-25;;Swab;Santa Rita;56;Feminino;2020-05-15
+2020-04-04;;Swab;Bayeux;57;Masculino;2020-04-21
+2020-05-08;;T. Rápido;Santa Rita;63;Feminino;2020-05-10
+2020-05-04;;Swab;São Bento;58;Masculino;2020-05-12
+2020-05-30;;Swab;João Pessoa;65;Feminino;2020-06-03
+2020-05-05;;Swab;João Pessoa;92;Feminino;2020-05-20
+2020-04-30;;Swab;João Pessoa;51;Masculino;2020-05-15
+2020-05-01;;Swab;Cabedelo;56;Masculino;2020-06-03
+2020-05-15;;Swab;Bayeux;73;Feminino;2020-05-23
+2020-04-30;;T. Rápido;João Pessoa;43;Masculino;2020-05-23
+2020-04-26;;Swab;Pedras de Fogo;83;Feminino;2020-05-04
+2020-05-02;;Swab;Campina Grande;77;Feminino;2020-05-05
+2020-04-16;;Swab;João Pessoa;50;Masculino;2020-04-22
+2020-05-09;;swab;Campina Grande;45;Masculino;2020-05-25
+2020-04-29;;Swab;Patos;41;Feminino;2020-05-05
+2020-03-28;;Swab;Taperoá;4;Feminino;2020-04-11
+2020-05-05;;T. Rápido;Campina Grande;91;Masculino;2020-05-10
+2020-04-27;;Swab;João Pessoa;67;Masculino;2020-05-24
+2020-04-29;;T. Rápido;São Bento;78;Masculino;2020-05-23
+2020-05-23;;swab;Caaporã;86;Masculino;2020-05-25
+2020-04-18;;Swab;João Pessoa;45;Masculino;2020-05-04
+2020-05-12;;Swab;Cuite;45;Masculino;2020-06-03
+2020-05-05;;T. Rápido;Rio Tinto;80;Masculino;2020-05-19
+2020-05-05;;Swab;Santa Rita;63;Feminino;2020-05-11
+2020-05-19;;T.rapido;João Pessoa;56;Feminino;2020-05-28
+2020-04-02;;Swab;João Pessoa;84;Feminino;2020-04-19
+2020-04-11;;Swab;Santa Rita;65;Masculino;2020-04-13
+2020-05-02;;Swab;Serraria;57;Masculino;2020-05-12
+2020-04-28;;Swab;Santa Rita;20;Feminino;2020-05-09
+2020-05-06;;Laboratorial;Piancó;54;Masculino;2020-05-09
+2020-04-29;;Swab;Caaporã;79;Masculino;2020-05-13
+2020-04-08;;Swab;João Pessoa;73;Masculino;2020-05-01
+2020-04-22;;Swab;João Pessoa;83;Masculino;2020-04-30
+2020-04-30;;Swab;Pitimbú;44;Masculino;2020-05-17
+2020-05-13;;T. Rápido;Campina Grande;69;Feminino;2020-05-18
+2020-05-05;;Swab;LAGOA SECA;68;Masculino;2020-05-30
+2020-05-08;;T. Rápido;João Pessoa;38;Masculino;2020-05-13
+2020-05-05;;swab;CAMPINA GRANDE;62;Masculino;2020-05-23
+2020-05-07;;Swab;Caaporã;64;Masculino;2020-05-20
+2020-04-06;;Swab;João Pessoa;77;Feminino;2020-04-22
+2020-04-29;;;João Pessoa;60;Masculino;2020-05-01
+2020-05-01;;Swab;João Pessoa;39;Feminino;2020-05-22
+2020-04-20;;Swab;Santa Rita;54;Masculino;2020-04-27
+2020-05-11;;swab;João Pessoa;79;Feminino;2020-05-12
+2020-04-03;;;João Pessoa;65;Feminino;2020-05-23
+2020-05-08;;T. Rápido;Guarabira;84;Masculino;2020-05-18
+2020-03-19;;C.Epid.;João Pessoa;95;Feminino;2020-03-23
+2020-04-24;;Swab;Santa Rita;69;Masculino;2020-05-04
+2020-05-02;;Swab;Bayeux;75;Masculino;2020-05-12
+2020-05-10;;Swab;Alagoa Nova;28;Feminino;2020-05-11
+2020-05-17;;T. Rápido;João Pessoa;76;Masculino;2020-05-24
+2020-05-16;;T. Rápido;João Pessoa;68;Masculino;2020-05-29
+2020-04-24;;T. Rápido;João Pessoa;72;Masculino;2020-05-25
+2020-05-11;;Swab;Cruz do Espirito Santo;95;Feminino;2020-05-20
+2020-04-24;;T. Rápido;João Pessoa;35;Masculino;2020-05-21
+2020-03-28;;Swab;Junco do Seridó;86;Feminino;2020-04-04
+2020-05-07;;T. Rápido;Santa Rita;60;Feminino;2020-05-25
+2020-04-22;;Swab;João Pessoa;39;Masculino;2020-04-29
+2020-05-03;;Swab;João Pessoa;5;Masculino;2020-05-06
+2020-05-17;;Swab;João Pessoa;56;Masculino;2020-05-27
+2020-04-25;;Swab;João Pessoa;51;Masculino;2020-04-29
+2020-04-21;;C.Epid.;São José de Piranhas;67;Feminino;2020-04-24
+2020-05-02;;Swab;Patos;69;Masculino;2020-05-24
+2020-05-06;;Swab;Santa Rita;83;Masculino;2020-05-15
+2020-05-08;;T. Rápido;Cabedelo;80;Feminino;2020-05-23
+2020-05-04;;Swab;Campina Grande;74;Masculino;2020-05-09
+2020-05-08;;swab;João Pessoa;87;Masculino;2020-05-09
+2020-04-16;;Swab;João Pessoa;71;Feminino;2020-04-17
+2020-05-05;;Swab;João Pessoa;34;Masculino;2020-05-26
+2020-05-03;;Swab;João Pessoa;61;Masculino;2020-05-22
+2020-04-26;;Swab;Santa Rita;69;Masculino;2020-05-02
+2020-05-03;;T. Rápido;Cajazeiras;84;Feminino;2020-05-23
+2020-04-28;;T. Rápido;Sapé;58;Feminino;2020-05-12
+2020-05-15;;T. Rápido;João Pessoa;84;Masculino;2020-06-03
+2020-04-26;;Swab;Alhandra;61;Feminino;2020-04-28
+2020-05-15;;T.rapido;João Pessoa;70;Feminino;2020-05-26
+2020-05-04;;T. Rápido;João Pessoa;77;Feminino;2020-05-11
+2020-05-19;;Swab;Campina Grande;72;Masculino;2020-05-19
+2020-05-09;;Swab;Campina Grande;66;Feminino;2020-05-16
+2020-03-25;;Swab;Patos;36;Masculino;2020-03-31
+2020-04-26;;T. Rápido;Itaporanga;52;Masculino;2020-05-15
+2020-05-11;;Swab;Bayeux;84;Feminino;2020-05-20
+2020-04-28;;Swab;João Pessoa;63;Masculino;2020-05-17
+2020-05-06;;Swab;João Pessoa;64;Masculino;2020-05-18
+2020-05-01;;Swab;Santa Rita;71;Feminino;2020-05-21
+2020-04-02;;Swab;João Pessoa;85;Feminino;2020-04-14
+2020-05-15;;swab;João Pessoa;1;Masculino;2020-05-20
+2020-05-08;;Swab;Alhandra;97;Feminino;2020-05-20
+2020-05-15;;Swab;Mamanguape;78;Masculino;2020-05-24
+2020-04-26;;Swab;Umbuzeiro;95;Masculino;2020-04-27
+2020-05-17;;Swab;João Pessoa;59;Feminino;2020-05-24
+2020-05-15;;Swab;João Pessoa;65;Masculino;2020-05-31
+2020-05-09;;;Mari;82;Masculino;2020-05-23
+2020-04-28;;Swab;Santa Rita;72;Masculino;2020-05-22
+2020-05-01;;Swab;Patos;41;Masculino;2020-05-09
+2020-05-06;;Swab;João Pessoa;37;Masculino;2020-05-12
+2020-05-10;;Swab;Cabedelo;81;Masculino;2020-05-06
+2020-05-04;;Swab;João Pessoa;82;Feminino;2020-05-08
+2020-04-27;;Swab;Santa Rita;65;Feminino;2020-05-09
+2020-04-21;;;João Pessoa;89;Feminino;2020-05-13
+2020-04-25;;Swab;João Pessoa;97;Masculino;2020-05-10
+2020-05-02;;Swab;Campina Grande;63;Masculino;2020-05-12
+2020-05-15;;Swab;João Pessoa;54;Masculino;2020-05-19
+2020-05-07;;Swab;João Pessoa;57;Masculino;2020-05-08
+2020-04-30;;Swab;Santa Rita;71;Feminino;2020-05-10
+2020-04-19;;T. Rápido;João Pessoa;39;Masculino;2020-04-30
+2020-05-02;;Swab;João Pessoa;37;Masculino;2020-05-15
+2020-05-16;;swab;PATOS;79;Masculino;2020-05-25
+2020-05-09;;T. Rápido;Gado Bravo;56;Masculino;2020-05-14
+2020-05-15;;Swab;Pitimbú;82;Feminino;2020-05-19
+2020-04-26;;Swab;Cruz do Espirito Santo;45;Feminino;2020-05-12
+2020-05-20;;T.rapido;Bayeux;89;Feminino;2020-05-25
+2020-05-04;;Swab;Santa Rita;91;Masculino;2020-05-08
+2020-05-07;;Swab;João Pessoa;71;Feminino;2020-05-15
+2020-05-24;;Swab;Santa Rita;55;Feminino;2020-05-15
+2020-05-14;;Swab;Patos;82;Feminino;2020-05-28
+2020-04-24;;Swab;João Pessoa;20;Feminino;2020-04-28
+2020-05-15;;T.Rapido;João Pessoa;73;Masculino;2020-06-02
+2020-05-14;;swab;Agua Branca;75;Masculino;2020-05-15
+2020-05-01;;Swab;Santa Rita;86;Feminino;2020-05-08
+2020-05-02;;Swab;João Pessoa;74;Masculino;2020-05-09
+2020-05-19;;swab;São Bento;81;Feminino;2020-05-30
+2020-04-09;;Swab;Santa Rita;40;Masculino;2020-04-18
+2020-05-01;;Swab;Santa Rita;41;Feminino;2020-05-19
+2020-05-26;;T. Rápido;São Bento;69;Masculino;2020-05-07
+2020-04-24;;Swab;João Pessoa;62;Masculino;2020-05-06
+2020-05-04;;Swab;Campina Grande;45;Masculino;2020-05-11
+;;swab;Mato Grosso;88;Feminino;2020-05-24
+2020-04-10;;Swab;João Pessoa;81;Masculino;2020-04-18
+2020-03-28;;Swab;João Pessoa;59;Feminino;2020-04-08
+2020-05-11;;Swab;João Pessoa;56;Masculino;2020-05-24
+2020-05-17;;swab;PATOS;80;Masculino;2020-06-02
+2020-04-25;;Swab;Santa Rita;79;Masculino;2020-04-25
+2020-04-24;;Swab;Cabedelo;64;Feminino;2020-05-08
+2020-05-18;;T. Rápido;Sapé;32;Masculino;2020-05-27
+2020-04-05;;Swab;João Pessoa;94;Feminino;2020-04-09
+2020-05-05;;Swab;Bayeux;72;Feminino;2020-05-22
+2020-04-28;;Swab;Santa Rita;73;Feminino;2020-05-05
+2020-04-26;;Swab;Patos;72;Feminino;2020-05-25
+2020-04-16;;T. Rápido;João Pessoa;90;Masculino;2020-04-26
+2020-05-08;;Swab;Santa Rita;71;Masculino;2020-05-12
+2020-05-14;;Swab;Itabaiana;80;Feminino;2020-05-26
+2020-05-05;;Swab;Campina Grande;72;Masculino;2020-05-21
+2020-04-25;;Swab;Patos;40;Feminino;2020-04-28
+2020-04-02;;Swab;João Pessoa;82;Masculino;2020-04-14
+2020-05-05;;Swab;Areia;64;Masculino;2020-05-22
+2020-05-10;;Swab;Sapé;56;Masculino;2020-05-15
+2020-05-11;;Swab;João Pessoa;95;Feminino;2020-05-20
+2020-04-19;;Swab;Santa Rita;72;Feminino;2020-04-27
+2020-04-28;;Swab;João Pessoa;69;Masculino;2020-05-14
+2020-05-01;;Swab;Campina Grande;68;Masculino;2020-05-12
+2020-05-01;;Swab;João Pessoa;75;Masculino;2020-05-16
+2020-05-05;;T. Rápido;Santa Rita;68;Feminino;2020-05-12
+2020-04-28;;Swab;São Sebastião de Lagoa de Roça;40;Feminino;2020-05-14
+2020-05-22;;T. Rápido;Santa Rita;27;Masculino;2020-05-24
+2020-05-18;;T. Rápido;Rio Tinto;40;Feminino;2020-05-27
+2020-04-28;;Swab;Santa Rita;67;Feminino;2020-05-09
+2020-05-09;;T. Rápido;Patos;73;Feminino;2020-05-15
+2020-05-10;;T. Rápido;Mamanguape;24;Feminino;2020-05-26
+2020-05-11;;Swab;Campina Grande;42;Feminino;2020-05-25
+2020-05-12;;T.Rapido;João Pessoa;69;Masculino;2020-06-03
+2020-05-24;;Swab;Mataraca;73;Masculino;2020-06-03
+2020-05-02;;T. Rápido;Sobrado;49;Feminino;2020-05-11
+2020-04-06;;Swab;Santa Rita;46;Masculino;2020-05-03
+2020-05-01;;Swab;João Pessoa;85;Feminino;2020-05-08
+2020-03-20;;Swab;João Pessoa;84;Masculino;2020-03-31
+2020-04-03;;T. Rápido;Santa Rita;40;Masculino;2020-05-03
+2020-05-18;;Swab;Patos;73;Masculino;2020-05-21
+2020-04-24;;Swab;Santa Rita;80;Feminino;2020-05-01
+2020-05-05;;;Bayeux;61;Masculino;2020-05-26
+2020-04-24;;Swab;Santa Rita;37;Feminino;2020-05-06
+2020-05-04;;T.rapido;João Pessoa;25;Feminino;2020-06-01
+2020-04-30;;Swab;Campina Grande;83;Feminino;2020-05-25
+2020-04-05;;Swab;Bayeux;80;Feminino;2020-05-02
+2020-05-02;;T. Rápido;Patos;84;Feminino;2020-05-18
+2020-05-09;;Swab;Santa Rita;37;Feminino;2020-05-16
+2020-05-14;;T. Rápido;Bayeux;73;Masculino;2020-05-19
+2020-05-08;;T.rapido;João Pessoa;46;Masculino;2020-05-15
+2020-05-19;;Swab;Alagoa Nova;47;Masculino;2020-05-30
+2020-04-15;;Swab;Bayeux;63;Masculino;2020-04-26
+2020-04-22;;swab;João Pessoa;54;Masculino;2020-04-27
+2020-05-01;;T. Rápido;João Pessoa;59;Feminino;2020-05-13
+2020-05-09;;T. Rápido;Cajazeiras;83;Masculino;2020-05-22
+2020-04-08;;Swab;Campina Grande;41;Feminino;2020-04-19
+2020-05-19;;T. Rápido;Guarabira;91;Feminino;2020-06-01
+2020-04-25;;Swab;João Pessoa;35;Masculino;2020-05-05
+2020-05-04;;Swab;João Pessoa;27;Masculino;2020-05-10
+2020-05-14;;Swab;Santa luzia;86;Feminino;2020-06-04
+2020-05-21;;Swab;Campina Grande;48;Masculino;2020-05-21
+2020-04-27;;Swab;João Pessoa;63;Feminino;2020-05-01
+2020-05-02;;T. Rápido;Cajazeiras;62;Masculino;2020-05-17
+2020-04-26;;Swab;Santa Rita;79;Masculino;2020-05-04
+2020-05-29;;swab;Caapora;85;Masculino;2020-05-21
+;;Swab;João Pessoa;95;Masculino;2020-04-21
+2020-05-14;;Swab;Remigio;82;Masculino;2020-05-25
+2020-04-27;;Swab;Santa Rita;89;Feminino;2020-05-06
+2020-04-24;;T. Rápido;Santa Rita;61;Feminino;2020-05-14
+2020-04-28;;Swab;João Pessoa;75;Feminino;2020-05-18
+2020-05-07;;Swab;João Pessoa;80;Masculino;2020-05-25
+2020-04-26;;Swab;João Pessoa;76;Masculino;2020-05-09
+2020-04-13;;Swab;João Pessoa;92;Masculino;2020-05-25
+2020-05-06;;Swab;Bayeux;83;Feminino;2020-05-11
+2020-04-27;;T. Rápido;Alhandra;64;Masculino;2020-05-04
+2020-05-10;;Swab;João Pessoa;57;Masculino;2020-05-23
+2020-05-07;;Swab;Bayeux;86;Masculino;2020-05-10
+2020-04-19;;Swab;São Bento;80;Masculino;2020-05-01
+2020-05-04;;Swab;Campina Grande;69;Masculino;2020-05-30
+2020-04-07;;Swab;Patos;42;Masculino;2020-04-13
+2020-04-30;;Swab;Patos;74;Masculino;2020-05-09
+2020-04-02;;Swab;João Pessoa;71;Masculino;2020-05-14
+2020-05-30;;Swab;Santa Rita;77;Masculino;2020-05-01
+2020-05-07;;Swab;Campina Grande;22;Masculino;2020-05-26
+2020-04-23;;Swab;Sapé;47;Masculino;2020-05-09
+2020-04-10;;C.Epid.;Riachão do Poço;57;Masculino;2020-04-13
+2020-05-08;;T. Rápido;Campina Grande;64;Feminino;2020-05-16
+2020-05-07;;Swab;Santa Rita;84;Masculino;2020-05-08
+2020-05-05;;Swab;João Pessoa;47;Feminino;2020-05-07
+2020-04-10;;Swab;Cajazeiras;68;Masculino;2020-04-20
+2020-04-29;;swab;João Pessoa;80;Feminino;2020-05-11
+2020-04-26;;Swab;Bayeux;56;Feminino;2020-05-08
+2020-05-01;;Swab;Congo;84;Feminino;2020-05-08
+2020-03-20;;Swab;João Pessoa;34;Masculino;2020-03-30
+2020-05-03;;T. Rápido;Santa Lúzia;87;Masculino;2020-05-16
+2020-03-30;;Swab;Bayeux;91;Masculino;2020-04-06
+2020-05-06;;Swab;Bayeux;68;Masculino;2020-05-25
+2020-05-05;;T. Rápido;Capim;41;Feminino;2020-05-19
+2020-05-06;;T. Rápido;Santa Rita;67;Masculino;2020-05-13
+2020-05-08;;Swab;Campina Grande;89;Masculino;2020-05-21
+2020-04-29;;Swab;João Pessoa;48;Masculino;2020-05-14
+2020-04-22;;Swab;Boqueirão;54;Masculino;2020-04-26
+2020-05-04;;T. Rápido;Conde;61;Masculino;2020-05-16
+2020-04-23;;Swab;João Pessoa;84;Masculino;2020-05-07
+2020-05-04;;Swab;João Pessoa;65;Masculino;2020-05-14
+2020-04-27;;Swab;Santa Rita;66;Masculino;2020-05-07
+2020-05-18;;Swab;Campina Grande;93;Feminino;2020-05-24
+2020-04-17;;T. Rápido;Itapororoca;43;Masculino;2020-05-05
+2020-04-29;;Swab;Patos;66;Masculino;2020-05-09
+2020-05-01;;Swab;Sapé;82;Masculino;2020-05-12
+2020-04-26;;Swab;Santa Rita;43;Masculino;2020-05-04
+2020-05-07;;Swab;João Pessoa;72;Feminino;2020-05-09
+2020-05-10;;Swab;João Pessoa;72;Masculino;2020-05-14
+2020-05-05;;Swab;Campina Grande;86;Masculino;2020-05-17
+2020-03-31;;Swab;João Pessoa;68;Masculino;2020-04-13
+2020-04-20;;Swab;Santa Rita;64;Feminino;2020-05-07
+2020-03-13;;C.Epid.;João Pessoa;34;Feminino;2020-03-24
+2020-05-11;;T. Rápido;Baia da Traição;76;Feminino;2020-05-23
+2020-04-15;;Swab;Santa Rita;76;Masculino;2020-04-16
+2020-05-20;;Swab;Gurjão;74;Masculino;2020-05-19
+2020-04-09;;Swab;Campina Grande;67;Masculino;2020-04-15
+2020-04-08;;Swab;João Pessoa;67;Feminino;2020-04-21
+2020-05-15;;Swab;Campina Grande;76;Masculino;2020-05-19
+2020-04-28;;Swab;João Pessoa;67;Feminino;2020-05-05
+2020-04-19;;Swab;João Pessoa;38;Feminino;2020-05-04
+2020-04-25;;Swab;Cruz do Espirito Santo;68;Masculino;2020-04-30
+2020-05-15;;Swab;João Pessoa;34;Masculino;2020-05-24
+2020-05-01;;Swab;João Pessoa;63;Feminino;2020-05-18
+2020-05-05;;T. Rápido;Pedras de Fogo;63;Masculino;2020-05-22
+2020-04-08;;Swab;João Pessoa;60;Feminino;2020-04-13
+2020-04-30;;Swab;João Pessoa;38;Feminino;2020-05-15
+2020-05-11;;Swab;Cruz do Espirito Santo;59;Feminino;2020-05-14
+2020-04-11;;Swab;Conde;50;Masculino;2020-04-24
+2020-05-05;;T. Rápido;Piancó;64;Masculino;2020-05-12
+2020-05-04;;T. Rápido;João Pessoa;59;Feminino;2020-05-26
+2020-04-08;;C.Epid.;João Pessoa;46;Feminino;2020-04-12
+2020-05-12;;Swab;Campina Grande;97;Feminino;2020-05-18
+2020-05-25;;T.rapido;Bayeux;60;Masculino;2020-05-28
+2020-04-21;;Swab;João Pessoa;84;Masculino;2020-05-09
+2020-04-12;;Swab;João Pessoa;61;Masculino;2020-05-03
+2020-05-14;;T. Rápido;João Pessoa;83;Masculino;2020-05-17
+2020-05-04;;T. Rápido;Itatuba;42;Masculino;2020-05-14
+2020-03-30;;Swab;João Pessoa;87;Masculino;2020-04-10
+2020-04-21;;Swab;Santa Rita;71;Masculino;2020-04-29
+2020-05-14;;;Lucena;61;Masculino;2020-05-14
+2020-04-01;;T. Rápido;João Pessoa;86;Feminino;2020-04-14
+2020-05-01;;Swab;Alhandra;84;Masculino;2020-05-04
+2020-05-16;;T. Rápido;João Pessoa;76;Masculino;2020-05-29
+2020-04-26;;Swab;Patos;57;Masculino;2020-05-06
+2020-04-28;;Swab;João Pessoa;75;Masculino;2020-05-09
+2020-05-01;;Swab;João Pessoa;88;Masculino;2020-05-17
+2020-04-25;;Swab;Cuitegi;4;Masculino;2020-05-14
+2020-04-25;;T. Rápido;João Pessoa;48;Masculino;2020-05-06
+2020-04-10;;particular;João Pessoa;87;Feminino;2020-05-12
+2020-05-10;;Swab;Mari;82;Masculino;2020-05-23
+2020-05-16;;Swab;João Pessoa;84;Masculino;2020-05-28
+2020-05-01;;Swab;Mari;54;Feminino;2020-05-10
+2020-05-07;;;Santa Rita;89;Feminino;2020-05-08
+2020-04-28;;T. Rápido;Cabedelo;71;Masculino;2020-05-09
+2020-04-06;;Swab;Patos;61;Masculino;2020-05-06
+2020-05-07;;Swab;Uiraúna;84;Feminino;2020-05-17
+2020-05-16;;T. Rápido;João Pessoa;72;Masculino;2020-05-26
+2020-05-13;;Swab;João Pessoa;73;Masculino;2020-05-19
+2020-04-19;;Swab;Santa Rita;56;Masculino;2020-05-01
+2020-05-09;;Swab;João Pessoa;90;Masculino;2020-05-14
+2020-05-09;;Swab;João Pessoa;63;Feminino;2020-05-14
+2020-05-01;;T. Rápido;João Pessoa;56;Feminino;2020-05-13
+2020-05-18;;Swab;Patos;58;Feminino;2020-05-21
+2020-05-04;;T. Rápido;Itabaiana;75;Feminino;2020-05-19
+2020-05-10;;;Catole do Rocha;85;Masculino;2020-05-25
+2020-03-23;;Swab;Cabedelo;71;Masculino;2020-03-30
+2020-05-17;;T. Rápido;João Pessoa;68;Feminino;2020-05-20
+2020-04-26;;Swab;Patos;67;Feminino;2020-05-01
+2020-05-09;;Swab;Campina Grande;39;Masculino;2020-05-28
+2020-05-23;;T. Rápido;Campina Grande;89;Masculino;2020-05-24
+2020-04-25;;Swab;Bayeux;70;Feminino;2020-05-02
+2020-05-19;;swab;CAMPINA GRANDE;80;Masculino;2020-05-31
+2020-04-29;;Swab;João Pessoa;80;Masculino;2020-05-25
+2020-04-30;;Swab;Santa Rita;84;Feminino;2020-05-15
+2020-05-01;;Swab;Bayeux;66;Masculino;2020-05-13
+2020-04-23;;Swab;Santa Rita;49;Masculino;2020-04-29
+2020-05-03;;Swab;Patos;50;Masculino;2020-05-12
+2020-05-23;;T.rapido;João Pessoa;65;Feminino;2020-05-29
+2020-05-03;;Swab;Campina Grande;65;Masculino;2020-05-13
+2020-04-15;;Swab;João Pessoa;71;Masculino;2020-04-24
+2020-04-21;;Swab;Mari;52;Feminino;2020-04-24
+2020-04-06;;Swab;João Pessoa;88;Masculino;2020-04-10
+2020-04-30;;T. Rápido;Pedras de Fogo;79;Masculino;2020-05-16
+2020-05-22;;T. Rápido;Bayeux;36;Feminino;2020-05-23
+2020-05-31;;Swab;Jacarau;74;Masculino;2020-05-17
+2020-04-21;;Swab;Santa Rita;71;Masculino;2020-05-09
+2020-04-29;;Swab;Sousa;67;Feminino;2020-05-11
+2020-05-07;;T.rapido;CAMPINA GRANDE;80;Masculino;2020-05-28
+2020-04-27;;Swab;João Pessoa;44;Feminino;2020-05-05
+2020-05-07;;T. Rápido;Caaporã;55;Feminino;2020-05-20
+2020-05-01;;Swab;João Pessoa;82;Masculino;2020-05-05
+2020-04-05;;Swab;João Pessoa;84;Feminino;2020-04-12
+2020-04-26;;Swab;Tacima;73;Masculino;2020-05-19
+2020-05-22;;T. Rápido;Mamanguape;76;Masculino;2020-05-27
+2020-05-13;;Swab;Santa Rita;60;Feminino;2020-05-18
+2020-05-06;;Swab;João Pessoa;68;Masculino;2020-05-07
+2020-04-25;;Swab;Cruz do Espirito Santo;48;Masculino;2020-05-10
+2020-05-17;;Swab;Bayeux;83;Masculino;2020-05-17
+2020-05-15;;T. Rápido;Cruz do Espirito Santo;57;Masculino;2020-05-20
+2020-05-09;;Swab;Lagoa Seca;48;Masculino;2020-05-22
+2020-04-02;;Swab;João Pessoa;38;Masculino;2020-04-22
+2020-04-02;;Swab;João Pessoa;78;Masculino;2020-05-16
+2020-04-27;;Swab;João Pessoa;78;Masculino;2020-05-07
+2020-04-29;;Swab;Patos;48;Masculino;2020-05-22
+2020-05-15;;Swab;Santa Rita;72;Feminino;2020-05-19
+2020-04-23;;swab;João Pessoa;77;Feminino;2020-04-29
+2020-04-19;;Swab;Caaporã;61;Masculino;2020-05-21
+2020-03-28;;Swab;João Pessoa;43;Masculino;2020-04-04
+2020-05-06;;Swab;Campina Grande;90;Feminino;2020-05-18
+2020-05-17;;swab;Santa Rita;76;Feminino;2020-05-10
+2020-04-17;;Swab;Santa Rita;71;Masculino;2020-04-20
+2020-05-02;;Swab;Caaporã;68;Masculino;2020-05-07
+2020-05-20;;Swab;Campina Grande;76;Feminino;2020-05-21
+2020-05-26;;Swab;Santa Rita;69;Masculino;2020-05-28
+2020-05-15;;T. Rápido;Itabaiana;80;Masculino;2020-05-26
+2020-05-07;;T. Rápido;João Pessoa;71;Masculino;2020-05-21
+2020-05-04;;Swab;Areial;42;Feminino;2020-05-13
+2020-05-08;;;Catole do Rocha;87;Masculino;2020-05-25
+2020-05-26;;swab;Santa Rita;87;Feminino;2020-05-30
+2020-05-01;;Swab;Santa Lúzia;54;Masculino;2020-05-13
+2020-04-29;;Swab;Santa Rita;93;Masculino;2020-05-09
+2020-05-03;;Swab;Santa Rita;57;Masculino;2020-05-09
+2020-05-17;;T.rapido;João Pessoa;34;Masculino;2020-05-27
+2020-04-06;;Swab;João Pessoa;84;Feminino;2020-04-18
+2020-04-25;;Swab;Cabedelo;55;Masculino;2020-04-28
+2020-05-15;;T. Rápido;Bayeux;83;Masculino;2020-05-18
+2020-05-09;;Swab;Santa Rita;80;Masculino;2020-05-13
+2020-05-19;;T. Rápido;Santa Rita;83;Feminino;2020-05-28
+2020-05-01;;Swab;Guarabira;81;Feminino;2020-05-16
+2020-04-28;;Swab;Santa Rita;87;Masculino;2020-05-08
+2020-04-11;;T. Rápido;Mogeiro;43;Masculino;2020-05-11
+2020-04-07;;Swab;João Pessoa;93;Feminino;2020-04-16
+2020-05-25;;T. Rápido;Patos;71;Masculino;2020-05-20
+2020-04-23;;Swab;Bayeux;53;Masculino;2020-05-06
+2020-04-20;;T. Rápido;Santa Rita;75;Masculino;2020-05-13
+;;C.Epid.;João Pessoa;94;Feminino;2020-05-05
+2020-04-20;;Swab;Bayeux;41;Masculino;2020-04-28
+2020-04-20;;Swab;Santa Rita;77;Feminino;2020-04-21
+2020-04-22;;Swab;Santa Rita;71;Masculino;2020-04-24
+2020-04-25;;Swab;Santa Rita;68;Masculino;2020-05-01
+2020-04-13;;T. Rápido;Brejo Cruz;69;Masculino;2020-04-22
+2020-05-01;;T.rapido;João Pessoa;88;Feminino;2020-05-08
+2020-04-20;;T. Rápido;João Pessoa;50;Masculino;2020-05-06
+2020-05-07;;T. Rápido;Cruz do Espirito Santo;81;Feminino;2020-05-15
+2020-03-18;;T. Rápido;Cabedelo;68;Masculino;2020-04-04
+2020-05-16;;T. Rápido;Santa Rita;73;Masculino;2020-05-20
+2020-04-28;;Swab;Santa Rita;76;Feminino;2020-04-03
+2020-04-15;;T. Rápido;Santa Rita;57;Masculino;2020-04-30
+2020-05-23;;T. Rápido;João Pessoa;43;Feminino;2020-05-27
+2020-04-28;;Swab;Caiçara;65;Feminino;2020-05-10
+2020-05-02;;T. Rápido;Santa Rita;23;Feminino;2020-05-24
+2020-04-29;;Swab;Patos;84;Feminino;2020-05-09
+2020-05-10;;Swab;João Pessoa;36;Feminino;2020-05-16
+;;Swab;João Pessoa;56;Masculino;2020-04-21
+2020-04-27;;Swab;Santa Rita;80;Masculino;2020-05-10
+2020-05-10;;Swab;João Pessoa;76;Masculino;2020-05-25
+2020-05-10;;;Barra de São Miguel;61;Masculino;2020-05-20
+2020-04-22;;Swab;Santa Rita;43;Feminino;2020-05-11
+2020-03-30;;Swab;Santa Rita;44;Feminino;2020-04-22
+2020-05-21;;T. Rápido;Campina Grande;50;Masculino;2020-05-25
+2020-05-02;;Swab;João Pessoa;47;Masculino;2020-05-11
+2020-04-19;;Swab;Marizópolis;69;Feminino;2020-04-25
+2020-03-20;;Swab;João Pessoa;88;Feminino;2020-04-04
+2020-04-30;;Swab;Pedras de Fogo;88;Feminino;2020-05-14
+2020-05-13;;Swab;Campina Grande;43;Masculino;2020-05-25
+2020-04-21;;Swab;João Pessoa;54;Masculino;2020-05-02
+2020-05-19;;Swab;Bayeux;72;Masculino;2020-05-30
+2020-05-15;;Swab;Campina Grande;83;Masculino;2020-05-15
+2020-04-17;;Swab;Bayeux;86;Masculino;2020-05-10
+2020-04-30;;Swab;João Pessoa;44;Feminino;2020-05-16
+2020-04-19;;Swab;Santa Rita;37;Masculino;2020-04-24
+2020-04-16;;Swab;João Pessoa;79;Masculino;2020-05-08
+2020-05-04;;T. Rápido;Cachoeira dos Índios;66;Masculino;2020-05-20
+2020-04-23;;T. Rápido;João Pessoa;67;Feminino;2020-05-14
+2020-05-07;;Swab;João Pessoa;82;Masculino;2020-05-23
+2020-05-16;;T. Rápido;Patos;71;Feminino;2020-05-30
+2020-05-06;;T. Rápido;Santa Rita;53;Masculino;2020-05-19
+;;;Juripiranga;78;Masculino;2020-05-27
+2020-05-05;;Swab;São Miguel de Itaipú;66;Feminino;2020-05-11
