@@ -40,25 +40,26 @@ var viewLocalObito = {
         }
 	],
 	"encoding": {
-		"x": {
+		"y": {
 			"axis": {
 				"title": "Quantidade de óbitos",
 				"labelFontSize": 12,
 				"titleFontSize": 12
-				},
-				"field": "key",
+			},
+			"field": "key",
 			"type": "quantitative",
 			"aggregate": "count"
 		},
-		"y": {
+		"x": {
 			"axis": {
+				"labelAngle": 315,
 				"labelFontSize": 12,
 				"titleFontSize": 12,
 				"title": null
 			},
 			"field": "key",
 			"type": "nominal",
-			"sort": "x"
+			"sort": "-y"
 		}
 	},
 	"layer": [
@@ -84,10 +85,9 @@ var viewLocalObito = {
 		{
 	  		"mark": {
 	    		"type": "text",
-	    		"align": "left",
 	    		"baseline": "middle",
 	    		"stroke": "black",
-	    		"dx": 0,
+	    		"dy": -10,
 	    		"fontSize": 15
 	  		},
   			"encoding": {
