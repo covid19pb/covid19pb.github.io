@@ -450,3 +450,19 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 449,masculino,79,Mari,SAPE,2020-05-13,,,,2020-05-29,2020-06-05,residência
 450,masculino,90,Pilar,SAPE,2020-05-20,,,,2020-05-24,2020-06-05,residência
 451,feminino,61,Santa Rita,JOAO PESSOA,2020-05-20,,,,2020-05-27,2020-06-05,residência
+452,masculino,44,Alhandra,LITORAL SUL,2020-05-26,,,,2020-06-01,2020-06-06,hospital público
+453,masculino,41,Alhandra,LITORAL SUL,2020-05-08,,,,2020-05-15,2020-06-06,SAMU
+454,masculino,87,Caaporã,LITORAL SUL,2020-05-18,,,,2020-06-05,2020-06-06,hospital público
+455,masculino,72,Campina Grande,CAMPINA GRANDE,2020-05-12,,,,2020-06-02,2020-06-06,hospital público
+456,feminino,84,Catolé do Rocha,CATOLE DO ROCHA,2020-05-24,,,,2020-06-06,2020-06-06,hospital público
+457,masculino,39,João Pessoa,JOAO PESSOA,2020-05-16,,,,2020-06-01,2020-06-06,hospital público
+458,masculino,68,João Pessoa,JOAO PESSOA,2020-05-11,,,,2020-06-03,2020-06-06,hospital público
+459,masculino,55,João Pessoa,JOAO PESSOA,2020-05-18,,,,2020-06-01,2020-06-06,hospital público
+460,masculino,50,João Pessoa,JOAO PESSOA,2020-05-25,,,,2020-06-04,2020-06-06,hospital público
+461,feminino,81,João Pessoa,JOAO PESSOA,2020-05-25,,,,2020-06-04,2020-06-06,hospital público
+462,masculino,46,João Pessoa,JOAO PESSOA,2020-05-25,,,,2020-06-02,2020-06-06,hospital público
+463,feminino,84,João Pessoa,JOAO PESSOA,2020-05-18,,,,2020-06-01,2020-06-06,hospital público
+464,masculino,70,João Pessoa,JOAO PESSOA,2020-05-25,,,,2020-06-02,2020-06-06,hospital público
+465,feminino,38,Pedras de Fogo,LITORAL SUL,2020-05-21,,,,2020-06-01,2020-06-06,hospital público
+466,feminino,84,São José do Sabugi,SERIDO OCIDENTAL PARAIBANO,2020-05-22,,,,2020-05-28,2020-06-06,hospital público
+467,masculino,73,Sapé,SAPE,2020-05-23,,,,2020-05-30,2020-06-06,hospital público
