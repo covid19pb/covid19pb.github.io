@@ -43,8 +43,8 @@ var viewLocalObito = {
 		"x": {
 			"axis": {
 				"title": "Quantidade de óbitos",
-				"labelFontSize": 10,
-				"titleFontSize": 15
+				"labelFontSize": 12,
+				"titleFontSize": 12
 				},
 				"field": "key",
 			"type": "quantitative",
@@ -52,8 +52,8 @@ var viewLocalObito = {
 		},
 		"y": {
 			"axis": {
-				"labelFontSize": 14,
-				"titleFontSize": 14,
+				"labelFontSize": 12,
+				"titleFontSize": 12,
 				"title": null
 			},
 			"field": "key",
@@ -87,8 +87,8 @@ var viewLocalObito = {
 	    		"align": "left",
 	    		"baseline": "middle",
 	    		"stroke": "black",
-	    		"dx": 2,
-	    		"fontSize": 20
+	    		"dx": 0,
+	    		"fontSize": 15
 	  		},
   			"encoding": {
 		    	"text": {
