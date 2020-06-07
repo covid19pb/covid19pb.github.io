@@ -466,3 +466,20 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 465,feminino,38,Pedras de Fogo,LITORAL SUL,2020-05-21,,,,2020-06-01,2020-06-06,hospital público
 466,feminino,84,São José do Sabugi,SERIDO OCIDENTAL PARAIBANO,2020-05-22,,,,2020-05-28,2020-06-06,hospital público
 467,masculino,73,Sapé,SAPE,2020-05-23,,,,2020-05-30,2020-06-06,hospital público
+468,masculino,85,Bayeux,JOAO PESSOA,2020-05-10,,,,2020-05-16,2020-06-07,hospital público
+469,feminino,41,Bayeux,JOAO PESSOA,2020-05-01,,,,2020-05-19,2020-06-07,hospital público
+470,masculino,41,Campina Grande,CAMPINA GRANDE,2020-05-04,,,,2020-05-17,2020-06-07,hospital público
+471,masculino,63,Campina Grande,CAMPINA GRANDE,2020-05-03,,,,2020-05-14,2020-06-07,hospital público
+472,feminino,80,Campina Grande,CAMPINA GRANDE,2020-05-10,,,,2020-05-25,2020-06-07,hospital público
+473,feminino,76,Jacaraú,LITORAL NORTE,2020-05-30,,,,2020-06-03,2020-06-07,hospital público
+474,feminino,87,João Pessoa,JOAO PESSOA,2020-05-28,,,,2020-06-01,2020-06-07,hospital público
+475,feminino,70,João Pessoa,JOAO PESSOA,2020-05-03,,,,2020-06-04,2020-06-07,hospital público
+476,masculino,46,João Pessoa,JOAO PESSOA,2020-06-02,,,,2020-06-03,2020-06-07,hospital público
+477,masculino,55,João Pessoa,JOAO PESSOA,2020-05-25,,,,2020-06-05,2020-06-07,hospital público
+478,masculino,59,Mamanguape,LITORAL NORTE,2020-05-19,,,,2020-05-28,2020-06-07,hospital público
+479,masculino,76,Rio Tinto,LITORAL NORTE,2020-05-27,,,,2020-06-05,2020-06-07,hospital público
+480,masculino,69,Santa Rita,JOAO PESSOA,2020-05-27,,,,2020-06-07,2020-06-07,hospital público
+481,masculino,76,Santa Rita,JOAO PESSOA,2020-05-27,,,,2020-06-06,2020-06-07,hospital público
+482,masculino,80,Santa Rita,JOAO PESSOA,2020-05-11,,,,2020-05-18,2020-06-07,hospital público
+483,feminino,75,Sapé,SAPE,2020-06-01,,,,2020-06-06,2020-06-07,hospital público
+484,masculino,77,Sapé,SAPE,2020-06-04,,,,2020-06-06,2020-06-07,hospital público
