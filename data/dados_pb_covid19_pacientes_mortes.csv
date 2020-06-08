@@ -483,3 +483,26 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 482,masculino,80,Santa Rita,JOAO PESSOA,2020-05-11,,,,2020-05-18,2020-06-07,hospital público
 483,feminino,75,Sapé,SAPE,2020-06-01,,,,2020-06-06,2020-06-07,hospital público
 484,masculino,77,Sapé,SAPE,2020-06-04,,,,2020-06-06,2020-06-07,hospital público
+485,masculino,40,Cabedelo,JOAO PESSOA,2020-06-02,,,,2020-06-07,2020-06-08,hospital público
+486,feminino,78,João PESSOA,JOAO PESSOA,2020-05-15,,,,2020-05-29,2020-06-08,hospital público
+487,masculino,78,Bayeux,JOAO PESSOA,2020-05-15,,,,2020-05-29,2020-06-08,hospital público
+488,masculino,56,Bayeux,JOAO PESSOA,2020-05-18,,,,2020-05-24,2020-06-08,residência
+489,feminino,94,Bayeux,JOAO PESSOA,2020-05-31,,,,2020-06-02,2020-06-08,residência
+490,masculino,80,João Pessoa,JOAO PESSOA,2020-05-12,,,,2020-05-16,2020-06-08,hospital público
+491,feminino,80,João Pessoa,JOAO PESSOA,2020-05-12,,,,2020-05-16,2020-06-08,hospital público
+492,masculino,92,João Pessoa,JOAO PESSOA,2020-05-13,,,,2020-05-20,2020-06-08,hospital público
+493,masculino,78,João Pessoa,JOAO PESSOA,2020-05-15,,,,2020-05-21,2020-06-08,hospital público
+494,feminino,67,João Pessoa,JOAO PESSOA,2020-05-10,,,,2020-05-20,2020-06-08,hospital público
+495,masculino,82,João Pessoa,JOAO PESSOA,2020-05-16,,,,2020-05-21,2020-06-08,hospital público
+496,feminino,45,João Pessoa,JOAO PESSOA,2020-05-10,,,,2020-05-22,2020-06-08,hospital público
+497,feminino,75,Alhandra,LITORAL SUL,2020-05-20,,,,2020-05-24,2020-06-08,hospital público
+498,masculino,58,João Pessoa,JOAO PESSOA,2020-05-15,,,,2020-05-25,2020-06-08,hospital público
+499,masculino,90,Guarabira,GUARABIRA,2020-05-27,,,,2020-05-28,2020-06-08,hospital público
+500,masculino,80,João Pessoa,JOAO PESSOA,2020-05-20,,,,2020-05-30,2020-06-08,hospital público
+501,masculino,51,João Pessoa,JOAO PESSOA,2020-04-24,,,,2020-05-30,2020-06-08,hospital público
+502,masculino,51,Santa Rita,JOAO PESSOA,2020-05-27,,,,2020-05-30,2020-06-08,hospital público
+503,masculino,82,João Pessoa,JOAO PESSOA,2020-05-15,,,,2020-06-08,2020-06-08,hospital público
+504,masculino,58,João Pessoa,JOAO PESSOA,2020-05-06,,,,2020-06-07,2020-06-08,hospital público
+505,masculino,84,Patos,PATOS,2020-05-18,,,,2020-06-08,2020-06-08,hospital público
+506,masculino,98,Patos,PATOS,2020-05-29,,,,2020-06-08,2020-06-08,hospital público
+507,feminino,74,Patos,PATOS,2020-05-20,,,,2020-06-08,2020-06-08,hospital público
