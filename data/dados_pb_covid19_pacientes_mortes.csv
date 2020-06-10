@@ -506,3 +506,30 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 505,masculino,84,Patos,PATOS,2020-05-18,,,,2020-06-08,2020-06-08,hospital público
 506,masculino,98,Patos,PATOS,2020-05-29,,,,2020-06-08,2020-06-08,hospital público
 507,feminino,74,Patos,PATOS,2020-05-20,,,,2020-06-08,2020-06-08,hospital público
+508,feminino,89,Bayeux,JOAO PESSOA,2020-05-10,,,,2020-05-29,2020-06-09,hospital público
+509,feminino,41,Cabedelo,JOAO PESSOA,2020-06-01,,,,2020-06-08,2020-06-09,hospital público
+510,feminino,59,Cabedelo,JOAO PESSOA,2020-05-29,,,,2020-06-08,2020-06-09,hospital público
+511,masculino,80,Cajazeiras,CAJAZEIRAS,2020-05-23,,,,2020-06-08,2020-06-09,hospital público
+512,feminino,97,Campina Grande,CAMPINA GRANDE,2020-05-12,,,,2020-05-18,2020-06-09,hospital privado
+513,masculino,59,Guarabira,GUARABIRA,2020-05-15,,,,2020-06-07,2020-06-09,hospital público
+514,masculino,42,Itabaiana,ITABAIANA,2020-05-19,,,,2020-05-21,2020-06-09,hospital público
+515,feminino,80,João Pessoa,JOAO PESSOA,2020-04-29,,,,2020-05-11,2020-06-09,hospital público
+516,feminino,82,João Pessoa,JOAO PESSOA,2020-05-14,,,,2020-05-16,2020-06-09,hospital público
+517,masculino,1,João Pessoa,JOAO PESSOA,2020-05-15,,,,2020-05-20,2020-06-09,hospital público
+518,feminino,66,João Pessoa,JOAO PESSOA,2020-05-12,,,,2020-05-21,2020-06-09,hospital público
+519,masculino,35,João Pessoa,JOAO PESSOA,2020-05-04,,,,2020-05-21,2020-06-09,hospital público
+520,feminino,81,João Pessoa,JOAO PESSOA,2020-05-11,,,,2020-05-22,2020-06-09,hospital público
+521,masculino,70,João Pessoa,JOAO PESSOA,2020-04-10,,,,2020-06-01,2020-06-09,hospital público
+522,masculino,75,João Pessoa,JOAO PESSOA,2020-05-25,,,,2020-06-03,2020-06-09,hospital público
+523,masculino,72,João Pessoa,JOAO PESSOA,2020-05-25,,,,2020-05-29,2020-06-09,hospital público
+524,masculino,63,João Pessoa,JOAO PESSOA,2020-06-04,,,,2020-05-17,2020-06-09,hospital privado
+525,masculino,59,João Pessoa,JOAO PESSOA,2020-05-05,,,,2020-05-19,2020-06-09,hospital privado
+526,masculino,84,João Pessoa,JOAO PESSOA,2020-04-26,,,,2020-06-05,2020-06-09,hospital público
+527,masculino,61,João Pessoa,JOAO PESSOA,2020-04-26,,,,2020-05-18,2020-06-09,hospital privado
+528,feminino,82,João Pessoa,JOAO PESSOA,2020-05-14,,,,2020-05-26,2020-06-09,hospital privado
+529,feminino,58,João Pessoa,JOAO PESSOA,2020-05-12,,,,2020-05-29,2020-06-09,hospital público
+530,feminino,47,Mamanguape,LITORAL NORTE,2020-05-26,,,,2020-06-06,2020-06-09,residência
+531,masculino,73,Patos,PATOS,2020-05-08,,,,2020-05-19,2020-06-09,hospital público
+532,masculino,83,Santa Rita,JOAO PESSOA,2020-05-31,,,,2020-06-05,2020-06-09,residência
+533,masculino,42,Santa Rita,JOAO PESSOA,2020-05-29,,,,2020-06-04,2020-06-09,hospital público
+534,feminino,89,Sapé,SAPE,2020-05-28,,,,2020-06-08,2020-06-09,hospital público
