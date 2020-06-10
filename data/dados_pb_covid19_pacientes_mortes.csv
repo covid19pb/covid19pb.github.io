@@ -533,3 +533,28 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 532,masculino,83,Santa Rita,JOAO PESSOA,2020-05-31,,,,2020-06-05,2020-06-09,residência
 533,masculino,42,Santa Rita,JOAO PESSOA,2020-05-29,,,,2020-06-04,2020-06-09,hospital público
 534,feminino,89,Sapé,SAPE,2020-05-28,,,,2020-06-08,2020-06-09,hospital público
+535,feminino,94,Alagoa Nova,BREJO PARAIBANO,2020-05-15,,,,2020-05-26,2020-06-10,hospital privado
+536,feminino,62,Alagoa Nova,BREJO PARAIBANO,2020-05-27,,,,2020-06-02,2020-06-10,hospital público
+537,masculino,76,Alagoinha,GUARABIRA,2020-06-08,,,,2020-06-09,2020-06-10,hospital público
+538,feminino,75,Bayeux,JOAO PESSOA,2020-05-15,,,,2020-06-05,2020-06-10,hospital público
+539,feminino,79,Bayeux,JOAO PESSOA,2020-05-14,,,,2020-06-03,2020-06-10,hospital público
+540,masculino,58,Bayeux,JOAO PESSOA,2020-05-24,,,,2020-05-31,2020-06-10,hospital público
+541,masculino,93,Bayeux,JOAO PESSOA,2020-05-26,,,,2020-06-04,2020-06-10,hospital público
+542,masculino,73,Bayeux,JOAO PESSOA,2020-05-10,,,,2020-06-05,2020-06-10,hospital público
+543,masculino,47,Caaporã,LITORAL SUL,2020-05-18,,,,2020-06-08,2020-06-10,hospital público
+544,feminino,50,Campina Grande,CAMPINA GRANDE,2020-05-21,,,,2020-06-03,2020-06-10,hospital público
+545,feminino,74,Campina Grande,CAMPINA GRANDE,2020-05-17,,,,2020-05-31,2020-06-10,hospital público
+546,feminino,84,Catingueira,PIANCO,2020-05-12,,,,2020-05-28,2020-06-10,hospital público
+547,feminino,70,Guarabira,GUARABIRA,2020-05-07,,,,2020-05-31,2020-06-10,hospital público
+548,masculino,65,Guarabira,GUARABIRA,2020-05-13,,,,2020-06-03,2020-06-10,hospital público
+549,masculino,79,Guarabira,GUARABIRA,2020-05-07,,,,2020-06-06,2020-06-10,hospital público
+550,masculino,78,João Pessoa,JOAO PESSOA,2020-05-14,,,,2020-05-22,2020-06-10,hospital público
+551,feminino,81,Mamanguape,LITORAL NORTE,2020-05-09,,,,2020-05-27,2020-06-10,hospital público
+552,feminino,54,Mamanguape,LITORAL NORTE,2020-05-24,,,,2020-05-30,2020-06-10,hospital público
+553,feminino,91,Patos,PATOS,2020-06-03,,,,2020-06-08,2020-06-10,hospital público
+554,masculino,49,Patos,PATOS,2020-05-14,,,,2020-06-07,2020-06-10,hospital público
+555,feminino,40,Patos,PATOS,2020-06-04,,,,2020-06-06,2020-06-10,hospital público
+556,feminino,93,Patos,PATOS,2020-05-17,,,,2020-06-06,2020-06-10,hospital público
+557,masculino,75,Paulista,SOUSA,2020-05-12,,,,2020-05-29,2020-06-10,hospital público
+558,feminino,42,Santa Rita,JOAO PESSOA,2020-06-01,,,,2020-06-05,2020-06-10,hospital público
+559,feminino,79,Santa Rita,JOAO PESSOA,2020-05-10,,,,2020-05-21,2020-06-10,hospital privado
