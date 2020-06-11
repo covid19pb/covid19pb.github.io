@@ -558,3 +558,14 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 557,masculino,75,Paulista,SOUSA,2020-05-12,,,,2020-05-29,2020-06-10,hospital público
 558,feminino,42,Santa Rita,JOAO PESSOA,2020-06-01,,,,2020-06-05,2020-06-10,hospital público
 559,feminino,79,Santa Rita,JOAO PESSOA,2020-05-10,,,,2020-05-21,2020-06-10,hospital privado
+560,feminino,92,Bayeux,JOAO PESSOA,2020-05-07,,,,2020-05-11,2020-06-11,residência
+561,masculino,74,Belém,GUARABIRA,2020-06-03,,,,2020-06-10,2020-06-11,hospital público
+562,feminino,68,Guarabira,GUARABIRA,2020-05-22,,,,2020-05-24,2020-06-11,hospital público
+563,masculino,68,Guarabira,GUARABIRA,2020-05-09,,,,2020-05-19,2020-06-11,hospital público
+564,feminino,105,João Pessoa,JOAO PESSOA,2020-05-13,,,,2020-05-18,2020-06-11,residência
+565,masculino,76,João Pessoa,JOAO PESSOA,2020-06-01,,,,2020-06-10,2020-06-11,hospital público
+566,masculino,49,Mulungu,GUARABIRA,2020-05-21,,,,2020-06-11,2020-06-11,hospital público
+567,feminino,56,Patos,PATOS,2020-06-04,,,,2020-06-09,2020-06-11,hospital público
+568,feminino,81,Patos,PATOS,2020-05-09,,,,2020-06-09,2020-06-11,hospital público
+569,feminino,82,Patos,PATOS,2020-06-01,,,,2020-06-09,2020-06-11,hospital público
+570,feminino,75,Rio Tinto,LITORAL NORTE,2020-06-01,,,,2020-06-10,2020-06-11,hospital público
