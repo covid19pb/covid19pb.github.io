@@ -622,3 +622,13 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 621,masculino,66,Santa Luzia,SERIDO OCIDENTAL PARAIBANO,2020-05-28,,,,2020-06-12,2020-06-13,hospital público
 622,masculino,48,São Bento,CATOLE DO ROCHA,2020-05-25,,,,2020-06-03,2020-06-13,hospital público
 623,masculino,80,Teixeira,SERRA DO TEIXEIRA,2020-05-28,,,,2020-06-11,2020-06-13,hospital público
+624,masculino,40,Campina Grande,CAMPINA GRANDE,2020-05-26,,,,2020-06-12,2020-06-14,hospital público
+625,masculino,80,Capim,LITORAL NORTE,2020-06-09,,,,2020-06-11,2020-06-14,hospital público
+626,feminino,73,Itapororoca,LITORAL NORTE,2020-06-11,,,,2020-06-13,2020-06-14,hospital público
+627,masculino,87,João Pessoa,JOAO PESSOA,2020-05-31,,,,2020-06-12,2020-06-14,hospital público
+628,feminino,73,João Pessoa,JOAO PESSOA,2020-05-14,,,,2020-06-12,2020-06-14,hospital público
+629,masculino,60,Mamanguape,LITORAL NORTE,2020-06-02,,,,2020-06-13,2020-06-14,hospital público
+630,masculino,65,Mamanguape,LITORAL NORTE,2020-06-03,,,,2020-06-13,2020-06-14,hospital público
+631,masculino,54,Rio Tinto,LITORAL NORTE,2020-05-22,,,,2020-06-08,2020-06-14,hospital público
+632,masculino,56,Santa Rita,JOAO PESSOA,2020-05-10,,,,2020-06-04,2020-06-14,hospital público
+633,feminino,56,Sousa,SOUSA,2020-05-30,,,,2020-06-09,2020-06-14,hospital público
