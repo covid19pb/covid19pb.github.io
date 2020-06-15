@@ -632,3 +632,26 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 631,masculino,54,Rio Tinto,LITORAL NORTE,2020-05-22,,,,2020-06-08,2020-06-14,hospital público
 632,masculino,56,Santa Rita,JOAO PESSOA,2020-05-10,,,,2020-06-04,2020-06-14,hospital público
 633,feminino,56,Sousa,SOUSA,2020-05-30,,,,2020-06-09,2020-06-14,hospital público
+634,masculino,91,Alagoa Grande,BREJO PARAIBANO,2020-05-17,,,,2020-05-28,2020-06-15,hospital público
+635,feminino,43,Alagoa Grande,BREJO PARAIBANO,2020-05-19,,,,2020-05-29,2020-06-15,hospital público
+636,masculino,56,Alagoa Grande,BREJO PARAIBANO,2020-06-05,,,,2020-06-13,2020-06-15,hospital público
+637,feminino,38,Araruna,CURIMATAU ORIENTAL,2020-06-07,,,,2020-06-14,2020-06-15,hospital público
+638,masculino,86,Bayeux,JOAO PESSOA,2020-05-26,,,,2020-06-08,2020-06-15,hospital público
+639,masculino,85,Caaporã,LITORAL SUL,2020-05-24,,,,2020-06-14,2020-06-15,hospital público
+640,feminino,82,Cacimbas,SERRA DO TEIXEIRA,2020-06-01,,,,2020-06-10,2020-06-15,hospital público
+641,masculino,83,Campina Grande,CAMPINA GRANDE,2020-05-12,,,,2020-05-22,2020-06-15,hospital privado
+642,feminino,49,Campina Grande,CAMPINA GRANDE,2020-05-03,,,,2020-05-16,2020-06-15,hospital público
+643,masculino,51,Conde,JOAO PESSOA,2020-05-20,,,,2020-06-13,2020-06-15,hospital público
+644,masculino,89,Fagundes,CAMPINA GRANDE,2020-05-09,,,,2020-05-30,2020-06-15,hospital público
+645,masculino,82,Fagundes,CAMPINA GRANDE,2020-05-11,,,,2020-05-28,2020-06-15,hospital público
+646,feminino,59,Guarabira,GUARABIRA,2020-06-01,,,,2020-06-11,2020-06-15,hospital público
+647,masculino,64,João Pessoa,JOAO PESSOA,2020-05-27,,,,2020-06-12,2020-06-15,hospital público
+648,feminino,83,João Pessoa,JOAO PESSOA,2020-06-06,,,,2020-06-12,2020-06-15,hospital público
+649,masculino,89,João Pessoa,JOAO PESSOA,2020-05-26,,,,2020-06-12,2020-06-15,hospital público
+650,masculino,70,João Pessoa,JOAO PESSOA,2020-05-17,,,,2020-06-08,2020-06-15,hospital público
+651,masculino,68,João Pessoa,JOAO PESSOA,2020-05-10,,,,2020-05-31,2020-06-15,hospital público
+652,masculino,53,João Pessoa,JOAO PESSOA,2020-05-25,,,,2020-06-05,2020-06-15,hospital público
+653,feminino,89,Juripiranga,SAPE,2020-06-01,,,,2020-06-09,2020-06-15,hospital público
+654,feminino,67,Mataraca,LITORAL NORTE,2020-06-07,,,,2020-06-14,2020-06-15,hospital público
+655,masculino,62,Patos,PATOS,2020-05-16,,,,2020-06-13,2020-06-15,hospital público
+656,masculino,56,Santa Rita,JOAO PESSOA,2020-04-22,,,,2020-05-04,2020-06-15,hospital público
