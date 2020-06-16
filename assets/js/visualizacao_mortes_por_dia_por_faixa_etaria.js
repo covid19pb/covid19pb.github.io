@@ -41,7 +41,7 @@ var viewMortesPorDiaPorFaixaEtaria = {
 	        },
 	      "scale": {
 					"type":"threshold",
-					"domain" : [1, 10, 20, 30, 40, 50],
+					"domain" : [1, 10, 30, 50, 70, 100],
 					"range": ["#F0F0F0", "#FFBD00", "#FF5400", "#FF0054", "#9E0059", "#390099","#000000"]
 				}
 	    }

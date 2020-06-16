@@ -655,3 +655,18 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 654,feminino,67,Mataraca,LITORAL NORTE,2020-06-07,,,,2020-06-14,2020-06-15,hospital público
 655,masculino,62,Patos,PATOS,2020-05-16,,,,2020-06-13,2020-06-15,hospital público
 656,masculino,56,Santa Rita,JOAO PESSOA,2020-04-22,,,,2020-05-04,2020-06-15,hospital público
+657,masculino,64,Campina Grande,CAMPINA GRANDE,2020-05-26,,,,2020-06-12,2020-06-16,hospital público
+658,masculino,36,Campina Grande,CAMPINA GRANDE,2020-05-13,,,,2020-06-06,2020-06-16,hospital privado
+659,feminino,68,Campina Grande,CAMPINA GRANDE,2020-05-18,,,,2020-05-22,2020-06-16,hospital público
+660,masculino,91,Campina Grande,CAMPINA GRANDE,2020-05-01,,,,2020-05-10,2020-06-16,hospital público
+661,masculino,58,Campina Grande,CAMPINA GRANDE,2020-05-10,,,,2020-06-03,2020-06-16,hospital público
+662,feminino,53,João Pessoa,JOAO PESSOA,2020-05-31,,,,2020-06-02,2020-06-16,hospital público
+663,masculino,65,João Pessoa,JOAO PESSOA,2020-05-19,,,,2020-06-14,2020-06-16,hospital público
+664,feminino,97,João Pessoa,JOAO PESSOA,2020-06-03,,,,2020-06-15,2020-06-16,hospital público
+665,masculino,39,João Pessoa,JOAO PESSOA,2020-05-18,,,,2020-05-25,2020-06-16,hospital público
+666,masculino,53,João Pessoa,JOAO PESSOA,2020-05-27,,,,2020-05-31,2020-06-16,hospital público
+667,masculino,70,São Bento,CATOLE DO ROCHA,2020-05-09,,,,2020-05-25,2020-06-16,hospital público
+668,masculino,82,Sapé,SAPE,2020-05-26,,,,2020-06-11,2020-06-16,hospital público
+669,masculino,47,Sapé,SAPE,2020-05-22,,,,2020-06-10,2020-06-16,hospital público
+670,feminino,70,Sapé,SAPE,2020-05-20,,,,2020-06-05,2020-06-16,hospital público
+671,feminino,66,Sapé,SAPE,2020-05-28,,,,2020-06-05,2020-06-16,hospital público
