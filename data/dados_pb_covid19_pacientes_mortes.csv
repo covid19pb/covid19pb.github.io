@@ -670,3 +670,28 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 669,masculino,47,Sapé,SAPE,2020-05-22,,,,2020-06-10,2020-06-16,hospital público
 670,feminino,70,Sapé,SAPE,2020-05-20,,,,2020-06-05,2020-06-16,hospital público
 671,feminino,66,Sapé,SAPE,2020-05-28,,,,2020-06-05,2020-06-16,hospital público
+672,feminino,63,Santa Rita,JOAO PESSOA,2020-05-02,,,,2020-05-18,2020-06-17,hospital público
+673,feminino,71,Bayeux,JOAO PESSOA,2020-05-19,,,,2020-06-04,2020-06-17,hospital público
+674,masculino,76,João Pessoa,JOAO PESSOA,2020-05-16,,,,2020-06-05,2020-06-17,hospital público
+675,masculino,79,João Pessoa,JOAO PESSOA,2020-05-03,,,,2020-05-08,2020-06-17,hospital público
+676,masculino,78,Pedras de Fogo,LITORAL SUL,2020-05-29,,,,2020-06-12,2020-06-17,hospital público
+677,feminino,60,João Pessoa,JOAO PESSOA,2020-05-09,,,,2020-06-07,2020-06-17,hospital público
+678,masculino,87,Conde,JOAO PESSOA,2020-05-11,,,,2020-06-05,2020-06-17,hospital público
+679,feminino,85,João Pessoa,JOAO PESSOA,2020-05-24,,,,2020-06-06,2020-06-17,hospital público
+680,feminino,71,Santa Rita,JOAO PESSOA,2020-05-05,,,,2020-05-21,2020-06-17,hospital público
+681,feminino,77,João Pessoa,JOAO PESSOA,2020-05-21,,,,2020-06-04,2020-06-17,hospital público
+682,feminino,75,João Pessoa,JOAO PESSOA,2020-05-27,,,,2020-06-08,2020-06-17,hospital público
+683,masculino,59,João Pessoa,JOAO PESSOA,2020-05-25,,,,2020-06-06,2020-06-17,hospital público
+684,masculino,83,João Pessoa,JOAO PESSOA,2020-05-23,,,,2020-06-04,2020-06-17,hospital público
+685,masculino,62,Campina Grande,CAMPINA GRANDE,2020-05-09,,,,2020-05-29,2020-06-17,hospital público
+686,feminino,78,Patos,PATOS,2020-05-29,,,,2020-06-16,2020-06-17,hospital público
+687,masculino,40,Caaporã,LITORAL SUL,2020-05-18,,,,2020-06-14,2020-06-17,hospital público
+688,feminino,88,João Pessoa,JOAO PESSOA,2020-05-24,,,,2020-06-16,2020-06-17,hospital público
+689,masculino,34,Guarabira,GUARABIRA,2020-05-31,,,,2020-06-15,2020-06-17,hospital público
+690,masculino,36,Guarabira,GUARABIRA,2020-06-01,,,,2020-06-15,2020-06-17,hospital público
+691,masculino,88,Pedras de Fogo,LITORAL SUL,2020-05-25,,,,2020-06-15,2020-06-17,hospital público
+692,feminino,67,Santa Rita,JOAO PESSOA,2020-05-25,,,,2020-06-14,2020-06-17,hospital público
+693,masculino,80,João Pessoa,JOAO PESSOA,2020-05-16,,,,2020-06-15,2020-06-17,hospital público
+694,feminino,77,João Pessoa,JOAO PESSOA,2020-05-01,,,,2020-06-09,2020-06-17,hospital público
+695,masculino,72,Cruz do Espírito Santo,SAPE,2020-05-28,,,,2020-06-10,2020-06-17,hospital público
+696,feminino,92,João Pessoa,JOAO PESSOA,2020-05-31,,,,2020-06-11,2020-06-17,hospital público
