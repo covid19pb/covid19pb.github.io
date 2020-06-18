@@ -695,3 +695,16 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 694,feminino,77,João Pessoa,JOAO PESSOA,2020-05-01,,,,2020-06-09,2020-06-17,hospital público
 695,masculino,72,Cruz do Espírito Santo,SAPE,2020-05-28,,,,2020-06-10,2020-06-17,hospital público
 696,feminino,92,João Pessoa,JOAO PESSOA,2020-05-31,,,,2020-06-11,2020-06-17,hospital público
+697,feminino,65,Bayeux,JOAO PESSOA,2020-05-28,,,,2020-06-16,2020-06-18,hospital público
+698,feminino,58,Campina Grande,CAMPINA GRANDE,2020-05-06,,,,2020-05-18,2020-06-18,hospital público
+699,feminino,84,Conde,JOAO PESSOA,2020-06-10,,,,2020-06-17,2020-06-18,hospital público
+670,masculino,51,Ingá,ITABAIANA,2020-06-06,,,,2020-06-17,2020-06-18,hospital público
+671,feminino,87,Ingá,ITABAIANA,2020-05-29,,,,2020-06-04,2020-06-18,hospital público
+672,feminino,68,João Pessoa,JOAO PESSOA,2020-05-26,,,,2020-06-16,2020-06-18,hospital público
+673,feminino,73,João Pessoa,JOAO PESSOA,2020-06-04,,,,2020-06-09,2020-06-18,hospital público
+674,masculino,81,João Pessoa,JOAO PESSOA,2020-05-09,,,,2020-05-27,2020-06-18,hospital público
+675,feminino,66,João Pessoa,JOAO PESSOA,2020-05-30,,,,2020-06-17,2020-06-18,hospital público
+676,masculino,89,Monteiro,CARIRI OCIDENTAL,2020-05-23,,,,2020-06-14,2020-06-18,hospital público
+677,masculino,21,Patos,PATOS,2020-05-01,,,,2020-05-31,2020-06-18,hospital público
+678,masculino,50,Rio Tinto,LITORAL NORTE,2020-06-01,,,,2020-06-17,2020-06-18,hospital público
+679,feminino,87,Rio Tinto,LITORAL NORTE,2020-06-12,,,,2020-06-18,2020-06-18,hospital público
