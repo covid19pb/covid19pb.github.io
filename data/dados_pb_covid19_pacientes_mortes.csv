@@ -723,3 +723,22 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 722,masculino,81,Queimadas,CAMPINA GRANDE,2020-06-03,,,,2020-06-18,2020-06-19,hospital público
 723,masculino,87,São José do Bonfim,PATOS,2020-05-21,,,,2020-06-18,2020-06-19,hospital público
 724,feminino,85,Sapé,SAPE,2020-05-21,,,,2020-06-06,2020-06-19,hospital privado
+725,feminino,77,Araçagi,GUARABIRA,2020-05-26,,,,2020-06-18,2020-06-20,hospital público
+726,masculino,69,Araçagi,GUARABIRA,2020-05-16,,,,2020-05-31,2020-06-20,hospital público
+727,masculino,19,Bayeux,JOAO PESSOA,2020-05-25,,,,2020-06-18,2020-06-20,hospital público
+728,masculino,64,Belém,GUARABIRA,2020-05-21,,,,2020-06-18,2020-06-20,hospital público
+729,feminino,95,Campina Grande,CAMPINA GRANDE,2020-05-20,,,,2020-06-01,2020-06-20,hospital público
+730,masculino,61,Campina Grande,CAMPINA GRANDE,2020-05-25,,,,2020-06-15,2020-06-20,hospital público
+731,masculino,83,Campina Grande,CAMPINA GRANDE,2020-05-28,,,,2020-06-03,2020-06-20,hospital público
+732,feminino,72,Esperança,ESPERANCA,2020-05-24,,,,2020-06-12,2020-06-20,hospital público
+733,masculino,53,Gurinhém,ITABAIANA,2020-06-05,,,,2020-06-10,2020-06-20,hospital público
+734,feminino,85,Itabaiana,ITABAIANA,2020-06-10,,,,2020-06-16,2020-06-20,hospital público
+735,masculino,73,João Pessoa,JOAO PESSOA,2020-05-23,,,,2020-06-18,2020-06-20,hospital público
+736,masculino,57,João Pessoa,JOAO PESSOA,2020-04-22,,,,2020-06-15,2020-06-20,hospital público
+737,masculino,69,João Pessoa,JOAO PESSOA,2020-05-24,,,,2020-06-07,2020-06-20,hospital público
+738,feminino,83,Juripiranga,SAPE,2020-05-22,,,,2020-06-03,2020-06-20,hospital público
+739,feminino,68,Mamanguape,LITORAL NORTE,2020-06-14,,,,2020-06-18,2020-06-20,hospital público
+740,masculino,39,Pedras de Fogo,LITORAL SUL,2020-06-03,,,,2020-06-12,2020-06-20,hospital público
+741,masculino,58,Pedras de Fogo,LITORAL SUL,2020-05-25,,,,2020-06-06,2020-06-20,hospital público
+742,feminino,85,Pedras de Fogo,LITORAL SUL,2020-06-01,,,,2020-06-14,2020-06-20,hospital público
+743,masculino,64,Santa Rita,JOAO PESSOA,2020-05-13,,,,2020-05-24,2020-06-20,hospital público
