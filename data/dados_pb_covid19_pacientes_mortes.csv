@@ -698,13 +698,28 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 697,feminino,65,Bayeux,JOAO PESSOA,2020-05-28,,,,2020-06-16,2020-06-18,hospital público
 698,feminino,58,Campina Grande,CAMPINA GRANDE,2020-05-06,,,,2020-05-18,2020-06-18,hospital público
 699,feminino,84,Conde,JOAO PESSOA,2020-06-10,,,,2020-06-17,2020-06-18,hospital público
-670,masculino,51,Ingá,ITABAIANA,2020-06-06,,,,2020-06-17,2020-06-18,hospital público
-671,feminino,87,Ingá,ITABAIANA,2020-05-29,,,,2020-06-04,2020-06-18,hospital público
-672,feminino,68,João Pessoa,JOAO PESSOA,2020-05-26,,,,2020-06-16,2020-06-18,hospital público
-673,feminino,73,João Pessoa,JOAO PESSOA,2020-06-04,,,,2020-06-09,2020-06-18,hospital público
-674,masculino,81,João Pessoa,JOAO PESSOA,2020-05-09,,,,2020-05-27,2020-06-18,hospital público
-675,feminino,66,João Pessoa,JOAO PESSOA,2020-05-30,,,,2020-06-17,2020-06-18,hospital público
-676,masculino,89,Monteiro,CARIRI OCIDENTAL,2020-05-23,,,,2020-06-14,2020-06-18,hospital público
-677,masculino,21,Patos,PATOS,2020-05-01,,,,2020-05-31,2020-06-18,hospital público
-678,masculino,50,Rio Tinto,LITORAL NORTE,2020-06-01,,,,2020-06-17,2020-06-18,hospital público
-679,feminino,87,Rio Tinto,LITORAL NORTE,2020-06-12,,,,2020-06-18,2020-06-18,hospital público
+700,masculino,51,Ingá,ITABAIANA,2020-06-06,,,,2020-06-17,2020-06-18,hospital público
+701,feminino,87,Ingá,ITABAIANA,2020-05-29,,,,2020-06-04,2020-06-18,hospital público
+702,feminino,68,João Pessoa,JOAO PESSOA,2020-05-26,,,,2020-06-16,2020-06-18,hospital público
+703,feminino,73,João Pessoa,JOAO PESSOA,2020-06-04,,,,2020-06-09,2020-06-18,hospital público
+704,masculino,81,João Pessoa,JOAO PESSOA,2020-05-09,,,,2020-05-27,2020-06-18,hospital público
+705,feminino,66,João Pessoa,JOAO PESSOA,2020-05-30,,,,2020-06-17,2020-06-18,hospital público
+706,masculino,89,Monteiro,CARIRI OCIDENTAL,2020-05-23,,,,2020-06-14,2020-06-18,hospital público
+707,masculino,21,Patos,PATOS,2020-05-01,,,,2020-05-31,2020-06-18,hospital público
+708,masculino,50,Rio Tinto,LITORAL NORTE,2020-06-01,,,,2020-06-17,2020-06-18,hospital público
+709,feminino,87,Rio Tinto,LITORAL NORTE,2020-06-12,,,,2020-06-18,2020-06-18,hospital público
+710,masculino,89,Araruna,CURIMATAU ORIENTAL,2020-05-08,,,,2020-06-18,2020-06-19,hospital público
+711,masculino,80,Bayeux,JOAO PESSOA,2020-05-13,,,,2020-05-22,2020-06-19,hospital público
+712,masculino,53,Bayeux,JOAO PESSOA,2020-05-12,,,,2020-06-10,2020-06-19,hospital público
+713,feminino,77,Cachoeira dos Índios,CAJAZEIRAS,2020-05-26,,,,2020-06-15,2020-06-19,hospital público
+714,masculino,79,Cachoeira dos Índios,CAJAZEIRAS,2020-06-07,,,,2020-06-15,2020-06-19,hospital público
+715,masculino,76,Cajazeiras,CAJAZEIRAS,2020-05-21,,,,2020-06-14,2020-06-19,hospital público
+716,masculino,86,Cajazeiras,CAJAZEIRAS,2020-05-21,,,,2020-06-03,2020-06-19,hospital público
+717,masculino,65,Campina Grande,CAMPINA GRANDE,2020-05-19,,,,2020-06-14,2020-06-19,hospital público
+718,feminino,83,Catolé do Rocha,CATOLE DO ROCHA,2020-05-27,,,,2020-06-17,2020-06-19,hospital público
+719,feminino,48,Guarabira,GUARABIRA,2020-06-10,,,,2020-06-17,2020-06-19,hospital público
+720,masculino,35,Patos,PATOS,2020-06-04,,,,2020-06-18,2020-06-19,hospital público
+721,masculino,50,Patos,PATOS,2020-06-02,,,,2020-06-13,2020-06-19,hospital público
+722,masculino,81,Queimadas,CAMPINA GRANDE,2020-06-03,,,,2020-06-18,2020-06-19,hospital público
+723,masculino,87,São José do Bonfim,PATOS,2020-05-21,,,,2020-06-18,2020-06-19,hospital público
+724,feminino,85,Sapé,SAPE,2020-05-21,,,,2020-06-06,2020-06-19,hospital privado
