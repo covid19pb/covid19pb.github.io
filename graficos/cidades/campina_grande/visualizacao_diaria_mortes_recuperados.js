@@ -1,4 +1,4 @@
-var viewDiariaMortesAcumuladas = {
+var viewDiariaMortesRecuperados = {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.0.2.json",
     "width": "container",
     "config": {
@@ -6,7 +6,7 @@ var viewDiariaMortesAcumuladas = {
         "view": {"continuousWidth": 400, "continuousHeight": 300}
     },
     "data": {
-        "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorData.csv"
+        "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/cidades/campina_grande/data/dados_diarios_cg_covid19.csv"
     },
     "mark": {
         "type": "line",
@@ -26,16 +26,14 @@ var viewDiariaMortesAcumuladas = {
                 "titleFontSize": 14
             },
             "scale": {
-                "domain": ["Mortes acumuladas"],
-                "range": ["#e60000"]
+                "domain": ["Recuperados acumulados", "Mortes acumuladas"],
+                "range": ["#1f77b4", "#e60000"]
             }
         },
         "tooltip": [
             {"type": "temporal", "field": "data", "title": "Data"},
-            {"type": "quantitative", "field": "mortesAcumuladas", "title": "Mortes acumuladas"},
-            {"type": "quantitative", "field": "mortesPorDia", "title": "Mortes por dia"},
-            {"type": "quantitative", "field": "confirmadosAcumulados", "title": "Confirmados acumulados"},
-            {"type": "quantitative", "field": "taxa_letalidade", "format": ".2%","title": "Taxa de letalidade"}
+            {"type": "quantitative", "field": "recuperadosAcumulados", "title": "Recuperados acumulados"},
+            {"type": "quantitative", "field": "ObitosAcumulados", "title": "Mortes acumuladas"}
         ],
         "x": {
             "type": "temporal",
@@ -59,23 +57,15 @@ var viewDiariaMortesAcumuladas = {
         }
     },
     "transform": [
-        {"fold": ["mortesAcumuladas"]},
+        {"fold": ["recuperadosAcumulados", "ObitosAcumulados"]},
         {
-            "calculate": "if((datum.key === 'mortesPorDia'),'Mortes por dia',datum.key)",
+            "calculate": "if((datum.key === 'recuperadosAcumulados'),'Recuperados acumulados',datum.key)",
             "as": "key"
         },
         {
-            "calculate": "if((datum.key === 'confirmadosAcumulados'),'Confirmados acumulados',datum.key)",
+            "calculate": "if((datum.key === 'ObitosAcumulados'),'Mortes acumuladas',datum.key)",
             "as": "key"
-        },
-        {
-            "calculate": "if((datum.key === 'mortesAcumuladas'),'Mortes acumuladas',datum.key)",
-            "as": "key"
-        },
-        {
-            "calculate": "datum.mortesAcumuladas / datum.confirmadosAcumulados", 
-            "as": "taxa_letalidade"
         }
     ]
 };
-vegaEmbed('#visualizacao_diaria_mortes_acumuladas', viewDiariaMortesAcumuladas);
+vegaEmbed('#visualizacao_diaria_mortes_recuperados', viewDiariaMortesRecuperados);

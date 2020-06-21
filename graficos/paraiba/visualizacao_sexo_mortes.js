@@ -1,7 +1,7 @@
 var viewSexoMortes = {
 	"$schema": "https://vega.github.io/schema/vega-lite/v4.json",
 	"data": {
-		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_boletim_FaixaEtaria.csv"
+		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/paraiba/dados_pb_covid19_boletim_FaixaEtaria.csv"
 	},
 	"width": "container",
 	"config": {

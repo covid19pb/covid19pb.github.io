@@ -1,7 +1,7 @@
-var viewLocalObitoPorDia = {
+var viewLocalObito = {
 	"$schema": "https://vega.github.io/schema/vega-lite/v4.json",
 	"data": {
-		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_pacientes_mortes.csv"
+		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/paraiba/dados_pb_covid19_pacientes_mortes.csv"
   	},
   	"width": "container",
   	"height": "300",
@@ -39,35 +39,39 @@ var viewLocalObitoPorDia = {
           "as": "key"
         }
 	],
+	"encoding": {
+		"y": {
+			"axis": {
+				"title": "Quantidade de óbitos",
+				"labelFontSize": 12,
+				"titleFontSize": 12
+			},
+			"field": "key",
+			"type": "quantitative",
+			"aggregate": "count"
+		},
+		"x": {
+			"axis": {
+				"labelAngle": 315,
+				"labelFontSize": 12,
+				"titleFontSize": 12,
+				"title": null
+			},
+			"field": "key",
+			"type": "nominal",
+			"sort": "-y"
+		}
+	},
 	"layer": [
 		{
 			"mark": {
-				"type": "bar"
+				"type": "bar",
+				"cornerRadiusEnd": 4,
+				"size": 30
 			},
 			"encoding": {
-				"y": {
-					"axis": {
-						"title": "Quantidade de óbitos",
-						"labelFontSize": 12,
-						"titleFontSize": 12
-					},
-					"field": "key",
-					"type": "quantitative",
-					"aggregate": "count",
-					"sort":"-color"
-				},
-				"x": {
-					"axis": {
-						"labelAngle": 315,
-						"labelFontSize": 12,
-						"titleFontSize": 12,
-						"title": null
-					},
-					"field": "dataDoInicioDosSintomas",
-					"type": "temporal"
-				},
 				"color": {
-					"legend": true,
+					"legend": null,
 					"field": "key",
 					"type": "nominal",
 					"scale": {
@@ -77,7 +81,23 @@ var viewLocalObitoPorDia = {
 				},
 				"opacity": {"value": 0.7}
 			}
+		},
+		{
+	  		"mark": {
+	    		"type": "text",
+	    		"baseline": "middle",
+	    		"stroke": "black",
+	    		"dy": -10,
+	    		"fontSize": 15
+	  		},
+  			"encoding": {
+		    	"text": {
+		    		"field": "key",
+		    		"type": "quantitative",
+		    		"aggregate": "count"
+		    	}
+  			}
 		}
 	]
 };
-vegaEmbed('#visualizacao_local_obito_por_dia', viewLocalObitoPorDia);
+vegaEmbed('#visualizacao_local_obito', viewLocalObito);

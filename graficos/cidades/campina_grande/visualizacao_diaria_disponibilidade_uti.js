@@ -1,30 +1,30 @@
 var viewDiariaDisponibilidadeUTI = {
 	"$schema": "https://vega.github.io/schema/vega-lite/v4.json",
 	"width": "container",
-	"data": {"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_leitos.csv"},
+	"data": {"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/cidades/campina_grande/data/dados_diarios_cg_covid19.csv"},
 	"transform": [
 	    {
-	     	"fold": ["uti_ocupado","uti_disponivel"]
+	     	"fold": ["utiOcupadas","utiDisponiveis"]
 	    },
 	    {
-	    	"calculate": "if((datum.key === 'uti_disponivel'),'UTI Disponível',datum.key)",
+	    	"calculate": "if((datum.key === 'utiDisponiveis'),'UTI Disponível',datum.key)",
 	        "as": "key"
 	    },
 	    {
-	     	"calculate": "if((datum.key === 'uti_ocupado'),'UTI Ocupado',datum.key)",
+	     	"calculate": "if((datum.key === 'utiOcupadas'),'UTI Ocupado',datum.key)",
 	        "as": "key"
 	    },
 	    {
-	      	"calculate": "datum.uti_disponivel / datum.uti_total",
-	      	"as": "percentual_uti_disponivel"
+	      	"calculate": "datum.utiDisponiveis / datum.utiTotal",
+	      	"as": "percentual_utiDisponiveis"
 	    },
 	    {
-	      	"calculate": "datum.uti_ocupado / datum.uti_total",
-	      	"as": "percentual_uti_ocupado"
+	      	"calculate": "datum.utiOcupadas / datum.utiTotal",
+	      	"as": "percentual_utiOcupadas"
 	    }
 	],
 	"mark" : {
-		"type": "area",
+		"type": "bar",
 		"opacity": 0.9
 	},
 	"encoding": {
@@ -36,23 +36,23 @@ var viewDiariaDisponibilidadeUTI = {
 			},
 			{
 		    	"type" : "quantitative",
-		        "field" : "uti_disponivel",
+		        "field" : "utiDisponiveis",
 		        "title" : "UTIs Disponíveis"
 		    },
 		    {
 		        "type" : "quantitative",
-		        "field" : "uti_ocupado",
+		        "field" : "utiOcupadas",
 		        "title" : "UTIs Ocupadas"
 			},
 			{
 		        "type" : "quantitative",
-		        "field" : "percentual_uti_disponivel",
+		        "field" : "percentual_utiDisponiveis",
 		        "title" : "UTIs Disponíveis (%)",
 		        "format": ".2%"
 			},
 			{
 		        "type" : "quantitative",
-		        "field" : "percentual_uti_ocupado",
+		        "field" : "percentual_utiOcupadas",
 		        "title" : "UTIs Ocupadas (%)",
 		        "format": ".2%"
 		    }

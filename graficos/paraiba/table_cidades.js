@@ -48,6 +48,6 @@ function csvToTable(data){
 }
 
 $.ajax({
-	url: "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorCidade.csv",
+	url: "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/paraiba/dados_pb_covid19_casosPorCidade.csv",
 	dataType: "text"
 }).done(csvToTable);

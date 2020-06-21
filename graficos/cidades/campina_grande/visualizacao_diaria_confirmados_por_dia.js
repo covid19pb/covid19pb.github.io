@@ -1,12 +1,12 @@
-var viewDiariaTestesPorDia = {
-    "$schema": "https://vega.github.io/schema/vega-lite/v4.0.2.json",
+var viewDiariaConfirmadosPorDia = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.0.2.json",
     "width": "container",
     "config": {
       "background": "transparent",
       "view": {"continuousWidth": 400, "continuousHeight": 300}
     },
     "data": {
-      "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorData.csv"
+      "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/cidades/campina_grande/data/dados_diarios_cg_covid19.csv"
     },
     "layer": [
     {
@@ -24,19 +24,20 @@ var viewDiariaTestesPorDia = {
             "columns": 1,
             "labelFontSize": 12,
             "orient": "bottom",
-            "title": "Testes de covid-19",
+            "title": "Tipos de Casos",
             "titleFontSize": 14
           },
           "scale": {
-            "domain": ["Testes por dia"],
+            "domain": ["Confirmados por dia"],
             "range": ["#1f77b4"]
           }
         },
         "tooltip": [
           {"type": "temporal", "field": "data", "title": "Data"},
-          {"type": "quantitative", "field": "testesPorDia", "title": "Testes por dia"},
-          {"type": "quantitative", "field": "testesAcumulados", "title": "Testes acumulados"},
-          {"type": "quantitative", "field": "taxa_letalidade", "format": ".2%","title": "Taxa de letalidade"}
+          {"type": "quantitative", "field": "confirmadosAcumulados", "title": "Confirmados acumulados"},
+          {"type": "quantitative", "field": "ObitosAcumulados", "title": "Mortes acumuladas"},
+          {"type": "quantitative", "field": "letalidade", "format": ".2%","title": "Taxa de letalidade"},
+          {"type": "quantitative", "field": "confirmadosPorDia", "title": "Confirmados por dia"}
         ],
         "x": {
           "type": "temporal",
@@ -53,7 +54,7 @@ var viewDiariaTestesPorDia = {
           "type": "quantitative",
           "axis": {
             "labelFontSize": 12,
-            "title": "Número de Testes de covid-19",
+            "title": "Número de Casos",
             "titleFontSize": 14
           },
           "field": "value"
@@ -64,7 +65,7 @@ var viewDiariaTestesPorDia = {
       "mark": "rule",
       "encoding": {
         "y": {
-          "field": "testesPorDia",
+          "field": "confirmadosPorDia",
           "type": "quantitative",
           "aggregate": "mean"
         },
@@ -72,33 +73,22 @@ var viewDiariaTestesPorDia = {
         "size": {"value": 3},
         "tooltip": [
           {
-            "field": "testesPorDia",
+            "field": "confirmadosPorDia",
             "type": "quantitative",
             "aggregate": "mean",
             "format": ".2f",
-            "title": "Média de testes de covid-19"
+            "title": "Média dos casos confirmados"
           }
         ]
       }
     }
   ],
     "transform": [
-      {"fold": ["testesPorDia"]},
+      {"fold": ["confirmadosPorDia"]},
       {
-        "calculate": "if((datum.key === 'testesPorDia'),'Testes por dia',datum.key)",
+        "calculate": "if((datum.key === 'confirmadosPorDia'),'Confirmados por dia',datum.key)",
         "as": "key"
-      },
-      {
-        "calculate": "if((datum.key === 'confirmadosAcumulados'),'Confirmados acumulados',datum.key)",
-        "as": "key"
-      },
-      {
-        "calculate": "if((datum.key === 'mortesAcumuladas'),'Mortes acumuladas',datum.key)",
-        "as": "key"
-      },
-      {"calculate": "datum.mortesAcumuladas / datum.confirmadosAcumulados", 
-      "as": "taxa_letalidade"
       }
     ]
 };
-vegaEmbed('#visualizacao_diaria_testes_por_dia', viewDiariaTestesPorDia);
+vegaEmbed('#visualizacao_diaria_confirmados_por_dia', viewDiariaConfirmadosPorDia);

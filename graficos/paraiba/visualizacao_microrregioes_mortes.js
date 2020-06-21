@@ -1,28 +1,28 @@
-var viewCidadesMortes = {
+var viewMicrorregioesMortes = {
 	"$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-	//"title": "Mortes de Covid-19 por cidades",
+//	"title": "Mortes de Covid-19 por microrregiões",
 	"width": "container",
    "config": {
    	   "background": "transparent",
    	   "view": {"continuousWidth": 400, "continuousHeight": 300}   	   
   },
 	"data": {
-		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/mapa_cidades_paraiba.json",
+		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/paraiba/mapa_micro_paraiba.json",
 		"format": {
 			"type": "topojson",
-			"feature": "Munic"
+			"feature": "microrregioes"
 		}
 	},
 	"transform": [
 		{
-		"lookup": "properties.codigo",
+		"lookup": "properties.micro",
 		"from": {
 			"data": {
-				"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorCidade.csv"
+				"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/paraiba/dados_pb_covid19_casosPorMicro.csv"
 			},
-			"key": "codigo",
+			"key": "microrregiao",
 			"fields": [
-				"data","municipio","codigo","mesorregiao","microrregiao","confirmadosAcumulados","mortesAcumuladas"
+				"data","mesorregiao","microrregiao","confirmadosAcumulados","mortesAcumuladas"
 			]
 		}
 	}],
@@ -47,21 +47,16 @@ var viewCidadesMortes = {
 		},
 		"tooltip": [
 			{
-				"field": "properties.name",
+				"field": "properties.micro",
 				"type": "nominal",
-				"title": "Município: "
+				"title": "Microrregião: "
 			}, 
 			{
 				"field": "properties.meso",
 				"type": "nominal",
 				"title": "Mesorregião: "
 			},
-			{
-				"field": "properties.micro",
-				"type": "nominal",
-				"title": "Microrregião: "
-			},
-			{
+						{
 				"field": "mortesAcumuladas",
 				"type": "quantitative",
 				"title": "Mortes acumuladas: "
@@ -73,5 +68,4 @@ var viewCidadesMortes = {
 			}
 		]
 	}
-};
-vegaEmbed('#visualizacao_cidades_mortes', viewCidadesMortes);
+};vegaEmbed('#visualizacao_microrregioes_mortes', viewMicrorregioesMortes);

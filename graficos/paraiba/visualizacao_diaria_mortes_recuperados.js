@@ -6,7 +6,7 @@ var viewDiariaMortesRecuperados = {
         "view": {"continuousWidth": 400, "continuousHeight": 300}
     },
     "data": {
-        "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorData.csv"
+        "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/paraiba/dados_pb_covid19_casosPorData.csv"
     },
     "mark": {
         "type": "line",

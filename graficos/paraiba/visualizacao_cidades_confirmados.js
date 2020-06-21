@@ -1,28 +1,28 @@
-var viewMicrorregioesConfirmados = {
+var viewCidadesConfirmados = {
 	"$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-//	"title": "Casos confirmados de Covid-19 por microrregiões",
+//	"title": "Casos confirmados de Covid-19 por cidades",
 	"width": "container",
    "config": {
    	   "background": "transparent",
    	   "view": {"continuousWidth": 400, "continuousHeight": 300}   	   
   },
 	"data": {
-		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/mapa_micro_paraiba.json",
+		"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/paraiba/mapa_cidades_paraiba.json",
 		"format": {
 			"type": "topojson",
-			"feature": "microrregioes"
+			"feature": "Munic"
 		}
 	},
 	"transform": [
 		{
-		"lookup": "properties.micro",
+		"lookup": "properties.codigo",
 		"from": {
 			"data": {
-				"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_casosPorMicro.csv"
+				"url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/paraiba/dados_pb_covid19_casosPorCidade.csv"
 			},
-			"key": "microrregiao",
+			"key": "codigo",
 			"fields": [
-				"data","mesorregiao","microrregiao","confirmadosAcumulados","mortesAcumuladas"
+				"data","municipio","codigo","mesorregiao","microrregiao","confirmadosAcumulados","mortesAcumuladas"
 			]
 		}
 	}],
@@ -37,7 +37,7 @@ var viewMicrorregioesConfirmados = {
 			"title": "Confirmados acumulados",
 			"scale": {
 				"type":"threshold",
-				"domain" : [1, 100, 250, 500, 1000, 2000],
+				"domain" : [1, 100, 250, 500, 750, 1000],
 				"range": ["#F0F0F0", "#FFBD00", "#FF5400", "#FF0054", "#9E0059", "#390099","#000000"]
 			},
 			"legend": {
@@ -47,14 +47,19 @@ var viewMicrorregioesConfirmados = {
 		},
 		"tooltip": [
 			{
-				"field": "properties.micro",
+				"field": "properties.name",
 				"type": "nominal",
-				"title": "Microrregião: "
+				"title": "Município: "
 			}, 
 			{
 				"field": "properties.meso",
 				"type": "nominal",
 				"title": "Mesorregião: "
+			},
+			{
+				"field": "properties.micro",
+				"type": "nominal",
+				"title": "Microrregião: "
 			},
 			{
 				"field": "confirmadosAcumulados",
@@ -64,8 +69,9 @@ var viewMicrorregioesConfirmados = {
 			{
 				"field": "mortesAcumuladas",
 				"type": "quantitative",
-				"title": "Mortesa acumuladas: "
+				"title": "Mortes acumuladas: "
 			}
 		]
 	}
-};vegaEmbed('#visualizacao_microrregioes_confirmados', viewMicrorregioesConfirmados);
+};
+vegaEmbed('#visualizacao_cidades_confirmados', viewCidadesConfirmados);

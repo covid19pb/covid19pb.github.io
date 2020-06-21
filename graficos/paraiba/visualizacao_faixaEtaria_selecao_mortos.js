@@ -1,7 +1,7 @@
-var viewFaixaEtariaSelecaoConfirmados = {
+var viewFaixaEtariaSelecaoMortos = {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.0.2.json",
   "data": {
-    "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/dados_pb_covid19_boletim_FaixaEtaria.csv"
+    "url": "https://raw.githubusercontent.com/covid19pb/covid19pb.github.io/master/data/paraiba/dados_pb_covid19_boletim_FaixaEtaria.csv"
   },
   "width": "container",
 
@@ -24,7 +24,7 @@ var viewFaixaEtariaSelecaoConfirmados = {
           },
           "scale": {
             "domain": ["Total", "Masculino", "Feminino"],
-            "range": ["#003366", "#1f77b4", "#dc56b4"]
+            "range": ["#e60000", "#1f77b4", "#dc56b4"]
           }
         },
         "opacity": {
@@ -68,7 +68,7 @@ var viewFaixaEtariaSelecaoConfirmados = {
       },
       "transform": [
         {
-          "filter": "((datum.classificacao === 'confirmados') && (datum.ultima_atualizacao === 'True'))"
+          "filter": "((datum.classificacao === 'mortos') && (datum.ultima_atualizacao === 'True'))"
         },
         {"fold": ["total", "masculino", "feminino"]},
         {
@@ -100,7 +100,7 @@ var viewFaixaEtariaSelecaoConfirmados = {
           },
           "scale": {
             "domain": ["Total", "Masculino", "Feminino"],
-            "range": ["#003366", "#1f77b4", "#dc56b4"]
+            "range": ["#e60000", "#1f77b4", "#dc56b4"]
           }
         },
         "opacity": {
@@ -130,7 +130,7 @@ var viewFaixaEtariaSelecaoConfirmados = {
       },
       "transform": [
         {
-          "filter": "((datum.classificacao === 'confirmados') && (datum.ultima_atualizacao === 'True'))"
+          "filter": "((datum.classificacao === 'mortos') && (datum.ultima_atualizacao === 'True'))"
         },
         {"fold": ["total", "masculino", "feminino"]},
         {
@@ -162,7 +162,7 @@ var viewFaixaEtariaSelecaoConfirmados = {
           },
           "scale": {
             "domain": ["Total", "Masculino", "Feminino"],
-            "range": ["#003366", "#1f77b4", "#dc56b4"]
+            "range": ["#e60000", "#1f77b4", "#dc56b4"]
           }
         },
         "opacity": {
@@ -192,7 +192,7 @@ var viewFaixaEtariaSelecaoConfirmados = {
       },
       "transform": [
         {
-          "filter": "((datum.classificacao === 'confirmados') && (datum.ultima_atualizacao === 'True'))"
+          "filter": "((datum.classificacao === 'mortos') && (datum.ultima_atualizacao === 'True'))"
         },
         {"fold": ["total", "masculino", "feminino"]},
         {
@@ -212,4 +212,4 @@ var viewFaixaEtariaSelecaoConfirmados = {
     }
   ]
 };
-vegaEmbed('#visualizacao_faixaEtaria_selecao_confirmados', viewFaixaEtariaSelecaoConfirmados);
+vegaEmbed('#visualizacao_faixaEtaria_selecaoMortos', viewFaixaEtariaSelecaoMortos);
