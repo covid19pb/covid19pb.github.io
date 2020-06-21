@@ -742,3 +742,26 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 741,masculino,58,Pedras de Fogo,LITORAL SUL,2020-05-25,,,,2020-06-06,2020-06-20,hospital público
 742,feminino,85,Pedras de Fogo,LITORAL SUL,2020-06-01,,,,2020-06-14,2020-06-20,hospital público
 743,masculino,64,Santa Rita,JOAO PESSOA,2020-05-13,,,,2020-05-24,2020-06-20,hospital público
+744,masculino,61,Baía da Traição,LITORAL NORTE,2020-05-06,,,,2020-05-25,2020-06-21,hospital privado
+745,masculino,43,Baía da Traição,LITORAL NORTE,2020-05-13,,,,2020-05-22,2020-06-21,hospital público
+746,feminino,81,Bayeux,JOAO PESSOA,2020-05-21,,,,2020-06-16,2020-06-21,hospital público
+747,masculino,70,Bayeux,JOAO PESSOA,2020-05-04,,,,2020-06-14,2020-06-21,hospital público
+748,feminino,50,Cajazeiras,CAJAZEIRAS,2020-05-31,,,,2020-06-21,2020-06-21,hospital público
+749,masculino,97,Campina Grande,CAMPINA GRANDE,2020-05-27,,,,2020-06-04,2020-06-21,hospital público
+750,masculino,68,Campina Grande,CAMPINA GRANDE,2020-05-23,,,,2020-05-28,2020-06-21,hospital público
+751,feminino,70,Campina Grande,CAMPINA GRANDE,2020-05-02,,,,2020-06-02,2020-06-21,hospital público
+752,masculino,76,Cuitegi,GUARABIRA,2020-06-09,,,,2020-06-18,2020-06-21,hospital público
+753,masculino,83,Guarabira,GUARABIRA,2020-06-10,,,,2020-06-18,2020-06-21,hospital público
+754,masculino,82,Guarabira,GUARABIRA,2020-05-09,,,,2020-05-29,2020-06-21,hospital público
+755,masculino,80,João Pessoa,JOAO PESSOA,2020-05-09,,,,2020-05-19,2020-06-21,hospital público
+756,masculino,64,João Pessoa,JOAO PESSOA,2020-05-13,,,,2020-05-30,2020-06-21,hospital público
+757,feminino,75,João Pessoa,JOAO PESSOA,2020-05-20,,,,2020-05-24,2020-06-21,hospital público
+758,masculino,80,João Pessoa,JOAO PESSOA,2020-05-19,,,,2020-05-26,2020-06-21,hospital público
+759,feminino,70,João Pessoa,JOAO PESSOA,2020-05-14,,,,2020-05-22,2020-06-21,hospital público
+760,feminino,52,João Pessoa,JOAO PESSOA,2020-05-25,,,,2020-06-13,2020-06-21,hospital público
+761,feminino,40,João Pessoa,JOAO PESSOA,2020-05-18,,,,2020-05-27,2020-06-21,hospital público
+762,masculino,64,João Pessoa,JOAO PESSOA,2020-06-08,,,,2020-06-14,2020-06-21,hospital público
+763,feminino,82,João Pessoa,JOAO PESSOA,2020-05-29,,,,2020-06-05,2020-06-21,hospital público
+764,feminino,68,Mari,SAPE,2020-06-08,,,,2020-06-16,2020-06-21,hospital público
+765,feminino,93,Patos,PATOS,2020-06-05,,,,2020-06-20,2020-06-21,hospital público
+766,masculino,53,Sapé,SAPÉ,2020-06-02,,,,2020-06-13,2020-06-21,hospital público
