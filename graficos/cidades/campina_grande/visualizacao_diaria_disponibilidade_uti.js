@@ -24,7 +24,7 @@ var viewDiariaDisponibilidadeUTI = {
 	    }
 	],
 	"mark" : {
-		"type": "bar",
+		"type": "area",
 		"opacity": 0.9
 	},
 	"encoding": {

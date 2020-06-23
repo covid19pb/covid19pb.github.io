@@ -765,3 +765,21 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 764,feminino,68,Mari,SAPE,2020-06-08,,,,2020-06-16,2020-06-21,hospital público
 765,feminino,93,Patos,PATOS,2020-06-05,,,,2020-06-20,2020-06-21,hospital público
 766,masculino,53,Sapé,SAPÉ,2020-06-02,,,,2020-06-13,2020-06-21,hospital público
+767,masculino,44,Bananeiras,BREJO PARAIBANO,2020-06-08,,,,2020-06-21,2020-06-22,hospital público
+768,feminino,91,Bayeux,JOAO PESSOA,2020-05-10,,,,2020-06-16,2020-06-22,hospital público
+769,masculino,84,Cajazeiras,CAJAZEIRAS,2020-06-01,,,,2020-06-21,2020-06-22,hospital público
+770,masculino,74,Campina Grande,CAMPINA GRANDE,2020-06-05,,,,2020-06-15,2020-06-22,hospital público
+771,feminino,65,Campina Grande,CAMPINA GRANDE,2020-05-11,,,,2020-05-30,2020-06-22,hospital público
+772,feminino,76,Campina Grande,CAMPINA GRANDE,2020-05-14,,,,2020-05-26,2020-06-22,hospital público
+773,feminino,68,Campina Grande,CAMPINA GRANDE,2020-05-31,,,,2020-06-20,2020-06-22,hospital público
+774,feminino,84,Campina Grande,CAMPINA GRANDE,2020-05-15,,,,2020-06-05,2020-06-22,hospital público
+775,feminino,94,Campina Grande,CAMPINA GRANDE,2020-05-21,,,,2020-06-05,2020-06-22,hospital privado
+776,masculino,69,João Pessoa,JOAO PESSOA,2020-06-02,,,,2020-06-19,2020-06-22,hospital público
+777,feminino,80,João Pessoa,JOAO PESSOA,2020-06-13,,,,2020-06-06,2020-06-22,residência
+778,masculino,84,Guarabira,GUARABIRA,2020-05-09,,,,2020-06-04,2020-06-22,residência
+779,feminino,82,João Pessoa,JOAO PESSOA,2020-05-29,,,,2020-06-05,2020-06-22,hospital público
+780,feminino,55,João Pessoa,JOAO PESSOA,2020-06-01,,,,2020-06-09,2020-06-22,residência
+781,feminino,82,João Pessoa,JOAO PESSOA,2020-05-02,,,,2020-05-18,2020-06-22,hospital público
+782,feminino,56,Mataraca,LITORAL NORTE,2020-05-24,,,,2020-06-09,2020-06-22,hospital público
+783,feminino,72,Puxinanã,CAMPINA GRANDE,2020-05-22,,,,2020-05-30,2020-06-22,hospital público
+784,feminino,80,Santa Rita,JOAO PESSOA,2020-06-10,,,,2020-06-19,2020-06-22,hospital público
