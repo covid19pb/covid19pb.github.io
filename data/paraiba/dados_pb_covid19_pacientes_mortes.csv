@@ -768,7 +768,7 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 767,masculino,44,Bananeiras,BREJO PARAIBANO,2020-06-08,,,,2020-06-21,2020-06-22,hospital público
 768,feminino,91,Bayeux,JOAO PESSOA,2020-05-10,,,,2020-06-16,2020-06-22,hospital público
 769,masculino,84,Cajazeiras,CAJAZEIRAS,2020-06-01,,,,2020-06-21,2020-06-22,hospital público
-770,masculino,74,Campina Grande,CAMPINA GRANDE,2020-06-05,,,,2020-06-15,2020-06-22,hospital público
+770,masculino,74,Campina Grande,CAMPINA GRANDE,2020-05-15,,,,2020-06-06,2020-06-22,hospital público
 771,feminino,65,Campina Grande,CAMPINA GRANDE,2020-05-11,,,,2020-05-30,2020-06-22,hospital público
 772,feminino,76,Campina Grande,CAMPINA GRANDE,2020-05-14,,,,2020-05-26,2020-06-22,hospital público
 773,feminino,68,Campina Grande,CAMPINA GRANDE,2020-05-31,,,,2020-06-20,2020-06-22,hospital público
@@ -783,3 +783,26 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 782,feminino,56,Mataraca,LITORAL NORTE,2020-05-24,,,,2020-06-09,2020-06-22,hospital público
 783,feminino,72,Puxinanã,CAMPINA GRANDE,2020-05-22,,,,2020-05-30,2020-06-22,hospital público
 784,feminino,80,Santa Rita,JOAO PESSOA,2020-06-10,,,,2020-06-19,2020-06-22,hospital público
+785,masculino,58,Campina Grande,CAMPINA GRANDE,2020-06-16,,,,2020-06-21,2020-06-23,hospital público
+786,masculino,97,Campina Grande,CAMPINA GRANDE,2020-06-16,,,,2020-06-16,2020-06-23,hospital público
+787,masculino,51,Campina Grande,CAMPINA GRANDE,2020-05-30,,,,2020-06-21,2020-06-23,hospital público
+788,masculino,68,Campina Grande,CAMPINA GRANDE,2020-06-05,,,,2020-06-21,2020-06-23,hospital público
+789,masculino,83,Campina Grande,CAMPINA GRANDE,2020-06-10,,,,2020-06-21,2020-06-23,hospital público
+790,masculino,81,Campina Grande,CAMPINA GRANDE,2020-05-30,,,,2020-06-14,2020-06-23,hospital público
+791,feminino,50,Condado,SOUSA,2020-06-02,,,,2020-06-21,2020-06-23,hospital público
+792,masculino,44,Cuité de Mamanguape,LITORAL NORTE,2020-06-17,,,,2020-06-21,2020-06-23,hospital público
+793,feminino,67,Esperança,ESPERANCA,2020-06-01,,,,2020-06-21,2020-06-23,hospital público
+794,masculino,35,Itabaiana,ITABAIANA,2020-06-02,,,,2020-06-22,2020-06-23,hospital público
+795,masculino,39,João Pessoa,JOAO PESSOA,2020-05-10,,,,2020-05-17,2020-06-23,hospital público
+796,feminino,92,João Pessoa,JOAO PESSOA,2020-05-31,,,,2020-06-20,2020-06-23,hospital público
+797,masculino,95,João Pessoa,JOAO PESSOA,2020-06-14,,,,2020-06-21,2020-06-23,hospital público
+798,masculino,74,João Pessoa,JOAO PESSOA,2020-05-17,,,,2020-05-29,2020-06-23,hospital público
+799,masculino,42,João Pessoa,JOAO PESSOA,2020-05-17,,,,2020-05-22,2020-06-23,hospital público
+800,feminino,80,João Pessoa,JOAO PESSOA,2020-06-13,,,,2020-06-20,2020-06-23,hospital público
+801,masculino,30,João Pessoa,JOAO PESSOA,2020-05-06,,,,2020-05-28,2020-06-23,hospital público
+802,masculino,83,João Pessoa,JOAO PESSOA,2020-05-13,,,,2020-05-15,2020-06-23,hospital público
+803,feminino,75,Mulungu,GUARABIRA,2020-06-10,,,,2020-06-22,2020-06-23,hospital público
+804,masculino,82,Pocinhos,CURIMATAU OCIDENTAL,2020-06-06,,,,2020-06-21,2020-06-23,hospital público
+805,feminino,87,Remígio,CURIMATAU OCIDENTAL,2020-06-15,,,,2020-06-21,2020-06-23,hospital público
+806,feminino,87,São Domingos do Cariri,CARIRI ORIENTAL,2020-06-11,,,,2020-06-21,2020-06-23,hospital público
+807,masculino,77,Solânea,CURIMATAU ORIENTAL,2020-06-04,,,,2020-06-20,2020-06-23,hospital público
