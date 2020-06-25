@@ -806,3 +806,24 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 805,feminino,87,Remígio,CURIMATAU OCIDENTAL,2020-06-15,,,,2020-06-21,2020-06-23,hospital público
 806,feminino,87,São Domingos do Cariri,CARIRI ORIENTAL,2020-06-11,,,,2020-06-21,2020-06-23,hospital público
 807,masculino,77,Solânea,CURIMATAU ORIENTAL,2020-06-04,,,,2020-06-20,2020-06-23,hospital público
+808,feminino,55,Cajazeiras,CAJAZEIRAS,2020-05-16,,,,2020-06-23,2020-06-24,hospital público
+809,masculino,50,Campina Grande,CAMPINA GRANDE,2020-05-26,,,,2020-06-07,2020-06-24,hospital público
+810,masculino,65,Campina Grande,CAMPINA GRANDE,2020-05-23,,,,2020-06-08,2020-06-24,hospital público
+811,masculino,60,Campina Grande,CAMPINA GRANDE,2020-05-20,,,,2020-06-20,2020-06-24,hospital público
+812,masculino,96,Catingueira,PIANCO,2020-06-10,,,,2020-06-17,2020-06-24,hospital público
+813,masculino,73,Desterro,SERRA DO TEIXEIRA,2020-06-10,,,,2020-06-23,2020-06-24,hospital público
+814,masculino,56,João Pessoa,JOAO PESSOA,2020-04-19,,,,2020-05-01,2020-06-24,hospital público
+815,masculino,81,João Pessoa,JOAO PESSOA,2020-04-30,,,,2020-05-24,2020-06-24,hospital público
+816,masculino,38,João Pessoa,JOAO PESSOA,2020-05-10,,,,2020-05-15,2020-06-24,hospital público
+817,masculino,75,João Pessoa,JOAO PESSOA,2020-05-26,,,,2020-06-22,2020-06-24,hospital público
+818,feminino,30,João Pessoa,JOAO PESSOA,2020-05-29,,,,2020-06-09,2020-06-24,hospital público
+819,feminino,80,João Pessoa,JOAO PESSOA,2020-06-06,,,,2020-06-13,2020-06-24,residência
+820,feminino,79,João Pessoa,JOAO PESSOA,2020-05-03,,,,2020-06-03,2020-06-24,hospital público
+821,feminino,58,João Pessoa,JOAO PESSOA,2020-05-31,,,,2020-06-05,2020-06-24,hospital público
+822,masculino,80,João Pessoa,JOAO PESSOA,2020-05-29,,,,2020-06-09,2020-06-24,hospital público
+823,feminino,56,João Pessoa,JOAO PESSOA,2020-05-20,,,,2020-06-16,2020-06-24,hospital público
+824,masculino,87,João Pessoa,JOAO PESSOA,2020-05-30,,,,2020-06-13,2020-06-24,hospital público
+825,feminino,75,Patos,PATOS,2020-06-13,,,,2020-06-16,2020-06-24,hospital público
+826,masculino,68,Pirpirituba,GUARABIRA,2020-06-13,,,,2020-06-22,2020-06-24,hospital público
+827,masculino,83,Santa Cruz,SOUSA,2020-06-01,,,,2020-06-24,2020-06-24,hospital público
+828,masculino,72,Rio Tinto,LITORAL NORTE,2020-06-10,,,,2020-06-17,2020-06-24,hospital público
