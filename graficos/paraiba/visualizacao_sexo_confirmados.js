@@ -25,12 +25,12 @@ var viewSexoConfirmados = {
 	    }
 	],
 	"layer": [{
-		"mark": {"type": "arc", "innerRadius": 40, "stroke": "#fff"}
+		"mark": {"type": "arc", "innerRadius": 30, "stroke": "#fff"}
 	},{
 		"mark": {
 	    	"type": "text",
-	    	"radiusOffset": 25,
-	    	"fontSize": 30
+	    	"radiusOffset": 30,
+	    	"fontSize": 20
 	    },
 	    "encoding": {
 	    	"text": {
@@ -54,7 +54,7 @@ var viewSexoConfirmados = {
 	    	"scale": {
 	        	"type": "sqrt",
 	        	"zero": true,
-	        	"range": [20, 100]
+	        	"range": [0,80]
 	      	}
 	    },
 	    "color": {
