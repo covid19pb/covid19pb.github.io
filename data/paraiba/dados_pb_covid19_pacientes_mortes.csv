@@ -827,3 +827,17 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 826,masculino,68,Pirpirituba,GUARABIRA,2020-06-13,,,,2020-06-22,2020-06-24,hospital público
 827,masculino,83,Santa Cruz,SOUSA,2020-06-01,,,,2020-06-24,2020-06-24,hospital público
 828,masculino,72,Rio Tinto,LITORAL NORTE,2020-06-10,,,,2020-06-17,2020-06-24,hospital público
+829,masculino,40,Bayeux,JOAO PESSOA,2020-05-28,,,,2020-06-15,2020-06-25,hospital público
+830,feminino,71,Campina Grande,CAMPINA GRANDE,2020-05-13,,,,2020-06-01,2020-06-25,hospital público
+831,masculino,94,Campina Grande,CAMPINA GRANDE,2020-05-24,,,,2020-06-23,2020-06-25,hospital público
+832,feminino,51,Cuité de Mamanguape,LITORAL NORTE,2020-06-15,,,,2020-06-20,2020-06-25,hospital público
+833,feminino,91,João Pessoa,JOAO PESSOA,2020-06-20,,,,2020-06-24,2020-06-25,hospital público
+834,masculino,42,Lagoa Seca,CAMPINA GRANDE,2020-05-13,,,,2020-05-25,2020-06-25,hospital público
+835,feminino,80,Mamanguape,LITORAL NORTE,2020-06-17,,,,2020-06-25,2020-06-25,hospital público
+836,masculino,50,Mari,SAPE,2020-05-29,,,,2020-06-12,2020-06-25,hospital público
+837,feminino,89,Rio Tinto,LITORAL NORTE,2020-06-17,,,,2020-06-24,2020-06-25,hospital público
+838,masculino,55,Salgado de São Félix,ITABAIANA,2020-06-07,,,,2020-06-20,2020-06-25,hospital público
+839,feminino,53,Santa Rita,JOAO PESSOA,2020-06-16,,,,2020-06-20,2020-06-25,hospital público
+840,feminino,91,Santa Rita,JOAO PESSOA,2020-06-02,,,,2020-06-20,2020-06-25,hospital público
+841,feminino,91,São Bento,CATOLE DO ROCHA,2020-06-16,,,,2020-06-23,2020-06-25,hospital público
+842,feminino,79,Serra Branca,CARIRI OCIDENTAL,2020-06-10,,,,2020-06-11,2020-06-25,hospital público
