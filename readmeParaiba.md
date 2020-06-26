@@ -73,7 +73,7 @@ Em BibTeX:
 - **10/04/2020** : Após investigação municipal, ficou esclarecido que o caso que estava contabilizado em Bayeux reside, na verdade, em Santa Rita (Observação presente no boletim da SES desta data).
 - **26/04/2020** : A Paraíba passa a realizar testes rápidos de detecção de covid-19. Antes desta data, eram realizados somente testes RT-PCR.
 - **03/06/2020** : A partir desta data, a Secretaria de Saúde da PB começou a divulgar a quantidade de testes de covid-19 realizados no estado. Antes deste data, contabilizamos a soma dos casos confirmados e descartados por dia para ter a quantidade de testes diários. A hipótese para o número ser diferente, é que testes também poderiam ter resultados inconclusivos (o que não seria confirmado e nem descartado).
-- **18/07/2020** : De acordo com a SES, não foi possível fazer a exportação da base de dados do eSUS VE, devido a indisponibilidade do sistema. Devido a isto, nesta data, houveram números muito baixos.
+- **18/06/2020** : De acordo com a SES, não foi possível fazer a exportação da base de dados do eSUS VE, devido a indisponibilidade do sistema. Devido a isto, nesta data, houveram números muito baixos.
 
 ## Falta de dados
 - **02/04/2020** : Houveram 8 casos confirmados, mas a SES não publicou a idade de 7 dos 8 casos confirmados nesta data.
