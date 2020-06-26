@@ -841,3 +841,25 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 840,feminino,91,Santa Rita,JOAO PESSOA,2020-06-02,,,,2020-06-20,2020-06-25,hospital público
 841,feminino,91,São Bento,CATOLE DO ROCHA,2020-06-16,,,,2020-06-23,2020-06-25,hospital público
 842,feminino,79,Serra Branca,CARIRI OCIDENTAL,2020-06-10,,,,2020-06-11,2020-06-25,hospital público
+843,masculino,84,Araruna,CURIMATAU ORIENTAL,2020-06-08,,,,2020-06-22,2020-06-26,hospital público
+844,masculino,70,Bayeux,JOAO PESSOA,2020-06-03,,,,2020-06-23,2020-06-26,hospital público
+845,feminino,60,Cajazeiras,CAJAZEIRAS,2020-06-10,,,,2020-06-25,2020-06-26,hospital público
+846,masculino,79,Catolé do Rocha,CATOLE DO ROCHA,2020-06-04,,,,2020-06-25,2020-06-26,hospital público
+847,feminino,68,Dona Inês,CURIMATAU ORIENTAL,2020-05-22,,,,2020-06-04,2020-06-26,hospital público
+848,feminino,51,João Pessoa,JOAO PESSOA,2020-06-07,,,,2020-06-24,2020-06-26,hospital público
+849,masculino,95,João Pessoa,JOAO PESSOA,2020-06-10,,,,2020-06-23,2020-06-26,hospital público
+850,masculino,48,João Pessoa,JOAO PESSOA,2020-06-07,,,,2020-06-23,2020-06-26,hospital público
+851,feminino,40,João Pessoa,JOAO PESSOA,2020-05-14,,,,2020-06-18,2020-06-26,hospital público
+852,feminino,66,João Pessoa,JOAO PESSOA,2020-06-03,,,,2020-06-11,2020-06-26,hospital público
+853,masculino,62,João Pessoa,JOAO PESSOA,2020-05-25,,,,2020-06-23,2020-06-26,hospital público
+854,masculino,70,João Pessoa,JOAO PESSOA,2020-05-23,,,,2020-06-22,2020-06-26,hospital público
+855,masculino,71,João Pessoa,JOAO PESSOA,2020-05-02,,,,2020-06-01,2020-06-26,hospital público
+856,masculino,75,Logradouro,GUARABIRA,2020-06-14,,,,2020-06-24,2020-06-26,hospital público
+857,feminino,68,Massaranduba,CAMPINA GRANDE,2020-06-01,,,,2020-06-25,2020-06-26,hospital público
+858,feminino,96,Mataraca,LITORAL NORTE,2020-05-28,,,,2020-06-24,2020-06-26,hospital público
+859,masculino,86,Matinhas,BREJO PARAIBANO,2020-05-26,,,,2020-06-06,2020-06-26,hospital público
+860,feminino,71,Piancó,PIANCO,2020-06-06,,,,2020-06-25,2020-06-26,hospital público
+861,feminino,79,Queimadas,CAMPINA GRANDE,2020-05-22,,,,2020-06-25,2020-05-25,hospital público
+862,feminino,47,Santa Rita,JOAO PESSOA,2020-05-31,,,,2020-06-02,2020-05-25,hospital público
+863,masculino,77,Santa Rita,JOAO PESSOA,2020-05-20,,,,2020-06-04,2020-05-25,hospital público
+864,feminino,55,Sousa,SOUSA,2020-06-02,,,,2020-06-23,2020-05-25,hospital público

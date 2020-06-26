@@ -1,0 +1,864 @@
+Sexo;Doenças preexistentes;Método;Data do Óbito;Município de Residência;Idade;Inicio Sintomas
+Feminino;Doença Neurológica;Swab;2020-06-13;João Pessoa;80;2020-06-06
+Masculino;Sem Comorbidades;Swab;2020-05-01;João Pessoa;73;2020-04-08
+Masculino;Neoplasia, Outros;Swab;2020-05-07;João Pessoa;84;2020-04-23
+Feminino;Cardiopatia;Swab;2020-05-08;Santa Rita;89;2020-05-07
+Masculino;Sem Comorbidades;Swab;2020-05-22;Campina Grande;73;2020-05-12
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-04;Alhandra;84;2020-05-01
+Masculino;Hipertensão, Diabetes Mellitus, Neoplasia;Swab;2020-05-16;João Pessoa;78;2020-04-02
+Masculino;Doença Hepática;Teste Rápido;2020-06-01;Alhandra;44;2020-05-26
+Feminino;Diabetes Mellitus, Cardiopatia;Teste Rápido;2020-05-31;Campina Grande;74;2020-05-17
+Masculino;Sem Comorbidades;Swab;2020-05-14;João Pessoa;71;2020-04-02
+Masculino;Hipertensão, Doença Respiratória;Teste Rápido;2020-05-29;Guarabira;82;2020-05-09
+Feminino;Hipertensão, Obesidade;Swab;2020-05-11;Bayeux;83;2020-05-06
+Feminino;Hipertensão, Diabetes Mellitus, Doença Neurológica;Teste Rápido;2020-05-10;Santa Rita;63;2020-05-08
+Feminino;Diabetes Mellitus;Swab;2020-04-21;Santa Rita;77;2020-04-20
+Masculino;Hipertensão, Diabetes Mellitus, Doença Neurológica;Swab;2020-06-02;João Pessoa;73;2020-05-20
+Masculino;Diabetes Mellitus;Swab;2020-05-29;João Pessoa;74;2020-05-17
+Masculino;Sem Comorbidades;Swab;2020-04-26;Bayeux;63;2020-04-15
+Masculino;Cardiopatia;Swab;2020-05-06;João Pessoa;62;2020-04-24
+Masculino;Sem Comorbidades;Teste Rápido;2020-06-14;Caaporã;85;2020-05-24
+Masculino;Tabagismo, Transtorno mental;Swab;2020-04-26;Boqueirão;54;2020-04-22
+Masculino;Sem Comorbidades;Teste Rápido;2020-04-30;João Pessoa;39;2020-04-19
+Masculino;Diabetes Mellitus, Cardiopatia;Swab;2020-05-25;João Pessoa;92;2020-04-13
+Feminino;Sem Comorbidades;Swab;2020-04-25;Marizópolis;69;2020-04-19
+Masculino;Diabetes Mellitus, Cardiopatia, Obesidade;Teste Rápido;2020-05-29;Paulista;75;2020-05-12
+Masculino;Hipertensão;Teste Rápido;2020-05-27;Sapé;32;2020-05-18
+Feminino;Sem Comorbidades;Teste Rápido;2020-05-15;João Pessoa;60;2020-05-09
+Feminino;Neoplasia;Swab;2020-06-05;João Pessoa;58;2020-05-31
+Masculino;Sem Comorbidades;Teste Rápido;2020-06-10;Belém;74;2020-06-03
+Masculino;Sem Comorbidades;Swab;2020-06-02;Patos;80;2020-05-17
+Masculino;Hipertensão, Diabetes Mellitus, Obesidade;Teste Rápido;2020-06-13;Alagoa Grande;56;2020-06-05
+Feminino;Diabetes Mellitus;Swab;2020-05-10;São Sebastião de Lagoa de Roça;43;2020-04-29
+Feminino;Diabetes Mellitus, Cardiopatia;Swab;2020-06-05;Bayeux;53;2020-06-01
+Masculino;Hipertensão, Tabagismo;Teste Rápido;2020-06-17;Rio Tinto;72;2020-06-10
+Feminino;Cardiopatia;Swab;2020-05-28;Catingueira;84;2020-05-12
+Masculino;Doença Respiratória;Teste Rápido;2020-06-15;Bayeux;40;2020-05-28
+Masculino;Sem Comorbidades;Swab;2020-06-05;Santa Rita;83;2020-05-31
+Feminino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-05;Sapé;66;2020-05-28
+Masculino;Sem Comorbidades;Swab;2020-05-12;Bayeux;75;2020-05-02
+Masculino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-10;Sapé;47;2020-05-22
+Masculino;Diabetes Mellitus, Cardiopatia;Teste Rápido;2020-05-19;Guarabira;50;2020-05-09
+Feminino;Hipertensão, Obesidade;Teste Rápido;2020-06-14;Araruna;38;2020-06-07
+Masculino;Doença Renal;Teste Rápido;2020-06-12;Campina Grande;40;2020-05-26
+Masculino;Hipertensão, Doença Respiratória;Teste Rápido;2020-04-22;Brejo do Cruz;69;2020-04-13
+Feminino;Sem Comorbidades;Swab;2020-04-08;João Pessoa;59;2020-03-28
+Feminino;Diabetes Mellitus;Swab;2020-05-15;Bayeux;92;2020-05-07
+Feminino;Hipertensão, Doença Respiratória;Swab;2020-05-20;João Pessoa;95;2020-05-11
+Masculino;Obesidade;Swab;2020-05-21;João Pessoa;35;2020-05-04
+Feminino;Diabetes Mellitus, Doença Renal;Swab;2020-05-08;Cabedelo;64;2020-04-24
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-11;Mogeiro;43;2020-04-11
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-01;João Pessoa;60;2020-04-29
+Feminino;Sem Comorbidades;Swab;2020-06-03;Patos;80;2020-05-26
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-09;Santa Rita;71;2020-04-21
+Masculino;Cardiopatia, Outros;Swab;2020-05-23;Mari;82;2020-05-09
+Feminino;Doença Neurológica;Swab;2020-05-26;Itabaiana;80;2020-05-14
+Feminino;Sem Comorbidades;Swab;2020-06-08;Patos;74;2020-05-20
+Masculino;Hipertensão, Doença Respiratória;Swab;2020-05-12;Sapé;82;2020-05-01
+Masculino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-05-05;Itapororoca;43;2020-04-17
+Masculino;Sem Comorbidades;Swab;2020-06-08;Campina Grande;65;2020-05-23
+Feminino;Cardiopatia, Outros;C. Epid.;2020-03-23;João Pessoa;95;2020-03-19
+Masculino;Sem Comorbidades;Swab;2020-05-31;João Pessoa;65;2020-05-15
+Masculino;Cardiopatia;Teste Rápido;2020-05-31;Araçagi;69;2020-05-16
+Masculino;Sem Comorbidades;Swab;2020-05-17;Bayeux;83;2020-05-17
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-22;Mari;84;2020-05-06
+Masculino;Sem Comorbidades;Swab;2020-04-28;Bayeux;41;2020-04-20
+Feminino;Sem Comorbidades;Teste Rápido;2020-05-25;Mamanguape;24;2020-05-10
+Masculino;Sem Comorbidades;Swab;2020-06-04;Catolé do Rocha;45;2020-05-08
+Masculino;Diabetes Mellitus;Swab;2020-05-15;Santa Rita;83;2020-05-06
+Masculino;Sem Comorbidades;Swab;2020-05-29;Campina Grande;62;2020-05-09
+Feminino;Cardiopatia;Swab;2020-05-26;Campina Grande;96;2020-05-19
+Masculino;Doença Neurológica;Teste Rápido;2020-06-15;Guarabira;36;2020-06-01
+Masculino;Diabetes Mellitus, Cardiopatia, Obesidade;Swab;2020-06-15;Campina Grande;61;2020-05-25
+Masculino;Sem Comorbidades;Swab;2020-06-21;Campina Grande;83;2020-06-10
+Masculino;Diabetes Mellitus;Swab;2020-05-05;João Pessoa;35;2020-04-25
+Masculino;Diabetes Mellitus;Swab;2020-05-10;João Pessoa;27;2020-05-04
+Feminino;Sem Comorbidades;Swab;2020-06-16;Bayeux;91;2020-05-10
+Feminino;Neoplasia;Teste Rápido;2020-06-18;João Pessoa;40;2020-05-14
+Masculino;Transtorno mental;Swab;2020-04-14;João Pessoa;82;2020-04-02
+Feminino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-16;Bayeux;81;2020-05-21
+Masculino;Outros;Teste Rápido;2020-05-15;João Pessoa;46;2020-05-08
+Masculino;Hipertensão;Swab;2020-06-11;João Pessoa;69;2020-05-21
+Masculino;Hipertensão, Cardiopatia, Obesidade;Swab;2020-04-20;Santa Rita;71;2020-04-17
+Feminino;Cardiopatia;Swab;2020-05-04;João Pessoa;38;2020-04-19
+Feminino;Sem Comorbidades;Swab;2020-06-21;São Domingos do Cariri;87;2020-06-11
+Feminino;Sem Comorbidades;Swab;2020-06-06;Patos;93;2020-05-17
+Masculino;Sem Comorbidades;Swab;2020-06-06;Pedras de Fogo;58;2020-05-25
+Feminino;Sem Comorbidades;Teste Rápido;2020-05-25;Bayeux;89;2020-05-20
+Feminino;Diabetes Mellitus;Teste Rápido;2020-05-12;Sapé;58;2020-04-28
+Masculino;Diabetes Mellitus, Cardiopatia;Swab;2020-06-01;João Pessoa;70;2020-04-10
+Feminino;Hipertensão;Swab;2020-06-20;Patos;93;2020-06-05
+Masculino;Sem Comorbidades;Swab;2020-06-21;Pocinhos;82;2020-06-06
+Feminino;Sem Comorbidades;Swab;2020-06-12;Patos;74;2020-05-23
+Masculino;Sem Comorbidades;Swab;2020-05-14;Lucena;61;2020-05-14
+Masculino;Sem Comorbidades;Swab;2020-05-07;Santa Rita;66;2020-04-27
+Masculino;Hipertensão, Diabetes Mellitus, Outros;Teste Rápido;2020-05-19;Santa Rita;53;2020-05-06
+Masculino;Diabetes Mellitus, Cardiopatia, Neoplasia;Swab;2020-05-14;João Pessoa;90;2020-05-09
+Masculino;Hipertensão;Laboratorial;2020-05-09;Piancó;54;2020-05-06
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-07;São Mamede;95;2020-05-17
+Feminino;Transtorno mental, Doença Hematológica, Outros;C. Epid.;2020-04-12;João Pessoa;46;2020-04-08
+Feminino;Imunossupressão, Outros;Swab;2020-05-14;São Sebastião de Lagoa de Roça;40;2020-04-28
+Masculino;Sem Comorbidades;Swab;2020-06-07;Santa Rita;69;2020-05-27
+Masculino;Sem Comorbidades;Swab;2020-05-31;Jacaraú;74;2020-05-17
+Feminino;Sem Comorbidades;Swab;2020-04-04;João Pessoa;88;2020-03-20
+Feminino;Sem Comorbidades;Teste Rápido;2020-06-19;Santa Rita;80;2020-06-10
+Feminino;Sem Comorbidades;Swab;2020-05-16;Campina Grande;49;2020-05-03
+Masculino;Diabetes Mellitus;Teste Rápido;2020-05-16;Conde;61;2020-05-04
+Feminino;Hipertensão;Swab;2020-04-13;João Pessoa;60;2020-04-08
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-14;Itatuba;42;2020-05-04
+Feminino;Diabetes Mellitus;Swab;2020-06-12;João Pessoa;83;2020-06-06
+Masculino;Diabetes Mellitus, Outros;Swab;2020-05-21;Patos;73;2020-05-18
+Masculino;Doença Renal;Swab;2020-05-17;João Pessoa;77;2020-05-03
+Masculino;Sem Comorbidades;Swab;2020-05-25;Lagoa Seca;42;2020-05-13
+Masculino;Diabetes Mellitus, Doença Renal;Swab;2020-05-23;Bayeux;78;2020-05-15
+Masculino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-13;Conde;51;2020-05-20
+Feminino;Hipertensão;Swab;2020-06-23;Sousa;55;2020-06-02
+Feminino;Cardiopatia, Outros;Teste Rápido;2020-06-05;João pessoa;82;2020-05-29
+Masculino;Hipertensão, Outros;Teste Rápido;2020-05-16;Patos;77;2020-05-06
+Masculino;Sem Comorbidades;Swab;2020-05-20;João Pessoa;1;2020-05-15
+Masculino;Diabetes Mellitus;Teste Rápido;2020-05-27;João Pessoa;34;2020-05-17
+Masculino;Sem Comorbidades;Swab;2020-05-15;Água Branca;75;2020-05-14
+Feminino;Hipertensão, Diabetes Mellitus, Obesidade;Teste Rápido;2020-05-20;João Pessoa;68;2020-05-17
+Masculino;Sem Comorbidades;Swab;2020-05-22;Patos;67;2020-05-05
+Feminino;Sem Comorbidades;Swab;2020-05-19;Água Branca;74;2020-05-19
+Masculino;Hipertensão;Swab;2020-05-24;Bayeux;56;2020-05-18
+Feminino;Sem Comorbidades;Teste Rápido;2020-05-27;Rio Tinto;40;2020-05-18
+Masculino;Sem Comorbidades;Swab;2020-05-22;João Pessoa;42;2020-05-17
+Feminino;Diabetes Mellitus;Swab;2020-05-28;Patos;82;2020-05-14
+Masculino;Hipertensão, Doença Renal;Swab;2020-06-14;Bayeux;70;2020-05-04
+Masculino;Cardiopatia, Doença Respiratória, Outros;Teste Rápido;2020-06-18;Guarabira;83;2020-06-10
+Feminino;Sem Comorbidades;Swab;2020-04-25;Piancó;71;2020-06-06
+Masculino;Hipertensão, Diabetes Mellitus, Cardiopatia, Obesidade, Tabagismo;Teste Rápido;2020-06-12;Campina Grande;64;2020-05-26
+Masculino;Transtorno mental;Swab;2020-05-04;Santa Rita;79;2020-04-26
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-06-08;João Pessoa;82;2020-05-15
+Masculino;Sem Comorbidades;Swab;2020-05-01;João Pessoa;56;2020-04-19
+Masculino;Cardiopatia;Swab;2020-04-21;Bayeux;57;2020-04-04
+Masculino;Doença Renal;Swab;2020-05-21;Itabaiana;42;2020-05-19
+Masculino;Sem Comorbidades;Swab;2020-06-05;João Pessoa;84;2020-04-26
+Masculino;Doença Hepática;Swab;2020-06-03;Cabedelo;56;2020-05-01
+Masculino;Hipertensão, Cardiopatia;Swab;2020-06-08;Patos;84;2020-05-18
+Feminino;Hipertensão, Cardiopatia;Swab;2020-05-13;Remígio;95;2020-05-02
+Feminino;Diabetes Mellitus, Cardiopatia;Teste Rápido;2020-05-15;Cruz do Espírito Santo;81;2020-05-07
+Feminino;Sem Comorbidades;Swab;2020-05-16;João Pessoa;36;2020-05-10
+Feminino;Sem Comorbidades;Swab;2020-04-18;João Pessoa;84;2020-04-06
+Masculino;Cardiopatia;Teste Rápido;2020-06-05;Caaporã;87;2020-05-18
+Masculino;Diabetes Mellitus, Imunossupressão;Swab;2020-06-04;Santa Rita;42;2020-05-29
+Masculino;Diabetes Mellitus, Cardiopatia;Teste Rápido;2020-06-03;João Pessoa;68;2020-05-11
+Feminino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-10;Cruz do Espírito Santo;78;2020-06-02
+Feminino;Cardiopatia;Swab;2020-05-05;João Pessoa;44;2020-04-27
+Masculino;Doença Neurológica;Teste Rápido;2020-06-15;João Pessoa;57;2020-04-22
+Feminino;Hipertensão, Doença Respiratória;Teste Rápido;2020-05-23;Cabedelo;80;2020-05-08
+Feminino;Hipertensão;Teste Rápido;2020-06-01;João Pessoa;25;2020-05-04
+Masculino;Diabetes Mellitus, Cardiopatia;Swab;2020-05-04;Santa Rita;56;2020-04-22
+Masculino;Hipertensão;Swab;2020-06-20;Salgado de São Félix;55;2020-06-07
+Feminino;Hipertensão, Diabetes Mellitus, Cardiopatia, Obesidade;Swab;2020-05-04;Pedras de Fogo;83;2020-04-26
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-06-08;João Pessoa;65;2020-06-04
+Feminino;Sem Comorbidades;Swab;2020-05-16;Campina Grande;66;2020-05-09
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-05-05;João Pessoa;67;2020-04-28
+Masculino;Sem Comorbidades;Swab;2020-05-28;Campina Grande;39;2020-05-09
+Masculino;Doença Neurológica, Outros;Teste Rápido;2020-06-18;Bayeux;19;2020-05-25
+Masculino;Diabetes Mellitus;Teste Rápido;2020-05-09;Cabedelo;71;2020-04-28
+Masculino;Diabetes Mellitus;Teste Rápido;2020-06-11;Sapé;82;2020-05-26
+Masculino;Sem Comorbidades;Swab;2020-03-30;Cabedelo;71;2020-03-23
+Masculino;Hipertensão;Swab;2020-05-29;Mari;79;2020-05-13
+Feminino;Hipertensão;Swab;2020-05-16;João Pessoa;44;2020-04-30
+Feminino;Sem Comorbidades;Swab;2020-04-17;João Pessoa;71;2020-04-16
+Masculino;Diabetes Mellitus;Swab;2020-05-20;Caaporã;64;2020-05-07
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-28;Santa Rita;69;2020-05-26
+Masculino;Cardiopatia;Swab;2020-05-25;Remígio;82;2020-05-14
+Feminino;Hipertensão, Diabetes Mellitus, Cardiopatia;;2020-05-13;João Pessoa;89;2020-04-21
+Feminino;Diabetes Mellitus;Swab;2020-06-01;Pedras de Fogo;38;2020-05-21
+Masculino;Diabetes Mellitus, Cardiopatia, Doença Respiratória;Swab;2020-05-24;Santa Rita;64;2020-05-13
+Feminino;Sem Comorbidades;Swab;2020-05-29;João Pessoa;78;2020-05-15
+Feminino;Doença Respiratória;Teste Rápido;2020-06-25;Cajazeiras;60;2020-06-10
+Masculino;Diabetes Mellitus;Swab;2020-05-08;João Pessoa;57;2020-05-07
+Masculino;Obesidade, Transtorno mental;Swab;2020-04-29;Santa Rita;49;2020-04-23
+Masculino;Hipertensão, Doença Renal;Swab;2020-06-10;Gurinhém;53;2020-06-05
+Masculino;Sem Comorbidades;Swab;2020-06-12;Santa Luzia;66;2020-05-28
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-24;Campina Grande;89;2020-05-23
+Masculino;Sem Comorbidades;Swab;2020-04-04;João Pessoa;43;2020-03-28
+Masculino;Sem Comorbidades;Swab;2020-04-18;João Pessoa;81;2020-04-10
+Masculino;Doença Renal;Swab;2020-05-25;João Pessoa;80;2020-04-29
+Masculino;Sem Comorbidades;Swab;2020-04-27;João Pessoa;54;2020-04-22
+Masculino;Diabetes Mellitus;Teste Rápido;2020-06-04;Santa Rita;56;2020-05-10
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-10;Campina Grande;91;2020-05-05
+Feminino;Hipertensão, Diabetes Mellitus, Cardiopatia;Teste Rápido;2020-06-02;João pessoa;53;2020-05-31
+Masculino;Obesidade;Swab;2020-05-11;Campina Grande;45;2020-05-04
+Masculino;Cardiopatia, Obesidade, Doença Hepática;Teste Rápido;2020-05-31;Bayeux;58;2020-05-24
+Masculino;Sem Comorbidades;Swab;2020-06-19;João Pessoa;69;2020-06-02
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-16;Santa Luzia;87;2020-05-03
+Feminino;Sem Comorbidades;Teste Rápido;2020-06-05;Bayeux;75;2020-05-15
+Masculino;Tabagismo, Etilismo, Imunossupressão;Teste Rápido;2020-05-22;Baía da Traição;43;2020-05-13
+Masculino;Hipertensão, Cardiopatia;Teste Rápido;2020-05-06;João Pessoa;48;2020-04-25
+Feminino;Outros;Swab;2020-05-11;Santa Rita;43;2020-04-22
+Feminino;Diabetes Mellitus, Cardiopatia;Swab;2020-06-09;Juripiranga;89;2020-06-01
+Masculino;Hipertensão;Swab;2020-06-06;Campina Grande;36;2020-05-13
+Masculino;Sem Comorbidades;Swab;2020-05-03;Santa Rita;46;2020-04-06
+Masculino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-10;Bayeux;53;2020-05-12
+Feminino;Doença Renal;Teste Rápido;2020-06-11;João Pessoa;66;2020-06-03
+Masculino;Hipertensão, Cardiopatia;Swab;2020-05-19;Campina Grande;76;2020-05-15
+Masculino;Diabetes Mellitus, Doença do Aparelho Digestivo;Teste Rápido;2020-05-15;Itaporanga;52;2020-04-26
+Feminino;Outros;Teste Rápido;2020-05-14;Santa Rita;61;2020-04-24
+Masculino;Sem Comorbidades;Swab;2020-05-21;João Pessoa;82;2020-05-16
+Masculino;Diabetes Mellitus, Obesidade, Doença Renal, Outros;Teste Rápido;2020-06-14;Campina Grande;65;2020-05-19
+Masculino;Hipertensão, Obesidade;Swab;2020-06-17;Ingá;51;2020-06-06
+Feminino;Hipertensão, Diabetes Mellitus, Doença Neurológica;Teste Rápido;2020-05-19;Itabaiana;75;2020-05-04
+Masculino;Hipertensão;Swab;2020-06-07;Campina Grande;50;2020-05-26
+Feminino;Diabetes Mellitus;Swab;2020-05-24;Campina Grande;93;2020-05-18
+Masculino;Sem Comorbidades;Swab;2020-04-24;Santa Rita;71;2020-04-22
+Masculino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-07;João Pessoa;69;2020-05-24
+Masculino;Diabetes Mellitus, Cardiopatia, Tabagismo;Swab;2020-05-05;João Pessoa;78;2020-04-25
+Feminino;Diabetes Mellitus;Swab;2020-05-10;Santa Rita;71;2020-04-30
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-24;Mamanguape;78;2020-05-15
+Masculino;Diabetes Mellitus, Cardiopatia, Obesidade;Swab;2020-05-30;João Pessoa;64;2020-05-13
+Masculino;Sem Comorbidades;Swab;2020-05-15;João Pessoa;51;2020-04-30
+Masculino;Diabetes Mellitus;Swab;2020-05-30;Santa Rita;51;2020-05-27
+Masculino;Sem Comorbidades;Swab;2020-06-03;João Pessoa;46;2020-06-02
+Feminino;Sem Comorbidades;Teste Rápido;2020-05-26;João Pessoa;59;2020-05-04
+Feminino;Diabetes Mellitus;Swab;2020-05-20;Alhandra;97;2020-05-08
+Masculino;Hipertensão;Swab;2020-05-05;João Pessoa;51;2020-04-19
+Masculino;Doença Renal;Teste Rápido;2020-05-20;João Pessoa;55;2020-05-09
+Masculino;Diabetes Mellitus, Cardiopatia;Swab;2020-04-28;Cabedelo;55;2020-04-25
+Masculino;Sem Comorbidades;Swab;2020-04-22;João Pessoa;38;2020-04-02
+Masculino;Hipertensão;Teste Rápido;2020-06-07;Caldas Brandão;83;2020-05-27
+Masculino;Sem Comorbidades;Swab;2020-05-15;João Pessoa;38;2020-05-10
+Masculino;Sem Comorbidades;Swab;2020-05-21;Campina Grande;89;2020-05-08
+Masculino;Cardiopatia;Swab;2020-06-12;João Pessoa;49;2020-05-20
+Feminino;Obesidade, Doença Respiratória, Outros;Swab;2020-05-08;Bayeux;56;2020-04-26
+Feminino;Diabetes Mellitus, Doença Respiratória;Teste Rápido;2020-06-04;João Pessoa;81;2020-05-25
+Masculino;Sem Comorbidades;Swab;2020-05-23;João Pessoa;82;2020-05-07
+Masculino;Hipertensão, Diabetes Mellitus, Obesidade;Teste Rápido;2020-05-04;Alhandra;64;2020-04-27
+Masculino;Diabetes Mellitus, Cardiopatia, Obesidade;Swab;2020-05-25;João Pessoa;39;2020-05-18
+Feminino;Doença Renal;Swab;2020-05-27;Mamanguape;81;2020-05-09
+Feminino;Sem Comorbidades;Swab;2020-05-26;João Pessoa;82;2020-05-14
+Feminino;Imunossupressão;Teste Rápido;2020-06-02;Cruz do Espírito Santo;32;2020-05-15
+Masculino;Sem Comorbidades;Swab;2020-05-06;Patos;57;2020-04-26
+Feminino;Cardiopatia;Swab;2020-06-14;Pedras de Fogo;85;2020-06-01
+Masculino;Diabetes Mellitus;Swab;2020-06-22;Araruna;84;2020-06-08
+Masculino;Obesidade, Doença Renal;Teste Rápido;2020-05-13;Santa Rita;75;2020-04-20
+Masculino;Sem Comorbidades;Swab;2020-05-31;Patos;21;2020-05-01
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-06-06;Santa Rita;76;2020-05-27
+Feminino;Diabetes Mellitus;Swab;2020-05-20;Bayeux;84;2020-05-11
+Feminino;Sem Comorbidades;Teste Rápido;2020-05-28;Santa Rita;83;2020-05-19
+Feminino;Doença Respiratória, Tabagismo;Teste Rápido;2020-06-24;Mataraca;96;2020-05-28
+Masculino;Diabetes Mellitus;Swab;2020-05-14;João Pessoa;48;2020-04-29
+Masculino;Diabetes Mellitus;Swab;2020-05-09;João Pessoa;84;2020-04-21
+Feminino;Diabetes Mellitus, Cardiopatia, Outros;Swab;2020-05-30;São Bento;81;2020-05-19
+Masculino;Doença Hepática;Teste Rápido;2020-06-17;Rio Tinto;50;2020-06-01
+Feminino;Doença Respiratória;Swab;2020-05-01;João Pessoa;63;2020-04-27
+Masculino;Diabetes Mellitus, Cardiopatia;Swab;2020-06-03;Mataraca;73;2020-05-24
+Feminino;Diabetes Mellitus, Cardiopatia;Swab;2020-05-07;Santa Rita;64;2020-04-20
+Masculino;Hipertensão, Outros;Swab;2020-05-17;João Pessoa;63;2020-04-28
+Feminino;Hipertensão, Diabetes Mellitus, Cardiopatia, Obesidade;Teste Rápido;2020-05-23;Bayeux;36;2020-05-22
+Masculino;Hipertensão, Diabetes Mellitus, Doença Respiratória;Teste Rápido;2020-06-15;Pedras de Fogo;88;2020-05-25
+Masculino;Sem Comorbidades;Swab;2020-06-04;Campina Grande;82;2020-06-02
+Masculino;Doença Hepática;Swab;2020-05-02;Santa Rita;69;2020-04-26
+Masculino;Doença Neurológica;Swab;2020-06-15;Guarabira;34;2020-05-31
+Feminino;Sem Comorbidades;Swab;2020-05-02;Bayeux;80;2020-04-05
+Masculino;Sem Comorbidades;Swab;2020-06-02;Campina Grande;60;2020-05-20
+Masculino;Sem Comorbidades;Swab;2020-06-04;Campina Grande;97;2020-05-27
+Feminino;Hipertensão, Obesidade;Teste Rápido;2020-06-20;Campina Grande;68;2020-05-31
+Feminino;Sem Comorbidades;Swab;2020-03-24;João Pessoa;34;2020-03-13
+Feminino;Hipertensão, Diabetes Mellitus, Cardiopatia, Obesidade;Swab;2020-05-22;Bayeux;72;2020-05-05
+Masculino;Hipertensão, Diabetes Mellitus, Cardiopatia;Swab;2020-05-09;Sapé;47;2020-04-23
+Masculino;Hipertensão, Diabetes Mellitus, Cardiopatia;Swab;2020-05-08;Santa Rita;91;2020-05-04
+Masculino;Diabetes Mellitus, Cardiopatia;Teste Rápido;2020-06-01;Santa Rita;79;2020-05-24
+Feminino;Diabetes Mellitus;Swab;2020-05-21;Santa Rita;71;2020-05-05
+Masculino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-18;Cuitegi;76;2020-06-09
+Masculino;Doença Renal;Swab;2020-05-14;Campina Grande;63;2020-05-03
+Feminino;Cardiopatia;Swab;2020-06-08;Sapé;89;2020-05-28
+Masculino;Doença Neurológica;Teste Rápido;2020-06-14;Caaporã;40;2020-05-18
+Masculino;Sem Comorbidades;Swab;2020-05-06;João Pessoa;5;2020-05-03
+Masculino;Diabetes Mellitus, Cardiopatia;Swab;2020-05-07;Caaporã;68;2020-05-02
+Masculino;Sem Comorbidades;Teste Rápido;2020-06-03;Cajazeiras;86;2020-05-21
+Feminino;Cardiopatia;Swab;2020-05-05;Campina Grande;77;2020-05-02
+Masculino;Sem Comorbidades;Swab;2020-05-24;João Pessoa;34;2020-05-15
+Masculino;Diabetes Mellitus, Obesidade, Tabagismo, Outros;Swab;2020-05-25;Campina Grande;45;2020-05-09
+Masculino;Diabetes Mellitus;Swab;2020-05-11;João Pessoa;47;2020-05-02
+Masculino;Tabagismo;Teste Rápido;2020-05-08;João Pessoa;79;2020-05-03
+Feminino;Sem Comorbidades;Swab;2020-05-23;Patos;70;2020-05-16
+Feminino;Diabetes Mellitus;Teste Rápido;2020-06-09;Mataraca;56;2020-05-24
+Masculino;Doença Neurológica, Doença Renal, Imunossupressão, Outros;Teste Rápido;2020-05-22;Pedras de Fogo;63;2020-05-05
+Masculino;Sem Comorbidades;Swab;2020-06-13;Patos;50;2020-06-02
+Masculino;Doença Renal;Swab;2020-04-30;Cruz do Espírito Santo;68;2020-04-25
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-05-30;Campina Grande;82;2020-05-27
+Feminino;Diabetes Mellitus, Cardiopatia;Swab;2020-05-21;João Pessoa;66;2020-05-12
+Masculino;Hipertensão;Swab;2020-05-13;Santa Luzia;54;2020-05-01
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-05-09;Santa Rita;67;2020-04-28
+Masculino;Imunossupressão;Swab;2020-06-08;João Pessoa;24;2020-05-22
+Masculino;Hipertensão, Cardiopatia, Obesidade;Teste Rápido;2020-05-13;João Pessoa;38;2020-05-08
+Feminino;Cardiopatia;Swab;2020-06-05;Santa Rita;83;2020-05-29
+Masculino;Imunossupressão;Swab;2020-04-13;Patos;42;2020-04-07
+Feminino;Doença Neurológica, Outros;C. Epid.;2020-05-05;João Pessoa;94;2020-05-05
+Feminino;Sem Comorbidades;Teste Rápido;2020-06-03;Juripiranga;83;2020-05-22
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-06-07;Cabedelo;40;2020-06-02
+Masculino;Doença Neurológica;Swab;2020-06-14;Campina Grande;81;2020-05-30
+Masculino;Sem Comorbidades;Swab;2020-05-12;Campina Grande;63;2020-05-02
+Masculino;Sem Comorbidades;Swab;2020-06-12;Campina Grande;87;2020-06-02
+Feminino;Sem Comorbidades;Teste Rápido;2020-05-25;Queimadas;79;2020-05-22
+Feminino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-05;Sapé;70;2020-05-20
+Masculino;Diabetes Mellitus;Teste Rápido;2020-05-20;Cajazeiras;35;2020-05-08
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-22;Cajazeiras;83;2020-05-09
+Feminino;Sem Comorbidades;Swab;2020-04-22;Santa Rita;44;2020-03-30
+Masculino;Sem Comorbidades;Swab;2020-06-06;Campina Grande;74;2020-05-15
+Masculino;Sem Comorbidades;Swab;2020-05-20;João Pessoa;92;2020-05-13
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-05-24;Mato Grosso;88;2020-05-22
+Feminino;Diabetes Mellitus, Obesidade, Doença Respiratória;Teste Rápido;2020-06-18;Mamanguape;68;2020-06-14
+Masculino;Sem Comorbidades;Swab;2020-05-13;Bayeux;66;2020-05-01
+Feminino;Hipertensão;Teste Rápido;2020-05-30;Patos;71;2020-05-16
+Masculino;Hipertensão, Cardiopatia;Teste Rápido;2020-05-20;Patos;71;2020-04-25
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-06-23;João Pessoa;62;2020-05-25
+Feminino;Hipertensão, Diabetes Mellitus;;2020-05-12;João Pessoa;87;2020-04-10
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-06-11;Teixeira;80;2020-05-28
+Feminino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-20;João Pessoa;92;2020-05-31
+Masculino;Sem Comorbidades;Swab;2020-05-10;Bayeux;86;2020-05-07
+Masculino;Hipertensão, Cardiopatia, Etilismo;Swab;2020-05-19;João Pessoa;54;2020-05-15
+Masculino;Hipertensão, Diabetes Mellitus, Doença Renal;Teste Rápido;2020-05-13;Santa Rita;67;2020-05-06
+Masculino;Doença Renal;Teste Rápido;2020-05-26;João Pessoa;52;2020-05-07
+Feminino;Cardiopatia, Obsidade;Swab;2020-06-11;Serra Branca;79;2020-06-11
+Masculino;Diabetes Mellitus, Cardiopatia, Doença Respiratória;Teste Rápido;2020-06-22;João Pessoa;70;2020-05-23
+Masculino;Diabetes Mellitus, Cardiopatia, Outros;Swab;2020-05-07;João Pessoa;68;2020-05-06
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-06-07;Juripiranga;58;2020-06-06
+Feminino;Sem Comorbidades;Swab;2020-05-08;Congo;84;2020-05-01
+Masculino;Doença Renal, Doença Respiratória;Swab;2020-06-18;Belém;64;2020-05-21
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-04-22;João Pessoa;77;2020-04-06
+Masculino;Cardiopatia, Etilismo;Swab;2020-04-29;João Pessoa;51;2020-04-25
+Masculino;Diabetes Mellitus;Swab;2020-05-30;Sapé;73;2020-05-23
+Masculino;Hipertensão;Swab;2020-05-18;Santa Rita;80;2020-05-11
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-06-16;Mari;68;2020-06-08
+Feminino;Sem Comorbidades;Swab;2020-04-16;João Pessoa;93;2020-04-07
+Feminino;Sem Comorbidades;Teste Rápido;2020-05-24;Guarabira;68;2020-05-22
+Masculino;Diabetes Mellitus, Obesidade;Swab;2020-05-22;Patos;48;2020-04-29
+Masculino;Doença Respiratória;Swab;2020-05-26;Campina Grande;22;2020-05-07
+Masculino;Hipertensão, Diabetes Mellitus, Obesidade;Swab;2020-05-12;São Bento;58;2020-05-04
+Masculino;Imunossupressão;Swab;2020-04-15;Campina Grande;67;2020-04-09
+Masculino;Sem Comorbidades;Swab;2020-05-24;João Pessoa;56;2020-05-11
+Feminino;Sem Comorbidades;Swab;2020-05-20;Cruz do Espírito Santo;95;2020-05-11
+Feminino;Hipertensão, Diabetes Mellitus, Doença Renal;Swab;2020-06-24;João Pessoa;51;2020-06-07
+Masculino;Sem Comorbidades;Swab;2020-06-03;Guarabira;68;2020-05-28
+Feminino;Sem Comorbidades;Teste Rápido;2020-05-24;Santa Rita;23;2020-05-02
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-06-10;Cacimbas;82;2020-06-01
+Masculino;Sem Comorbidades;Swab;2020-04-29;João Pessoa;39;2020-04-22
+Masculino;Sem Comorbidades;Swab;2020-06-08;Rio Tinto;54;2020-05-22
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-03-31;Patos;36;2020-03-25
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-06-07;São Mamede;73;2020-05-16
+Masculino;Sem Comorbidades;Swab;2020-05-18;João Pessoa;64;2020-05-06
+Feminino;Sem Comorbidades;Swab;2020-05-15;João Pessoa;71;2020-05-07
+Feminino;Outros;Teste Rápido;2020-05-27;João Pessoa;43;2020-05-23
+Masculino;Hipertensão;Swab;2020-05-19;Campina Grande;72;2020-05-19
+Masculino;Diabetes Mellitus;Swab;2020-06-07;Campina Grande;85;2020-05-30
+Feminino;Tabagismo;Swab;2020-06-07;Princesa Isabel;73;2020-05-31
+Feminino;Obesidade;Swab;2020-06-09;João Pessoa;30;2020-05-29
+Feminino;Diabetes Mellitus, Cardiopatia;Teste Rápido;2020-06-25;Mamanguape;80;2020-06-17
+Masculino;Sem Comorbidades;Swab;2020-05-27;João Pessoa;110;2020-05-17
+Masculino;Doença Hepática;Swab;2020-06-23;Bayeux;70;2020-06-03
+Feminino;Doença do Aparelho Digestivo;Swab;2020-05-08;João Pessoa;85;2020-05-01
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-05;João Pessoa;82;2020-05-01
+Masculino;Hipertensão, Diabetes Mellitus, Doença Respiratória;Teste Rápido;2020-06-18;Araruna;89;2020-05-08
+Masculino;Doença Hepática;Teste Rápido;2020-05-30;João Pessoa;51;2020-05-24
+Feminino;Sem Comorbidades;Swab;2020-05-25;Campina Grande;42;2020-05-11
+Feminino;Hipertensão;Swab;2020-05-30;Campina Grande;65;2020-05-11
+Feminino;Doença Neurológica;Teste Rápido;2020-06-03;Bayeux;79;2020-05-14
+Feminino;Diabetes Mellitus;Teste Rápido;2020-06-11;Pedras de Fogo;79;2020-05-15
+Feminino;Diabetes Mellitus;Teste Rápido;2020-06-13;Itapororoca;73;2020-05-27
+Masculino;Doença Respiratória;Swab;2020-06-25;Catolé do Rocha;79;2020-06-04
+Feminino;Hipertensão;Teste Rápido;2020-06-01;Guarabira;91;2020-05-19
+Feminino;Cardiopatia;Swab;2020-06-14;João Pessoa;73;2020-05-14
+Masculino;Sem Comorbidades;Teste Rápido;2020-06-11;João Pessoa;91;2020-06-04
+Masculino;Sem Comorbidades;Swab;2020-06-04;João Pessoa;95;2020-05-18
+Masculino;Hipertensão, Doença Neurológica;Swab;2020-06-09;João Pessoa;80;2020-05-29
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-19;Bayeux;73;2020-05-14
+Masculino;Diabetes Mellitus;Swab;2020-06-16;Campina Grande;97;2020-06-16
+Masculino;Sem Comorbidades;Swab;2020-06-03;João Pessoa;84;2020-05-15
+Masculino;Imunossupressão, Doença Hepática;Swab;2020-06-23;João Pessoa;48;2020-06-07
+Feminino;Cardiopatia, Doença Hematológica;Swab;2020-06-11;Santa Rita;79;2020-05-25
+Feminino;Hipertensão, Outros;Swab;2020-05-15;João Pessoa;38;2020-04-30
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-05-18;Santa Rita;60;2020-05-13
+Masculino;Sem Comorbidades;Swab;2020-06-21;Campina Grande;58;2020-06-16
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-06-03;Campina Grande;58;2020-05-10
+Feminino;Cardiopatia;Teste Rápido;2020-06-04;Ingá;87;2020-05-29
+Masculino;Sem Comorbidades;Swab;2020-05-21;Campina Grande;48;2020-05-21
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-20;Cachoeira dos Índios;66;2020-05-04
+Masculino;Cardiopatia;Swab;2020-05-09;João Pessoa;87;2020-05-08
+Feminino;Hipertensão;Swab;2020-04-14;João Pessoa;85;2020-04-02
+Feminino;Doença Neurológica;Teste Rápido;2020-06-20;João Pessoa;80;2020-06-13
+Masculino;Hipertensão;Teste Rápido;2020-06-08;Caaporã;47;2020-05-18
+Masculino;Doença Respiratória, Tabagismo;Swab;2020-06-04;João Pessoa;44;2020-05-30
+Feminino;Sem Comorbidades;Teste Rápido;2020-05-12;Santa Rita;68;2020-05-05
+Masculino;Sem Comorbidades;Teste Rápido;2020-06-03;João Pessoa;69;2020-05-12
+Feminino;Cardiopatia;Teste Rápido;2020-05-24;João Pessoa;75;2020-05-20
+Masculino;Hipertensão, Tabagismo, Etilismo;Swab;2020-05-19;João Pessoa;73;2020-05-13
+Masculino;Hipertensão, Diabetes Mellitus, Doença Neurológica;Teste Rápido;2020-06-12;João Pessoa;87;2020-05-31
+Masculino;Hipertensão, Diabetes Mellitus, Cardiopatia;Swab;2020-06-13;Sapé;53;2020-06-02
+Masculino;Hipertensão;Teste Rápido;2020-05-20;Santa Rita;73;2020-05-16
+Feminino;Sem Comorbidades;Swab;2020-05-06;Santa Rita;37;2020-04-24
+Feminino;Diabetes Mellitus, Doença Hematológica;Swab;2020-05-23;João Pessoa;65;2020-04-03
+Feminino;Sem Comorbidades;Swab;2020-05-17;Alagoa Grande;76;2020-05-01
+Feminino;Sem Comorbidades;Swab;2020-04-11;Taperoá;4;2020-03-28
+Feminino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-12;João Pessoa;88;2020-05-24
+Masculino;Sem Comorbidades;Swab;2020-06-12;Pedras de Fogo;39;2020-06-03
+Masculino;Cardiopatia;Swab;2020-05-14;Cuitegi;4;2020-04-25
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-28;Campina Grande;80;2020-05-07
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-06-08;Bayeux;86;2020-05-26
+Feminino;Sem Comorbidades;Swab;2020-05-19;Bayeux;41;2020-05-01
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-06-23;São Bento;74;2020-06-16
+Masculino;Obesidade;Swab;2020-05-15;Alhandra;41;2020-05-08
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-05-16;João Pessoa;80;2020-05-12
+Masculino;Sem Comorbidades;Swab;2020-05-18;João Pessoa;61;2020-04-26
+Feminino;Diabetes Mellitus, Cardiopatia;Teste Rápido;2020-05-08;João Pessoa;88;2020-05-01
+Feminino;Diabetes Mellitus;Swab;2020-05-24;Santa Rita;55;2020-05-15
+Feminino;Hipertensão, Outros;Swab;2020-05-15;Santa Rita;56;2020-04-25
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-14;Gado Bravo;56;2020-05-09
+Masculino;Sem Comorbidades;Teste Rápido;2020-06-10;Duas Estradas;73;2020-06-09
+Masculino;Diabetes Mellitus;Swab;2020-05-30;Campina Grande;69;2020-05-04
+Masculino;Doença Neurológica;Swab;2020-05-09;Campina Grande;41;2020-04-25
+Masculino;Sem Comorbidades;Swab;2020-04-13;João Pessoa;68;2020-03-31
+Masculino;Sem Comorbidades;Swab;2020-06-03;Cajazeiras;81;2020-05-17
+Feminino;Cardiopatia;Teste Rápido;2020-06-21;Esperança;67;2020-06-01
+Masculino;Hipertensão;Swab;2020-04-20;Cajazeiras;68;2020-04-10
+Feminino;Cardiopatia;Swab;2020-05-18;Campina Grande;97;2020-05-12
+Masculino;Sem Comorbidades;Swab;2020-05-27;Cruz do Espírito Santo;58;2020-04-29
+Feminino;Hipertensão;Swab;2020-06-21;Campina Grande;52;2020-06-15
+Feminino;Cardiopatia, Obesidade;Teste Rápido;2020-06-04;Itapororoca;78;2020-05-25
+Masculino;Outros;Swab;2020-06-04;Bayeux;93;2020-05-26
+Feminino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-10;Rio Tinto;75;2020-06-01
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-06-08;João Pessoa;70;2020-05-17
+Masculino;Sem Comorbidades;Swab;2020-05-10;João Pessoa;97;2020-04-25
+Feminino;Doença Neurológica, Outros;Swab;2020-05-18;Campina Grande;90;2020-05-06
+Masculino;Sem Comorbidades;Teste Rápido;2020-06-07;João Pessoa;58;2020-06-05
+Feminino;Sem Comorbidades;Swab;2020-05-21;Campina Grande;76;2020-05-20
+Masculino;Doença Neurológica, Outros;Teste Rápido;2020-05-18;Bayeux;83;2020-05-15
+Feminino;Doença Neurológica;Swab;2020-06-09;João pessoa;77;2020-05-01
+Feminino;Sem Comorbidades;Swab;2020-06-20;Cuité de Mamanguape;51;2020-06-15
+Masculino;Sem Comorbidades;Swab;2020-05-07;João Pessoa;78;2020-04-27
+Masculino;Doença Respiratória, Tabagismo;Swab;2020-06-12;João Pessoa;56;2020-05-20
+Masculino;Cardiopatia;Swab;2020-05-19;João Pessoa;80;2020-05-09
+Masculino;Cardiopatia;Swab;2020-05-28;Guarabira;90;2020-05-27
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-28;Mamanguape;59;2020-05-19
+Feminino;Sem Comorbidades;Swab;2020-04-29;João Pessoa;77;2020-04-23
+Masculino;Cardiopatia;Swab;2020-05-06;Patos;61;2020-04-06
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-06-21;Bananeiras;44;2020-06-08
+Feminino;Hipertensão;Teste Rápido;2020-05-25;Campina Grande;80;2020-05-10
+Masculino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-04;Santa Rita;69;2020-05-10
+Feminino;Hipertensão, Obesidade;Swab;2020-06-05;Santa Rita;42;2020-06-01
+Masculino;Sem Comorbidades;Teste Rápido;2020-06-12;Mari;50;2020-05-29
+Masculino;Sem Comorbidades;Swab;2020-05-20;Barra de São Miguel;61;2020-05-10
+Masculino;Etilismo;Swab;2020-05-14;João Pessoa;38;2020-05-10
+Feminino;Hipertensão;Swab;2020-05-11;Santa Rita;63;2020-05-05
+Feminino;Cardiopatia, Obesidade;Teste Rápido;2020-05-29;João Pessoa;65;2020-05-23
+Feminino;Obesidade, Tabagismo;Swab;2020-06-03;Campina Grande;50;2020-05-21
+Feminino;Hipertensão, Tabagismo;Swab;2020-06-02;Bayeux;74;2020-05-09
+Masculino;Hipertensão, Diabetes Mellitus, Doença Neurológica;Teste Rápido;2020-05-29;João Pessoa;68;2020-05-16
+Feminino;Sem Comorbidades;Swab;2020-06-02;Campina Grande;70;2020-05-02
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-27;Juripiranga;78;2020-05-17
+Masculino;Hipertensão;Swab;2020-05-08;Santa Rita;87;2020-04-28
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-06-08;Patos;74;2020-06-04
+Feminino;Hipertensão;Swab;2020-05-14;Pedras de Fogo;88;2020-04-30
+Masculino;Sem Comorbidades;Swab;2020-06-01;João Pessoa;71;2020-05-02
+Masculino;Cardiopatia;Swab;2020-04-16;Santa Rita;76;2020-04-15
+Feminino;Diabetes Mellitus;Swab;2020-05-22;João Pessoa;70;2020-05-14
+Feminino;Sem Comorbidades;Swab;2020-04-09;João Pessoa;94;2020-04-05
+Feminino;Obesidade, Outros;Teste Rápido;2020-05-23;Baía da Traição;76;2020-05-11
+Feminino;Cardiopatia, Doença Respiratória, Tabagismo;Teste Rápido;2020-06-12;Esperança;72;2020-05-24
+Feminino;Hipertensão, Diabetes Mellitus, Doença Hepática, Outros;Swab;2020-05-10;Caiçara;65;2020-04-28
+Masculino;Sem Comorbidades;Swab;2020-06-13;João Pessoa;87;2020-05-30
+Feminino;Sem Comorbidades;Teste Rápido;2020-05-18;Patos;84;2020-05-02
+Feminino;Sem Comorbidades;Swab;2020-04-24;João Pessoa;68;2020-04-20
+Feminino;Doença Neurológica, Doença Respiratória, Transtorno mental, Outros;Swab;2020-05-11;Alagoa Nova;28;2020-05-10
+Feminino;Cardiopatia;Swab;2020-05-03;Santa Rita;76;2020-04-28
+Feminino;Hipertensão;Teste Rápido;2020-06-18;Rio Tinto;87;2020-06-12
+Feminino;Sem Comorbidades;Swab;2020-05-09;Patos;84;2020-04-29
+Masculino;Hipertensão, Diabetes Mellitus, Tabagismo;Teste Rápido;2020-05-31;João Pessoa;68;2020-05-10
+Masculino;Sem Comorbidades;Swab;2020-05-21;Caaporã;61;2020-04-19
+Masculino;Cardiopatia;Teste Rápido;2020-05-27;João Pessoa;81;2020-05-09
+Masculino;Sem Comorbidades;Swab;2020-05-19;João Pessoa;59;2020-05-05
+Masculino;Cardiopatia, Doença Renal;Teste Rápido;2020-05-30;João Pessoa;80;2020-05-20
+Masculino;Hipertensão, Cardiopatia;Teste Rápido;2020-05-17;João Pessoa;83;2020-05-14
+Masculino;Hipertensão;Swab;2020-05-16;João Pessoa;75;2020-05-01
+Masculino;Diabetes Mellitus, Cardiopatia, Doença Respiratória;Swab;2020-05-10;Santa Rita;80;2020-04-27
+Masculino;Sem Comorbidades;Swab;2020-05-02;João Pessoa;54;2020-04-21
+Masculino;Cardiopatia;Teste Rápido;2020-05-10;Campina Grande;91;2020-05-01
+Feminino;Sem Comorbidades;Swab;2020-05-22;João Pessoa;81;2020-05-11
+Masculino;Sem Comorbidades;Swab;2020-05-23;Patos;66;2020-05-17
+Feminino;Cardiopatia;Swab;2020-06-06;Mamanguape;47;2020-05-26
+Masculino;Doença Respiratória;Teste Rápido;2020-05-29;João Pessoa;98;2020-05-27
+Masculino;Sem Comorbidades;Swab;2020-05-06;Bayeux;53;2020-04-23
+Masculino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-04;João Pessoa;83;2020-05-23
+Masculino;Tabagismo, Etilismo, Doença Hepática;Teste Rápido;2020-05-20;Cruz do Espírito Santo;57;2020-05-15
+Masculino;Diabetes Mellitus;Teste Rápido;2020-05-17;Cajazeiras;62;2020-05-02
+Masculino;Diabetes Mellitus;Swab;2020-05-26;Santa Rita;85;2020-05-23
+Masculino;Hipertensão, Diabetes Mellitus, Cardiopatia, Tabagismo;C. Epid.;2020-04-13;Riachão do Poço;57;2020-04-10
+Masculino;Diabetes Mellitus;Teste Rápido;2020-05-29;Caldas Brandão;84;2020-05-07
+Masculino;Cardiopatia;Swab;2020-04-10;João Pessoa;87;2020-03-30
+Masculino;Diabetes Mellitus, Cardiopatia;Swab;2020-06-14;João Pessoa;65;2020-05-19
+Feminino;Hipertensão, Cardiopatia;Swab;2020-06-02;Alagoa Grande;62;2020-04-07
+Masculino;Diabetes Mellitus;Swab;2020-05-22;Santa Rita;72;2020-04-28
+Feminino;Outros;Swab;2020-05-30;Santa Rita;87;2020-05-26
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-06-07;Patos;49;2020-05-14
+Masculino;Sem Comorbidades;Swab;2020-04-21;João Pessoa;95;2020-04-07
+Masculino;Sem Comorbidades;Swab;2020-04-21;João Pessoa;56;2020-04-09
+Feminino;Hipertensão;Swab;2020-05-17;Uiraúna;84;2020-05-07
+Masculino;Sem Comorbidades;Swab;2020-05-19;Tacima;73;2020-04-26
+Masculino;Hipertensão, Diabetes Mellitus, Tabagismo;Teste Rápido;2020-06-14;João pessoa;64;2020-06-08
+Feminino;Sem Comorbidades;Swab;2020-05-27;Santa Rita;61;2020-05-20
+Feminino;Diabetes Mellitus;Swab;2020-06-16;João Pessoa;56;2020-05-20
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-03;Santa Rita;40;2020-04-03
+Feminino;Doença Neurológica, Doença Renal, Outros;Swab;2020-05-09;Santa Rita;20;2020-04-28
+Masculino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-21;João Pessoa;95;2020-06-14
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-06-03;João Pessoa;79;2020-05-03
+Masculino;Sem Comorbidades;Swab;2020-05-10;João Pessoa;68;2020-04-22
+Masculino;Doença Renal;Swab;2020-06-12;João Pessoa;64;2020-05-27
+Masculino;Doença Neurológica;Swab;2020-05-12;Santa Rita;71;2020-05-08
+Feminino;Doença Renal;Swab;2020-05-12;Cruz do Espírito Santo;45;2020-04-26
+Feminino;Sem Comorbidades;Swab;2020-05-30;Mamanguape;54;2020-05-24
+Feminino;Sem Comorbidades;Swab;2020-05-11;João Pessoa;80;2020-04-29
+Masculino;Sem Comorbidades;Swab;2020-05-15;Sapé;56;2020-05-10
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-25;Catolé do Rocha;85;2020-05-10
+Masculino;Doença Renal, Etilismo, Doença Hepática;Teste Rápido;2020-06-02;Pitimbu;55;2020-05-20
+Feminino;Doença Neurológica;Swab;2020-05-15;Santa Rita;84;2020-04-30
+Masculino;Hipertensão, Cardiopatia, Etilismo;Swab;2020-05-03;João Pessoa;61;2020-04-12
+Masculino;Sem Comorbidades;Swab;2020-05-25;Catolé do Rocha;87;2020-05-08
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-04-13;Sapé;84;2020-04-06
+Feminino;Diabetes Mellitus;Teste Rápido;2020-06-06;Sapé;85;2020-05-21
+Masculino;Sem Comorbidades;Swab;2020-06-01;João Pessoa;39;2020-05-16
+Masculino;Hipertensão;Swab;2020-05-09;João Pessoa;76;2020-04-26
+Feminino;Hipertensão, Diabetes Mellitus, Doença Hematológica;Teste Rápido;2020-06-18;Araçagi;77;2020-05-26
+Masculino;Hipertensão;Teste Rápido;2020-06-15;João pessoa;80;2020-05-16
+Feminino;Sem Comorbidades;Swab;2020-06-09;João Pessoa;55;2020-06-01
+Masculino;Hipertensão;Swab;2020-04-06;Bayeux;91;2020-03-30
+Feminino;Hipertensão, Diabetes Mellitus, Obesidade;Swab;2020-04-28;Patos;40;2020-04-25
+Masculino;Hipertensão, Cardiopatia;Teste Rápido;2020-04-30;Santa Rita;57;2020-04-15
+Masculino;Sem Comorbidades;Swab;2020-05-17;João Pessoa;63;2020-05-04
+Feminino;Sem Comorbidades;Teste Rápido;2020-06-02;Santa Rita;47;2020-05-31
+Masculino;Obesidade;Swab;2020-06-04;João Pessoa;50;2020-05-25
+Feminino;Sem Comorbidades;Teste Rápido;2020-05-26;João Pessoa;70;2020-05-15
+Masculino;Diabetes Mellitus;Swab;2020-05-09;Cabedelo;81;2020-05-06
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-22;Bayeux;80;2020-05-13
+Feminino;Hipertensão;Teste Rápido;2020-06-16;Bayeux;65;2020-05-28
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-14;João Pessoa;65;2020-05-04
+Feminino;Hipertensão, Diabetes Mellitus, Outros;Swab;2020-05-08;João Pessoa;82;2020-05-04
+Masculino;Sem Comorbidades;Swab;2020-05-12;Patos;50;2020-05-03
+Masculino;Sem Comorbidades;Swab;2020-06-17;Catingueira;96;2020-06-10
+Masculino;Diabetes Mellitus, Cardiopatia, Doença Neurológica;Swab;2020-05-08;João Pessoa;79;2020-04-16
+Feminino;Hipertensão, Cardiopatia, Doença Neurológica, Doença Hematológica, Outros;Swab;2020-04-19;João Pessoa;84;2020-04-02
+Masculino;Sem Comorbidades;Swab;2020-03-30;João Pessoa;34;2020-03-20
+Masculino;Outros;Swab;2020-06-18;Patos;35;2020-06-04
+Feminino;Diabetes Mellitus, Cardiopatia;Teste Rápido;2020-06-25;Massaranduba;68;2020-06-01
+Feminino;Obesidade;Swab;2020-05-05;Patos;41;2020-04-29
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-30;Bayeux;72;2020-05-19
+Masculino;Sem Comorbidades;Swab;2020-06-03;Cuité;45;2020-05-12
+Masculino;Cardiopatia;Teste Rápido;2020-06-21;Cajazeiras;84;2020-06-01
+Feminino;Sem Comorbidades;Swab;2020-05-09;Santa Rita;65;2020-04-27
+Masculino;Hipertensão;Swab;2020-05-08;Santa Rita;84;2020-05-07
+Masculino;Diabetes Mellitus, Cardiopatia, Tabagismo, Etilismo;Swab;2020-05-29;João Pessoa;82;2020-05-26
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-06-23;João Pessoa;95;2020-06-10
+Masculino;Diabetes Mellitus;Teste Rápido;2020-06-14;Cajazeiras;76;2020-05-21
+Feminino;Diabetes Mellitus, Cardiopatia, Obesidade;Teste Rápido;2020-06-03;Mamanguape;66;2020-05-21
+Masculino;Hipertensão;Swab;2020-06-18;São José do Bonfim;87;2020-05-21
+Masculino;Sem Comorbidades;Swab;2020-04-24;Conde;50;2020-04-11
+Feminino;Hipertensão;Teste Rápido;2020-05-16;Campina Grande;64;2020-05-08
+Masculino;Imunossupressão;Swab;2020-06-22;Itabaiana;35;2020-06-02
+Masculino;Sem Comorbidades;Swab;2020-04-10;João Pessoa;88;2020-04-06
+Masculino;Sem Comorbidades;Swab;2020-05-22;Lagoa Seca;48;2020-05-09
+Feminino;Sem Comorbidades;Swab;2020-06-05;Santa Rita;66;2020-05-21
+Masculino;Cardiopatia, Imunossupressão;Swab;2020-05-25;João Pessoa;80;2020-05-07
+Masculino;Cardiopatia, Doença Neurológica, Doença Respiratória;Swab;2020-05-16;Bayeux;85;2020-05-10
+Masculino;Doença Renal;Teste Rápido;2020-05-16;Pedras de Fogo;79;2020-04-30
+Masculino;Hipertensão, Cardiopatia;Swab;2020-06-22;João Pessoa;75;2020-05-26
+Masculino;Diabetes Mellitus;Teste Rápido;2020-05-21;João Pessoa;71;2020-05-07
+Feminino;Doença Neurológica;Swab;2020-06-09;Sousa;56;2020-05-30
+Feminino;Doença Renal, Doença Respiratória;Swab;2020-04-28;João Pessoa;20;2020-04-24
+Feminino;Sem Comorbidades;Swab;2020-06-06;João Pessoa;85;2020-05-24
+Masculino;Sem Comorbidades;Swab;2020-06-23;Campina Grande;94;2020-05-24
+Feminino;Sem Comorbidades;Swab;2020-05-25;Patos;72;2020-04-26
+Feminino;Hipertensão, Diabetes Mellitus, Doença Respiratória;Teste Rápido;2020-06-17;Conde;84;2020-06-10
+Masculino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-02;João Pessoa;70;2020-05-25
+Feminino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-05-25;Santa Rita;60;2020-05-07
+Masculino;Tabagismo;Swab;2020-06-04;João Pessoa;61;2020-05-26
+Feminino;Sem Comorbidades;Teste Rápido;2020-05-11;João Pessoa;77;2020-05-04
+Masculino;Sem Comorbidades;Teste Rápido;2020-06-03;Campina Grande;83;2020-05-28
+Masculino;Doença Neurológica, Doença Renal;Swab;2020-05-16;João Pessoa;80;2020-05-12
+Masculino;Hipertensão;Swab;2020-05-08;Bayeux;67;2020-04-23
+Feminino;Diabetes Mellitus, Doença Hematológica;Swab;2020-06-05;Nazarezinho;61;2020-05-29
+Masculino;Sem Comorbidades;Swab;2020-05-09;Santa Rita;93;2020-04-29
+Masculino;Hipertensão;Swab;2020-05-24;Campina Grande;67;2020-04-19
+Feminino;Hipertensão, Diabetes Mellitus, Cardiopatia, Obesidade;Teste Rápido;2020-05-19;Capim;41;2020-05-05
+Masculino;Hipertensão, Doença Hepática, Outros;Teste Rápido;2020-06-03;João Pessoa;75;2020-05-25
+Masculino;Sem Comorbidades;Swab;2020-05-09;João Pessoa;75;2020-04-28
+Masculino;Obesidade, Outros;Swab;2020-05-09;Patos;41;2020-05-01
+Feminino;Obesidade;Swab;2020-05-29;João Pessoa;58;2020-05-12
+Feminino;Sem Comorbidades;Teste Rápido;2020-06-05;João Pessoa;80;2020-06-05
+Masculino;Etilismo;Swab;2020-05-04;Lagoa Seca;59;2020-04-18
+Feminino;Sem Comorbidades;Teste Rápido;2020-04-14;João Pessoa;86;2020-04-01
+Masculino;Hipertensão, Doença Renal;Swab;2020-05-27;João Pessoa;40;2020-05-18
+Feminino;Sem Comorbidades;Teste Rápido;2020-05-28;João Pessoa;56;2020-05-19
+Masculino;Hipertensão, Cardiopatia, Doença Neurológica;Swab;2020-04-27;Umbuzeiro;95;2020-04-26
+Feminino;Sem Comorbidades;Teste Rápido;2020-06-08;João Pessoa;75;2020-05-27
+Masculino;Diabetes Mellitus;Teste Rápido;2020-05-26;Itabaiana;80;2020-05-15
+Feminino;Cardiopatia, Doença Neurológica, Doença Renal;Swab;2020-05-14;João Pessoa;63;2020-05-09
+Masculino;Hipertensão;Teste Rápido;2020-06-05;Conde;87;2020-05-11
+Feminino;Diabetes Mellitus;Swab;2020-05-30;João Pessoa;72;2020-05-18
+Feminino;Diabetes Mellitus;Swab;2020-06-04;João Pessoa;74;2020-05-20
+Masculino;Sem Comorbidades;Teste Rápido;2020-06-03;Guarabira;65;2020-05-13
+Feminino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-16;Itabaiana;85;2020-06-10
+Masculino;Sem Comorbidades;Swab;2020-05-01;São Bento;80;2020-04-19
+Masculino;Hipertensão;Teste Rápido;2020-06-13;Mamanguape;60;2020-06-02
+Masculino;Doença Neurológica;Teste Rápido;2020-06-06;Matinhas;86;2020-05-26
+Masculino;Cardiopatia, Tabagismo;Swab;2020-04-24;João Pessoa;71;2020-04-15
+Feminino;Diabetes Mellitus, Cardiopatia;Swab;2020-05-18;Santa Rita;63;2020-05-02
+Masculino;Sem Comorbidades;Swab;2020-05-17;Campina Grande;86;2020-05-05
+Masculino;Cardiopatia, Doença do Aparelho Digestivo;Teste Rápido;2020-04-26;João Pessoa;90;2020-04-16
+Masculino;Diabetes Mellitus;Teste Rápido;2020-05-10;João Pessoa;64;2020-04-30
+Masculino;Diabetes Mellitus;Swab;2020-05-09;Santa Rita;57;2020-05-03
+Feminino;Sem Comorbidades;Swab;2020-05-22;João Pessoa;39;2020-05-01
+Masculino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-06;João Pessoa;59;2020-05-25
+Feminino;Hipertensão;Teste Rápido;2020-05-23;Cajazeiras;84;2020-05-03
+Masculino;Cardiopatia, Doença Respiratória;Teste Rápido;2020-05-25;João Pessoa;72;2020-04-24
+Masculino;Diabetes Mellitus, Obesidade;Swab;2020-05-15;João Pessoa;37;2020-05-02
+Feminino;Hipertensão;Swab;2020-06-09;Patos;81;2020-05-09
+Feminino;Sem Comorbidades;Swab;2020-06-06;Patos;40;2020-06-04
+Masculino;Diabetes Mellitus;Swab;2020-04-30;João Pessoa;83;2020-04-22
+Feminino;Sem Comorbidades;Swab;2020-06-04;Campina Grande;95;2020-06-02
+Masculino;Hipertensão, Cardiopatia;Swab;2020-04-29;Santa Rita;71;2020-04-21
+Feminino;Sem Comorbidades;Swab;2020-04-19;Campina Grande;41;2020-04-08
+Feminino;Hipertensão, Diabetes Mellitus, Doença Neurológica;Swab;2020-06-11;João Pessoa;92;2020-05-31
+Feminino;Sem Comorbidades;Swab;2020-04-21;João Pessoa;67;2020-04-08
+Feminino;Doença Neurológica, Doença Renal, Doenca Hematológica.;Swab;2020-06-24;João Pessoa;91;2020-06-20
+Masculino;Sem Comorbidades;Swab;2020-05-25;Patos;79;2020-05-16
+Masculino;Diabetes Mellitus;Swab;2020-05-21;João Pessoa;78;2020-05-15
+Feminino;Cardiopatia;Teste Rápido;2020-06-11;Guarabira;59;2020-06-01
+Masculino;Diabetes Mellitus, Cardiopatia;Teste Rápido;2020-05-28;Alagoa Grande;91;2020-05-17
+Feminino;Cardiopatia;Swab;2020-06-13;João Pessoa;52;2020-05-25
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-30;Santa Rita;77;2020-05-01
+Masculino;Diabetes Mellitus, Doença Neurológica, Doença Renal, Imunossupressão;Swab;2020-06-09;João Pessoa;84;2020-06-04
+Masculino;Hipertensão;Swab;2020-05-21;Campina Grande;72;2020-05-05
+Feminino;Hipertensão, Diabetes Mellitus, Cardiopatia;Swab;2020-06-08;Santa Rita;68;2020-05-25
+Feminino;Sem Comorbidades;C. Epid.;2020-04-24;São José de Piranhas;67;2020-04-21
+Feminino;Hipertensão, Diabetes Mellitus, Cardiopatia;Swab;2020-06-15;João Pessoa;97;2020-06-03
+Feminino;Sem Comorbidades;Swab;2020-05-20;Campina Grande;91;2020-05-18
+Feminino;Tabagismo;Swab;2020-06-21;Remígio;87;2020-06-15
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-04;Santa Rita;69;2020-04-24
+Masculino;Sem Comorbidades;Swab;2020-04-27;Santa Rita;54;2020-04-20
+Feminino;Diabetes Mellitus, Cardiopatia, Obesidade;Swab;2020-06-16;João Pessoa;68;2020-05-26
+Masculino;Sem Comorbidades;Teste Rápido;2020-06-21;Campina Grande;51;2020-05-30
+Masculino;Sem Comorbidades;Swab;2020-05-29;João Pessoa;76;2020-05-16
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-05-16;Guarabira;81;2020-05-01
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-06-07;Guarabira;59;2020-05-15
+Masculino;Hipertensão;Swab;2020-05-13;Santa Rita;80;2020-05-09
+Masculino;Hipertensão;Swab;2020-05-25;Bayeux;68;2020-05-06
+Masculino;Diabetes Mellitus;Swab;2020-03-31;João Pessoa;84;2020-03-20
+Masculino;Sem Comorbidades;Teste Rápido;2020-06-18;Queimadas;81;2020-06-03
+Feminino;Hipertensão, Doença Respiratória;Swab;2020-06-04;Bayeux;71;2020-05-19
+Masculino;Hipertensão;Swab;2020-06-23;Desterro;73;2020-06-10
+Feminino;Obesidade, Transtorno mental;Swab;2020-04-24;Mari;52;2020-04-21
+Masculino;Sem Comorbidades;Swab;2020-05-15;João Pessoa;83;2020-05-13
+Feminino;Hipertensão;Swab;2020-05-25;Campina Grande;83;2020-04-30
+Feminino;Diabetes Mellitus;Swab;2020-05-22;João Pessoa;45;2020-05-10
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-05-19;Santa Rita;72;2020-05-15
+Masculino;Doença Neurológica;Teste Rápido;2020-06-05;Rio Tinto;76;2020-05-27
+Masculino;Hipertensão;Swab;2020-05-30;Lagoa Seca;68;2020-05-05
+Masculino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-05;João Pessoa;53;2020-05-25
+Masculino;Doença Neurológica;Teste Rápido;2020-05-09;João Pessoa;72;2020-05-05
+Feminino;Outros;Teste Rápido;2020-05-04;João Pessoa;51;2020-04-27
+Masculino;Hipertensão;Teste Rápido;2020-06-13;Mamanguape;65;2020-06-03
+Feminino;Hipertensão;Teste Rápido;2020-05-18;Campina Grande;69;2020-05-13
+Feminino;Hipertensão;Teste Rápido;2020-06-20;Santa Rita;53;2020-06-16
+Feminino;Doença Neurológica;Swab;2020-05-14;Cruz do Espírito Santo;59;2020-05-11
+Feminino;Obesidade;Swab;2020-05-10;Mari;54;2020-05-01
+Masculino;Hipertensão, Diabetes Mellitus, Outros;Swab;2020-06-20;Solânea;77;2020-06-04
+Masculino;Sem Comorbidades;Swab;2020-06-13;Patos;62;2020-05-16
+Feminino;Cardiopatia;Teste Rápido;2020-05-29;Alagoa Grande;43;2020-05-19
+Masculino;Diabetes Mellitus, Doença Hepática;Teste Rápido;2020-05-06;João Pessoa;50;2020-04-20
+Feminino;Diabetes Mellitus, Cardiopatia;Swab;2020-05-07;João Pessoa;47;2020-05-05
+Masculino;Sem Comorbidades;Swab;2020-06-10;Itabaiana;61;2020-05-25
+Masculino;Hipertensão;Teste Rápido;2020-06-05;João Pessoa;76;2020-05-16
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-23;São Bento;78;2020-04-29
+Feminino;Sem Comorbidades;Swab;2020-06-01;João Pessoa;84;2020-05-18
+Masculino;Diabetes Mellitus, Cardiopatia;Swab;2020-05-31;João Pessoa;53;2020-05-27
+Masculino;Diabetes Mellitus;Swab;2020-06-24;Logradouro;75;2020-06-14
+Masculino;Diabetes Mellitus;Swab;2020-05-25;João Pessoa;58;2020-05-15
+Masculino;Outros;Teste Rápido;2020-05-19;Rio Tinto;80;2020-05-05
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-26;Bayeux;61;2020-05-05
+Feminino;Sem Comorbidades;Swab;2020-06-05;Campina Grande;94;2020-05-21
+Masculino;Sem Comorbidades;Teste Rápido;2020-06-02;João Pessoa;46;2020-05-25
+Masculino;Diabetes Mellitus;Swab;2020-05-22;João Pessoa;61;2020-05-03
+Masculino;Diabetes Mellitus;Swab;2020-05-09;Patos;74;2020-04-30
+Feminino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-05-13;João Pessoa;59;2020-05-01
+Feminino;Diabetes Mellitus, Doença Neurológica, Outros;Swab;2020-04-04;Junco do Seridó;86;2020-03-28
+Feminino;Sem Comorbidades;Teste Rápido;2020-06-07;João Pessoa;60;2020-05-09
+Masculino;Diabetes Mellitus, Neoplasia;Swab;2020-06-11;Capim;80;2020-06-09
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-24;João Pessoa;76;2020-05-17
+Masculino;Hipertensão, Diabetes Mellitus, Outros;Swab;2020-05-01;Santa Rita;68;2020-04-25
+Feminino;Hipertensão;Swab;2020-06-06;Catolé do Rocha;84;2020-05-24
+Feminino;Diabetes Mellitus;Swab;2020-06-16;Patos;75;2020-06-13
+Feminino;Diabetes Mellitus, Doença Neurológica;Swab;2020-05-28;São José do Sabugi;84;2020-05-22
+Feminino;Obesidade;Swab;2020-06-21;Condado;50;2020-06-02
+Feminino;Hipertensão;Swab;2020-05-06;Santa Rita;89;2020-04-27
+Feminino;Sem Comorbidades;Swab;2020-04-28;João Pessoa;94;2020-04-06
+Masculino;Obesidade;Teste Rápido;2020-06-21;Campina Grande;68;2020-06-05
+Masculino;Diabetes Mellitus;Swab;2020-05-25;João Pessoa;76;2020-05-10
+Feminino;Diabetes Mellitus;Swab;2020-06-05;Patos;55;2020-05-22
+Masculino;Sem Comorbidades;Swab;2020-05-12;Campina Grande;68;2020-05-01
+Masculino;Diabetes Mellitus, Tabagismo, Outros;Swab;2020-05-22;João Pessoa;78;2020-05-14
+Feminino;Diabetes Mellitus, Doença Renal, Doença Hepática;Swab;2020-05-24;João Pessoa;59;2020-05-17
+Masculino;Diabetes Mellitus;Swab;2020-05-25;Baía da Traição;61;2020-05-06
+Masculino;Hipertensão, Etilismo;Swab;2020-05-04;João Pessoa;45;2020-04-18
+Masculino;Hipertensão;Swab;2020-05-24;João Pessoa;81;2020-04-30
+Masculino;Cardiopatia;Teste Rápido;2020-04-04;Cabedelo;68;2020-03-18
+Feminino;Sem Comorbidades;Swab;2020-05-18;João Pessoa;105;2020-05-13
+Masculino;Hipertensão, Diabetes Mellitus, Cardiopatia;Swab;2020-05-26;João Pessoa;80;2020-05-19
+Masculino;Doença Respiratória;Swab;2020-05-28;Patos;64;2020-05-10
+Feminino;Diabetes Mellitus;Swab;2020-05-18;João Pessoa;82;2020-05-02
+Feminino;Cardiopatia, Doença Respiratória;Swab;2020-06-09;João Pessoa;73;2020-06-04
+Masculino;Sem Comorbidades;Teste Rápido;2020-06-08;Cajazeiras;80;2020-05-23
+Feminino;Hipertensão, Cardiopatia, Doença Respiratória, Outros;Swab;2020-05-30;Campina Grande;88;2020-05-19
+Feminino;Diabetes Mellitus, Doença Respiratória;Swab;2020-05-13;Areial;42;2020-05-04
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-24;Santa Rita;27;2020-05-22
+Masculino;Sem Comorbidades;Swab;2020-05-19;Patos;73;2020-05-08
+Masculino;Diabetes Mellitus;Swab;2020-04-18;Santa Rita;40;2020-04-09
+Masculino;Hipertensão, Doença Renal;Swab;2020-06-12;João Pessoa;89;2020-05-26
+Masculino;Diabetes Mellitus;Swab;2020-05-26;João Pessoa;34;2020-05-05
+Masculino;Hipertensão;Swab;2020-06-12;Pedras de Fogo;78;2020-05-29
+Feminino;Diabetes Mellitus, Cardiopatia, Doença Renal, Doença do Aparelho Digestivo;Teste Rápido;2020-05-14;João Pessoa;67;2020-04-23
+Feminino;Outros;Swab;2020-06-14;Santa Rita;67;2020-05-25
+Feminino;Hipertensão, Diabetes Mellitus, Obesidade;Swab;2020-05-11;Sobrado;49;2020-05-02
+Feminino;Sem Comorbidades;Teste Rápido;2020-06-17;João Pessoa;66;2020-05-30
+Masculino;Sem Comorbidades;Swab;2020-05-25;Campina Grande;43;2020-05-13
+Masculino;Doença Renal, Doença Hepática;Swab;2020-05-04;Santa Rita;43;2020-04-26
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-06-16;Patos;78;2020-05-29
+Masculino;Hipertensão, Cardiopatia, Obesidade, Doença Neurológica, Doença Renal, Outros;Swab;2020-04-22;João Pessoa;50;2020-04-16
+Masculino;Hipertensão;Teste Rápido;2020-06-09;Alagoinha;76;2020-06-08
+Masculino;Doença Hepática;Teste Rápido;2020-06-21;Cuité de Mamanguape;44;2020-06-17
+Masculino;Hipertensão, Diabetes Mellitus, Cardiopatia;Teste Rápido;2020-05-23;João Pessoa;43;2020-04-30
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-04-13;Santa Rita;65;2020-04-11
+Feminino;Hipertensão;Swab;2020-06-05;Campina Grande;84;2020-05-15
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-23;Campina Grande;62;2020-05-05
+Masculino;Sem Comorbidades;Teste Rápido;2020-06-06;Sapé;77;2020-06-04
+Masculino;Sem Comorbidades;Swab;2020-06-05;Mamanguape;55;2020-05-25
+Feminino;Diabetes Mellitus, Cardiopatia, Doença Neurológica, Doença Renal;Swab;2020-04-29;João Pessoa;62;2020-04-26
+Masculino;Hipertensão;Swab;2020-05-15;Campina Grande;83;2020-05-15
+Masculino;Hipertensão, Obesidade;Swab;2020-05-30;Alagoa Nova;47;2020-05-19
+Masculino;Diabetes Mellitus;Teste Rápido;2020-05-28;Bayeux;60;2020-05-25
+Feminino;Diabetes Mellitus, Cardiopatia, Doença Neurológica;Teste Rápido;2020-06-24;Rio Tinto;89;2020-06-17
+Feminino;Diabetes Mellitus;Swab;2020-05-05;Santa Rita;73;2020-04-28
+Feminino;Doença Neurológica, Neoplasia;Teste Rápido;2020-06-23;Cajazeiras;55;2020-05-16
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-21;João Pessoa;35;2020-04-24
+Masculino;Hipertensão;Swab;2020-05-28;Campina Grande;68;2020-05-23
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-05-12;João Pessoa;79;2020-05-11
+Masculino;Diabetes Mellitus;Swab;2020-06-11;Mulungu;49;2020-05-21
+Masculino;Cardiopatia, Obesidade;Swab;2020-05-24;Patos;69;2020-05-02
+Feminino;Sem Comorbidades;Swab;2020-05-11;Sousa;67;2020-04-29
+Feminino;Cardiopatia;Teste Rápido;2020-06-04;João Pessoa;70;2020-05-03
+Feminino;Hipertensão, Cardiopatia;Swab;2020-06-01;Campina Grande;95;2020-05-20
+Masculino;Sem Comorbidades;Swab;2020-05-17;Pitimbu;44;2020-04-30
+Masculino;Hipertensão;Swab;2020-05-30;Fagundes;89;2020-05-09
+Masculino;Hipertensão, Doença Neurológica;Swab;2020-05-17;João Pessoa;88;2020-05-01
+Feminino;Sem Comorbidades;Swab;2020-05-23;Bayeux;73;2020-05-15
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-09;Patos;66;2020-04-29
+Feminino;Sem Comorbidades;Teste Rápido;2020-05-15;Patos;73;2020-05-09
+Masculino;Sem Comorbidades;Teste Rápido;2020-06-10;Cruz do Espírito Santo;72;2020-05-28
+Feminino;Diabetes Mellitus;Swab;2020-04-12;João Pessoa;84;2020-04-05
+Feminino;Diabetes Mellitus;Swab;2020-05-18;João Pessoa;75;2020-04-28
+Feminino;Sem Comorbidades;Teste Rápido;2020-06-06;Sapé;75;2020-06-01
+Feminino;Hipertensão;Teste Rápido;2020-06-20;Santa Rita;91;2020-06-02
+Feminino;Diabetes Mellitus;Teste Rápido;2020-06-17;Guarabira;48;2020-06-10
+Masculino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-05-12;Piancó;64;2020-05-05
+Masculino;Diabetes Mellitus, Cardiopatia;Swab;2020-05-12;João Pessoa;37;2020-05-06
+Masculino;Hipertensão;Teste Rápido;2020-06-06;Guarabira;79;2020-05-07
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-05-30;João Pessoa;87;2020-05-22
+Masculino;Diabetes Mellitus, Cardiopatia;Swab;2020-05-13;Campina Grande;65;2020-05-03
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-05-07;João Pessoa;69;2020-04-25
+Masculino;Hipertensão, Diabetes Mellitus, Doença Renal, Doença Respiratória;Teste Rápido;2020-06-18;João Pessoa;73;2020-05-23
+Masculino;Diabetes Mellitus, Cardiopatia;Teste Rápido;2020-05-25;São Bento;70;2020-05-09
+Feminino;Hipertensão, Doença Renal, Doença Hepática;Swab;2020-06-03;Pitimbu;63;2020-05-21
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-13;Caaporã;79;2020-04-29
+Masculino;Hipertensão, Doença Renal;Swab;2020-05-10;Bayeux;86;2020-04-17
+Masculino;Diabetes Mellitus;Teste Rápido;2020-05-26;João Pessoa;72;2020-05-16
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-04-27;Santa Rita;72;2020-04-19
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-06-17;Catolé do Rocha;83;2020-05-27
+Feminino;Hipertensão, Doença Neurológica;Swab;2020-06-15;Cachoeira dos Índios;77;2020-05-26
+Feminino;Sem Comorbidades;Swab;2020-06-01;Campina Grande;71;2020-05-13
+Feminino;Hipertensão;Swab;2020-06-02;Bayeux;94;2020-05-31
+Feminino;Sem Comorbidades;Swab;2020-06-03;João Pessoa;65;2020-05-30
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-23;João Pessoa;57;2020-05-10
+Masculino;Sem Comorbidades;Swab;2020-05-14;João Pessoa;72;2020-05-10
+Feminino;Sem Comorbidades;Swab;2020-05-28;João Pessoa;84;2020-05-20
+Masculino;Cardiopatia;Teste Rápido;2020-06-04;Santa Rita;77;2020-05-20
+Masculino;Cardiopatia;Swab;2020-05-09;Campina Grande;74;2020-05-04
+Masculino;Hipertensão;Swab;2020-05-25;Caaporã;86;2020-05-23
+Masculino;Diabetes Mellitus, Imunossupressão;Teste Rápido;2020-05-07;São Bento;69;2020-04-26
+Feminino;Sem Comorbidades;Swab;2020-06-08;Cabedelo;59;2020-05-29
+Masculino;Cardiopatia;Swab;2020-05-24;Pilar;90;2020-05-20
+Masculino;Diabetes Mellitus, Cardiopatia;Teste Rápido;2020-06-23;Santa Cruz;83;2020-06-01
+Feminino;Sem Comorbidades;Swab;2020-06-09;Patos;56;2020-06-04
+Masculino;Hipertensão, Cardiopatia;Teste Rápido;2020-06-22;Pirpirituba;68;2020-06-13
+Masculino;Cardiopatia;Swab;2020-05-17;Campina Grande;41;2020-05-04
+Feminino;Diabetes Mellitus;Swab;2020-05-26;João Pessoa;68;2020-05-11
+Feminino;Diabetes Mellitus, Cardiopatia;Swab;2020-05-09;João Pessoa;72;2020-05-07
+Masculino;Sem Comorbidades;Teste Rápido;2020-05-17;João Pessoa;39;2020-05-10
+Feminino;Sem Comorbidades;Swab;2020-05-16;Santa Rita;37;2020-05-09
+Feminino;Diabetes Mellitus;Teste Rápido;2020-05-20;João Pessoa;67;2020-05-10
+Feminino;Diabetes Mellitus;Teste Rápido;2020-05-13;João Pessoa;56;2020-05-01
+Masculino;Hipertensão;Teste Rápido;2020-05-18;Guarabira;84;2020-05-08
+Feminino;Sem Comorbidades;Swab;2020-06-04;Dona Inês;68;2020-05-22
+Masculino;Hipertensão, Diabetes Mellitus, Doença Neurológica, Tabagismo, Etilismo;Swab;2020-06-04;João Pessoa;80;2020-05-20
+Feminino;Sem Comorbidades;Swab;2020-06-08;Cabedelo;41;2020-06-01
+Feminino;Sem Comorbidades;Swab;2020-05-18;Campina Grande;58;2020-05-06
+Masculino;Diabetes Mellitus, Cardiopatia, Imunossupressão;Swab;2020-05-24;João Pessoa;67;2020-04-27
+Masculino;Sem Comorbidades;Swab;2020-06-10;Campina Grande;56;2020-05-17
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-22;Areia;64;2020-05-05
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-27;João Pessoa;56;2020-05-17
+Feminino;Sem Comorbidades;Swab;2020-05-30;Puxinanã;72;2020-05-22
+Feminino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-04;João Pessoa;77;2020-05-21
+Masculino;Sem Comorbidades;Swab;2020-05-19;Gurjão;74;2020-05-16
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-05-19;Pitimbu;82;2020-05-15
+Masculino;Sem Comorbidades;Swab;2020-05-12;Serraria;57;2020-05-02
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-05-21;Patos;58;2020-05-18
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-09;João Pessoa;74;2020-05-02
+Masculino;Hipertensão;Swab;2020-05-10;Cruz do Espírito Santo;48;2020-04-25
+Masculino;Sem Comorbidades;Swab;2020-04-24;Santa Rita;37;2020-04-19
+Masculino;Cardiopatia;Swab;2020-06-15;Cachoeira dos Índios;79;2020-06-07
+Feminino;Diabetes Mellitus;Teste Rápido;2020-05-29;Bayeux;89;2020-05-10
+Feminino;Hipertensão;Teste Rápido;2020-05-31;Guarabira;70;2020-05-07
+Feminino;Hipertensão, Diabetes Mellitus, Cardiopatia;Swab;2020-05-11;São Miguel de Taipu;66;2020-05-05
+Masculino;Hipertensão;Teste Rápido;2020-06-05;Bayeux;73;2020-05-10
+Feminino;Cardiopatia;Swab;2020-06-01;João Pessoa;87;2020-05-28
+Masculino;Hipertensão, Diabetes Mellitus;Swab;2020-05-28;João Pessoa;84;2020-05-16
+Masculino;Doença Respiratória;Swab;2020-06-02;Campina Grande;72;2020-05-12
+Feminino;Sem Comorbidades;Swab;2020-05-16;João Pessoa;82;2020-05-14
+Masculino;Diabetes Mellitus;Teste Rápido;2020-05-25;Campina Grande;50;2020-05-21
+Masculino;Diabetes Mellitus, Cardiopatia;Teste Rápido;2020-06-14;Monteiro;89;2020-05-23
+Feminino;Hipertensão;Swab;2020-06-03;Jacaraú;76;2020-05-30
+Feminino;Cardiopatia, Doença Neurológica, Doença Renal;Swab;2020-04-28;Alhandra;61;2020-04-26
+Masculino;Sem Comorbidades;Swab;2020-06-02;João Pessoa;83;2020-05-20
+Masculino;Cardiopatia;Teste Rápido;2020-06-01;João Pessoa;55;2020-05-18
+Masculino;Sem Comorbidades;Swab;2020-05-28;João Pessoa;30;2020-05-06
+Masculino;Sem Comorbidades;Swab;2020-05-18;Patos;55;2020-05-07
+Masculino;Sem Comorbidades;Swab;2020-05-28;Fagundes;82;2020-05-11
+Feminino;Sem Comorbidades;Swab;2020-05-22;Campina Grande;68;2020-05-18
+Feminino;Sem Comorbidades;Swab;2020-05-25;Campina Grande;62;2020-05-20
+Masculino;Cardiopatia;Teste Rápido;2020-05-27;Mamanguape;76;2020-05-22
+Masculino;Sem Comorbidades;Swab;2020-06-08;Patos;98;2020-05-29
+Feminino;Hipertensão, Cardiopatia;Teste Rápido;2020-06-14;Mataraca;67;2020-06-07
+Masculino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-11;Alhandra;77;2020-05-29
+Feminino;Hipertensão;Swab;2020-05-01;Patos;67;2020-04-26
+Feminino;Diabetes Mellitus, Cardiopatia, Doença Neurológica;Swab;2020-05-26;Alagoa Grande;94;2020-05-15
+Masculino;Outros;Teste Rápido;2020-05-26;João Pessoa;77;2020-05-18
+Masculino;Cardiopatia;Swab;2020-05-31;Campina Grande;80;2020-05-19
+Feminino;Sem Comorbidades;Swab;2020-05-08;Santa Rita;86;2020-05-01
+Masculino;Sem Comorbidades;Swab;2020-05-14;João Pessoa;69;2020-04-28
+Masculino;Hipertensão, Diabetes Mellitus, Obesidade;Teste Rápido;2020-05-29;João Pessoa;72;2020-05-25
+Feminino;Hipertensão;Swab;2020-06-04;João Pessoa;41;2020-05-24
+Feminino;Sem Comorbidades;Swab;2020-05-02;Bayeux;70;2020-04-25
+Feminino;Cardiopatia;Swab;2020-05-21;Santa Rita;79;2020-05-10
+Masculino;Sem Comorbidades;Swab;2020-04-25;Santa Rita;79;2020-04-25
+Masculino;Diabetes Mellitus;Swab;2020-06-10;João Pessoa;76;2020-06-01
+Feminino;Hipertensão;Swab;2020-06-22;Mulungu;75;2020-06-10
+Feminino;Outros;Swab;2020-06-08;Patos;91;2020-06-03
+Feminino;Hipertensão, Diabetes Mellitus, Doença Neurológica, Imunossupressão;Swab;2020-05-20;João Pessoa;92;2020-05-05
+Masculino;Cardiopatia;Teste Rápido;2020-06-02;João Pessoa;73;2020-05-15
+Feminino;Cardiopatia, Obesidade, Doença Respiratória;Swab;2020-05-01;Santa Rita;80;2020-04-24
+Feminino;Hipertensão, Cardiopatia;Teste Rápido;2020-06-21;Cajazeiras;50;2020-05-31
+Feminino;Hipertensão, Diabetes Mellitus;Swab;2020-06-04;Santa Luzia;86;2020-05-14
+Feminino;Sem Comorbidades;Swab;2020-06-06;Pedras de Fogo;45;2020-06-03
+Masculino;Hipertensão, Diabetes Mellitus;Teste Rápido;2020-06-03;São Bento;48;2020-05-25
