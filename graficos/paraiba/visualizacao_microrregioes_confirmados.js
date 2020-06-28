@@ -37,7 +37,7 @@ var viewMicrorregioesConfirmados = {
 			"title": "Confirmados acumulados",
 			"scale": {
 				"type":"threshold",
-				"domain" : [1, 100, 250, 500, 1000, 2000],
+				"domain" : [1, 1000, 2000, 3000, 4000, 5000],
 				"range": ["#F0F0F0", "#FFBD00", "#FF5400", "#FF0054", "#9E0059", "#390099","#000000"]
 			},
 			"legend": {

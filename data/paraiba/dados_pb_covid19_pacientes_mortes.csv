@@ -859,7 +859,39 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 858,feminino,96,Mataraca,LITORAL NORTE,2020-05-28,,,,2020-06-24,2020-06-26,hospital público
 859,masculino,86,Matinhas,BREJO PARAIBANO,2020-05-26,,,,2020-06-06,2020-06-26,hospital público
 860,feminino,71,Piancó,PIANCO,2020-06-06,,,,2020-06-25,2020-06-26,hospital público
-861,feminino,79,Queimadas,CAMPINA GRANDE,2020-05-22,,,,2020-06-25,2020-05-25,hospital público
-862,feminino,47,Santa Rita,JOAO PESSOA,2020-05-31,,,,2020-06-02,2020-05-25,hospital público
-863,masculino,77,Santa Rita,JOAO PESSOA,2020-05-20,,,,2020-06-04,2020-05-25,hospital público
-864,feminino,55,Sousa,SOUSA,2020-06-02,,,,2020-06-23,2020-05-25,hospital público
+861,feminino,79,Queimadas,CAMPINA GRANDE,2020-05-22,,,,2020-06-25,2020-05-26,hospital público
+862,feminino,47,Santa Rita,JOAO PESSOA,2020-05-31,,,,2020-06-02,2020-05-26,hospital público
+863,masculino,77,Santa Rita,JOAO PESSOA,2020-05-20,,,,2020-06-04,2020-05-26,hospital público
+864,feminino,55,Sousa,SOUSA,2020-06-02,,,,2020-06-23,2020-05-26,hospital público
+865,feminino,46,Alhandra,LITORAL SUL,2020-06-21,,,,2020-06-23,2020-05-27,hospital público
+866,masculino,57,Cabedelo,JOAO PESSOA,2020-06-15,,,,2020-06-24,2020-05-27,hospital público
+867,masculino,54,Cabedelo,JOAO PESSOA,2020-06-01,,,,2020-06-10,2020-05-27,hospital público
+868,masculino,71,Cabedelo,JOAO PESSOA,2020-05-16,,,,2020-06-11,2020-05-27,hospital público
+869,masculino,72,Cajazeiras,CAJAZEIRAS,2020-06-02,,,,2020-06-17,2020-05-27,hospital público
+870,feminino,57,Campina Grande,CAMPINA GRANDE,2020-06-04,,,,2020-06-19,2020-05-27,hospital público
+871,masculino,43,Campina Grande,CAMPINA GRANDE,2020-05-10,,,,2020-06-19,2020-05-27,hospital público
+872,feminino,73,Campina Grande,CAMPINA GRANDE,2020-06-01,,,,2020-06-10,2020-05-27,hospital público
+873,feminino,80,Campina Grande,CAMPINA GRANDE,2020-06-01,,,,2020-06-02,2020-05-27,hospital público
+874,feminino,83,Campina Grande,CAMPINA GRANDE,2020-05-09,,,,2020-05-19,2020-05-27,hospital público
+875,feminino,72,Campina Grande,CAMPINA GRANDE,2020-06-13,,,,2020-06-23,2020-05-27,hospital público
+876,feminino,80,Campina Grande,CAMPINA GRANDE,2020-06-15,,,,2020-06-21,2020-05-27,hospital público
+877,feminino,65,Casserengue,CURIMATAU ORIENTAL,2020-06-01,,,,2020-06-18,2020-05-27,hospital público
+878,masculino,54,Guarabira,GUARABIRA,2020-05-29,,,,2020-06-10,2020-05-27,hospital público
+879,masculino,89,João Pessoa,JOAO PESSOA,2020-06-02,,,,2020-06-25,2020-05-27,hospital público
+880,masculino,90,João Pessoa,JOAO PESSOA,2020-06-06,,,,2020-06-15,2020-05-27,hospital privado
+881,feminino,83,João Pessoa,JOAO PESSOA,2020-05-22,,,,2020-06-14,2020-05-27,hospital público
+882,masculino,89,João Pessoa,JOAO PESSOA,2020-06-12,,,,2020-06-22,2020-05-27,hospital público
+883,masculino,24,João Pessoa,JOAO PESSOA,2020-05-11,,,,2020-06-19,2020-05-27,hospital privado
+884,masculino,57,João Pessoa,JOAO PESSOA,2020-05-26,,,,2020-06-09,2020-05-27,hospital público
+885,masculino,54,João Pessoa,JOAO PESSOA,2020-05-20,,,,2020-06-11,2020-05-27,hospital público
+886,masculino,66,João Pessoa,JOAO PESSOA,2020-06-04,,,,2020-06-26,2020-05-27,hospital público
+887,feminino,59,João Pessoa,JOAO PESSOA,2020-06-11,,,,2020-06-27,2020-05-27,hospital público
+888,masculino,58,João Pessoa,JOAO PESSOA,2020-06-14,,,,2020-06-26,2020-05-27,hospital público
+889,masculino,83,Logradouro,GUARABIRA,2020-05-26,,,,2020-06-09,2020-05-27,hospital público
+890,masculino,77,Mamanguape,LITORAL NORTE,2020-04-13,,,,2020-06-17,2020-05-27,hospital público
+891,masculino,72,Santa Rita,JOAO PESSOA,2020-05-26,,,,2020-06-22,2020-05-27,hospital público
+892,masculino,58,Santa Rita,JOAO PESSOA,2020-05-10,,,,2020-05-26,2020-05-27,hospital público
+893,masculino,82,Santa Rita,JOAO PESSOA,2020-05-10,,,,2020-05-25,2020-05-27,hospital público
+894,feminino,61,Sapé,SAPE,2020-05-28,,,,2020-06-27,2020-05-27,hospital público
+895,feminino,30,Soledade,CURIMATAU OCIDENTAL,2020-05-23,,,,2020-06-18,2020-05-27,hospital público
+896,feminino,85,Umbuzeiro,UMBUZEIRO,2020-06-07,,,,2020-06-26,2020-05-27,hospital público
