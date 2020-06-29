@@ -895,3 +895,18 @@ id,sexo,idade,cidade,microrregiao,dataDoInicioDosSintomas,dataDeInternacao,dataE
 894,feminino,61,Sapé,SAPE,2020-05-28,,,,2020-06-27,2020-05-27,hospital público
 895,feminino,30,Soledade,CURIMATAU OCIDENTAL,2020-05-23,,,,2020-06-18,2020-05-27,hospital público
 896,feminino,85,Umbuzeiro,UMBUZEIRO,2020-06-07,,,,2020-06-26,2020-05-27,hospital público
+897,feminino,73,Alagoa Nova,BREJO PARAIBANO,2020-06-09,,,,2020-06-14,2020-05-28,hospital público
+898,feminino,48,Bayeux,JOAO PESSOA,2020-06-16,,,,2020-06-23,2020-05-28,hospital público
+899,masculino,71,Cajazeiras,CAJAZEIRAS,2020-06-10,,,,2020-06-27,2020-05-28,hospital público
+900,feminino,66,Campina Grande,CAMPINA GRANDE,2020-05-27,,,,2020-06-22,2020-05-28,hospital público
+901,masculino,72,Campina Grande,CAMPINA GRANDE,2020-05-20,,,,2020-06-11,2020-05-28,hospital público
+902,masculino,84,Campina Grande,CAMPINA GRANDE,2020-05-15,,,,2020-06-08,2020-05-28,hospital público
+903,feminino,53,Campina Grande,CAMPINA GRANDE,2020-05-31,,,,2020-06-25,2020-05-28,hospital público
+904,masculino,53,Guarabira,GUARABIRA,2020-06-16,,,,2020-06-27,2020-05-28,hospital público
+905,masculino,84,João Pessoa,JOAO PESSOA,2020-05-27,,,,2020-06-19,2020-05-28,hospital público
+906,masculino,93,João Pessoa,JOAO PESSOA,2020-06-05,,,,2020-06-19,2020-05-28,residência
+907,feminino,87,João Pessoa,JOAO PESSOA,2020-06-05,,,,2020-06-19,2020-05-28,hospital público
+908,masculino,72,João Pessoa,JOAO PESSOA,2020-05-11,,,,2020-06-14,2020-05-28,hospital público
+909,feminino,84,João Pessoa,JOAO PESSOA,2020-06-05,,,,2020-06-11,2020-05-28,hospital público
+910,feminino,77,Rio Tinto,LITORAL NORTE,2020-06-19,,,,2020-06-23,2020-05-28,hospital público
+911,feminino,74,Santa Rita,JOAO PESSOA,2020-06-02,,,,2020-06-12,2020-05-28,residência
