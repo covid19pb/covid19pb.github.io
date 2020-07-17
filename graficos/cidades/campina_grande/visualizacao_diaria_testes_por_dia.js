@@ -61,22 +61,25 @@ var viewDiariaTestesPorDia = {
       }
     },
     {
-      "mark": "rule",
+      "mark": "line",
       "encoding": {
         "y": {
-          "field": "testesPorDia",
-          "type": "quantitative",
-          "aggregate": "mean"
+          "field": "media_movel",
+          "type": "quantitative"
+        },
+        "x": {
+          "type": "temporal",
+          "field": "data",
+          "timeUnit": "monthdate"
         },
         "color": {"value": "red"},
         "size": {"value": 3},
         "tooltip": [
           {
-            "field": "testesPorDia",
+            "field": "media_movel",
             "type": "quantitative",
-            "aggregate": "mean",
             "format": ".2f",
-            "title": "Média de testes de covid-19"
+            "title": "Média móvel de testes de covid-19"
           }
         ]
       }
@@ -95,6 +98,15 @@ var viewDiariaTestesPorDia = {
       {
         "calculate": "if((datum.key === 'mortesAcumuladas'),'Mortes acumuladas',datum.key)",
         "as": "key"
+      },
+      {
+          "window": [
+            {
+              "field": "testesPorDia",
+              "op": "mean",
+              "as": "media_movel"
+            }
+          ]
       }
     ]
 };

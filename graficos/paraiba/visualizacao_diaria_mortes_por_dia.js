@@ -62,22 +62,26 @@ var viewDiariaMortesPorDia = {
         }
     },
     {
-      "mark": "rule",
+      "mark": "line",
       "encoding": {
         "y": {
-          "field": "mortesPorDia",
-          "type": "quantitative",
-          "aggregate": "mean"
+          "field": "media_movel",
+          "type": "quantitative"
         },
+        "x": {
+              "type": "temporal",
+              "field": "data",
+              "timeUnit": "monthdate"
+          },
         "color": {"value": "black"},
-        "size": {"value": 3},
+        "size": {"value": 4},
         "tooltip": [
           {
-            "field": "mortesPorDia",
+            "field": "media_movel",
             "type": "quantitative",
             "aggregate": "mean",
             "format": ".2f",
-            "title": "Média de mortes diárias"
+            "title": "Média móvel de mortes diárias"
           }
         ]
       }
@@ -100,6 +104,15 @@ var viewDiariaMortesPorDia = {
         {
             "calculate": "datum.mortesAcumuladas / datum.confirmadosAcumulados", 
             "as": "taxa_letalidade"
+        },
+        {
+          "window": [
+            {
+              "field": "mortesPorDia",
+              "op": "mean",
+              "as": "media_movel"
+            }
+          ]
         }
     ]
 };
