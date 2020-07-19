@@ -113,6 +113,15 @@ data,classificacao,faixa_etaria,feminino,masculino,total,ultima_atualizacao
 2020-07-10,confirmados,60 a 69,2380,2044,4424,False
 2020-07-10,confirmados,70 a 79,1404,1145,2549,False
 2020-07-10,confirmados,80 ou mais,978,741,1719,False
+2020-07-13,confirmados,00 a 09,761,753,1514,False
+2020-07-13,confirmados,10 a 09,1749,1476,3225,False
+2020-07-13,confirmados,20 a 29,5728,4905,10633,False
+2020-07-13,confirmados,30 a 39,8135,7114,15249,False
+2020-07-13,confirmados,40 a 49,6961,5716,12677,False
+2020-07-13,confirmados,50 a 59,4772,4042,8814,False
+2020-07-13,confirmados,60 a 69,2465,2127,4592,False
+2020-07-13,confirmados,70 a 79,1447,1189,2636,False
+2020-07-13,confirmados,80 ou mais,1010,758,1768,False
 2020-07-17,confirmados,00 a 09,846,849,1695,True
 2020-07-17,confirmados,10 a 09,1953,1625,3578,True
 2020-07-17,confirmados,20 a 29,6251,5282,11533,True
