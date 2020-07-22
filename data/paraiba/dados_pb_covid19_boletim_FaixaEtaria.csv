@@ -67,7 +67,7 @@ data,classificacao,faixa_etaria,feminino,masculino,total,ultima_atualizacao
 2020-06-26,confirmados,50 a 59,3316,2862,6178,False
 2020-06-26,confirmados,60 a 69,1677,1463,3140,False
 2020-06-26,confirmados,70 a 79,967,842,1809,False
-2020-07-01,confirmados,80 ou mais,711,539,1250,False
+2020-06-26,confirmados,80 ou mais,711,539,1250,False
 2020-07-01,confirmados,00 a 09,564,574,1138,False
 2020-07-01,confirmados,10 a 09,1263,1097,2360,False
 2020-07-01,confirmados,20 a 29,4497,3878,8375,False
@@ -915,7 +915,7 @@ data,classificacao,faixa_etaria,feminino,masculino,total,ultima_atualizacao
 2020-07-17,mortos,50 a 59,63,124,187,False
 2020-07-17,mortos,60 a 69,118,167,285,False
 2020-07-17,mortos,70 a 79,136,183,319,False
-2020-07-,mortos,80 ou mais,222,227,449,False
+2020-07-20,mortos,80 ou mais,222,227,449,False
 2020-07-20,mortos,00 a 19,3,6,9,True
 2020-07-20,mortos,20 a 29,10,13,23,True
 2020-07-20,mortos,30 a 39,19,42,61,True
