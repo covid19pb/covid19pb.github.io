@@ -28,7 +28,7 @@ var viewMicrorregioesConfirmados = {
 	}],
 	"mark": {
 		"type": "geoshape",
-		"stroke": "black"
+		"stroke": "white"
 	},
 	"encoding": {
 		"color": {

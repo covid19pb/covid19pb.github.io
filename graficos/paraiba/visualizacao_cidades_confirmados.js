@@ -28,7 +28,7 @@ var viewCidadesConfirmados = {
 	}],
 	"mark": {
 		"type": "geoshape",
-		"stroke": "black"
+		"stroke": "white"
 	},
 	"encoding": {
 		"color": {

@@ -28,7 +28,7 @@ var viewMicrorregioesMortes = {
 	}],
 	"mark": {
 		"type": "geoshape",
-		"stroke": "black"
+		"stroke": "white"
 	},
 	"encoding": {
 		"color": {
