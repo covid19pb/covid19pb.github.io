@@ -1,5 +1,6 @@
 epidemiological_week,date,order_for_place,state,city,city_ibge_code,place_type,last_available_confirmed,last_available_confirmed_per_100k_inhabitants,new_confirmed,last_available_deaths,new_deaths,last_available_death_rate,estimated_population_2019,is_last,is_repeated
-32,2020-08-04,146,PB,,25,state,85760,2134.32776,1549,1901,31,0.0222,4018127,True,False
+32,2020-08-05,147,PB,,25,state,87071,2166.9549,1311,1922,21,0.0221,4018127,True,False
+32,2020-08-04,146,PB,,25,state,85760,2134.32776,1549,1901,31,0.0222,4018127,False,False
 32,2020-08-03,145,PB,,25,state,84211,2095.77746,203,1870,20,0.0222,4018127,False,False
 32,2020-08-02,144,PB,,25,state,84008,2090.72536,547,1850,17,0.022,4018127,False,False
 31,2020-08-01,143,PB,,25,state,83461,2077.11205,667,1833,22,0.022,4018127,False,False
